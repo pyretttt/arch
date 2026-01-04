@@ -16,9 +16,9 @@
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
                 "page": 38,
-                "left": -49,
-                "top": 709,
-                "zoom": 1.25
+                "left": -114,
+                "top": 295,
+                "zoom": 1.28
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 326.5,
+    "collapsed": true
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -198,6 +199,8 @@
   },
   "active": "5a935c38c4d1f620",
   "lastOpenFiles": [
+    "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Render_and_Export_3D_Model_PageSources.framework/Versions/A/Resources/Info.plist",
     "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Import_Train_PageSources.framework/Versions/A/Resources/Info.plist",
     "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/train.usd",
@@ -207,8 +210,6 @@
     "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/Info.plist",
     "gamedev/met-materials-3.0.0/02-3d-models/projects/challenge/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Render_and_Export_3D_Model_PageSources.framework/Versions/A/Resources/Info.plist",
     "gamedev/met-materials-3.0.0/02-3d-models/projects/challenge/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Import_Train_PageSources.framework/Versions/A/Resources/Info.plist",
-    "gamedev/met-materials-3.0.0/02-3d-models/projects/challenge/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/train.usd",
-    "gamedev/met-materials-3.0.0/02-3d-models/projects/challenge/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/train.obj",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock1-color.textureset/Universal.mipmapset/rock1-color.png",
@@ -225,7 +226,6 @@
     "gamedev/met-materials-3.0.0/21-image-based-lighting/projects/resources/Specular/Notes.md",
     "gamedev/met-materials-3.0.0/21-image-based-lighting/projects/resources/IrradianceGenerator/Notes.md",
     "gamedev/met-materials-3.0.0/README.md",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/text.md",
     "Boot.md"
   ]

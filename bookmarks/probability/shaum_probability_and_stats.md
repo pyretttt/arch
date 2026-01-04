@@ -24,6 +24,19 @@ _(A)_ We care only about how people are arranged to each other, so that if move 
 _(b)_ We know that there're $120$ ways to arrange 6 person. Let merge two women into 1 therefore there $4!$ to arrange remaining $5$ persons and $2$ to permute order of this merged woman. Therefore we have $120 - 4! \cdot 2 = 72$ ways to do so. 
 
 _(C)_. Let's also fix one man somewhere, it doesn't matter, let say at index $i$. Then there're $2!$ ways to arrange men at indices $i + 2, i + 4$ and $3!$ ways to arrange women at indices $i + 1, i + 3, i+5$ resulting in total $3! 2! = 12$ ways.
-$$
+***
 
-$$
+[[shaum_probability_and_stats.pdf#page=38&selection=87,0,91,1|Find the number of (a) combinations and (b) permutations of 4 letters each that can be made from the letters of the word Tennessee.]]
+
+Part _(a)_ is trivial. There's $1$ way to pick all the same letters _(eeee)_. There're 3 ways to pick 3 same letters and 1 different _(eeet, eees, eeen)_. There're 9 ways to pick 2 same and 2 diff _(eest, eesn, eetn, sset, ssen, sstn, ...)_. There're 3 ways to pick 2 same and another pair _(eenn, eess, ssnn)_. And there 1 ways to pick all different. Hence
+$$\begin{align}
+1 + 3 + 9 + 3 + 1 = 17
+\end{align}$$
+
+Part _(b)_. Let's permute combinations from part _(a)_. There're 1 way to permute all the same letters. There're $4$ ways to permute $3$ same letter and 1 different, so we have $3 \cdot 4 = 12$ arrangements. There're $4 \cdot 3$ ways to permute 2 same and 2 different letters, thereof $12 \cdot 9 = 108$ arrangements. There're $\frac{4!}{2!2!}$ ways to permute 2 same and another two same letters, thereof $6 \cdot 3 = 18$ total arrangements. And $4$ different letters can be arranged in $4! = 24$ ways. Hence
+$$\begin{align}
+1 + 12 + 108 + 18 + 24 = 163
+\end{align}$$
+
+**Bookmark**: [[shaum_probability_and_stats.pdf#page=38&selection=177,0,180,10|1.81. Find the probability of scoring a total of 7 points (a) once, (b) at least once, (c) twice, in 2 tosses of a pair of fair dice.]]
+

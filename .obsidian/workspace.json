@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "81e63e64e48673d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9da254a1829651a",
+        "type": "tabs",
+        "dimension": 75.1187648456057,
+        "children": [
+          {
+            "id": "11f78664a458db91",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "probability/shaum_probability_and_stats.pdf",
+                "page": 38,
+                "left": -49,
+                "top": 709,
+                "zoom": 1.25
+              },
+              "icon": "lucide-file-text",
+              "title": "shaum_probability_and_stats"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b324cf43c3c01571",
+        "type": "tabs",
+        "dimension": 24.8812351543943,
+        "children": [
+          {
+            "id": "5a935c38c4d1f620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shaum_probability_and_stats"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "848f2e5dd1c81d23",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7533babf7b7b0aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6793c86be5cd9eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8cae4d00a9f1907",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a70354c3a099ad40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "right": {
+    "id": "6835bb1ade82e76c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d7cff9678870fa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "050d0c6abcc4c676",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "18d285c40cb5167a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "applied-linear-algebra-and-differential-equations.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from applied-linear-algebra-and-differential-equations"
+            }
+          },
+          {
+            "id": "a6bbae7ac0443363",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e1e5345918a08f2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "5a935c38c4d1f620",
+  "lastOpenFiles": [
+    "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Render_and_Export_3D_Model_PageSources.framework/Versions/A/Resources/Info.plist",
+    "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Import_Train_PageSources.framework/Versions/A/Resources/Info.plist",
+    "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/train.usd",
+    "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/train.obj",
+    "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/train.mtl",
+    "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/License.txt",
+    "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/Info.plist",
+    "gamedev/met-materials-3.0.0/02-3d-models/projects/challenge/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Render_and_Export_3D_Model_PageSources.framework/Versions/A/Resources/Info.plist",
+    "gamedev/met-materials-3.0.0/02-3d-models/projects/challenge/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Import_Train_PageSources.framework/Versions/A/Resources/Info.plist",
+    "gamedev/met-materials-3.0.0/02-3d-models/projects/challenge/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/train.usd",
+    "gamedev/met-materials-3.0.0/02-3d-models/projects/challenge/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/train.obj",
+    "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
+    "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",
+    "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock1-color.textureset/Universal.mipmapset/rock1-color.png",
+    "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/grass/grass07.textureset/Universal.mipmapset/grass07.png",
+    "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/grass/grass06.textureset/Universal.mipmapset/grass06.png",
+    "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/grass/grass05.textureset/Universal.mipmapset/grass05.png",
+    "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/grass/grass04.textureset/Universal.mipmapset/grass04.png",
+    "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/grass/grass03.textureset/Universal.mipmapset/grass03.png",
+    "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/grass/grass02.textureset/Universal.mipmapset/grass02.png",
+    "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/grass/grass01.textureset/Universal.mipmapset/grass01.png",
+    "gamedev/met-materials-3.0.0/21-image-based-lighting/projects/starter/Environment/Shared/Models/License.md",
+    "gamedev/met-materials-3.0.0/21-image-based-lighting/projects/final/Environment/Shared/Models/License.md",
+    "gamedev/met-materials-3.0.0/21-image-based-lighting/projects/challenge/Environment/Shared/Models/License.md",
+    "gamedev/met-materials-3.0.0/21-image-based-lighting/projects/resources/Specular/Notes.md",
+    "gamedev/met-materials-3.0.0/21-image-based-lighting/projects/resources/IrradianceGenerator/Notes.md",
+    "gamedev/met-materials-3.0.0/README.md",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "bookmarks/text.md",
+    "Boot.md"
+  ]
+}

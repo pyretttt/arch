@@ -38,5 +38,4 @@ $$\begin{align}
 1 + 12 + 108 + 18 + 24 = 163
 \end{align}$$
 
-**Bookmark**: [[shaum_probability_and_stats.pdf#page=38&selection=177,0,180,10|1.81. Find the probability of scoring a total of 7 points (a) once, (b) at least once, (c) twice, in 2 tosses of a pair of fair dice.]]
-
+**Next to solve:** [[shaum_probability_and_stats.pdf#page=39&selection=96,0,99,9|1.93. A pair of dice is tossed repeatedly. Find the probability that an 11 occurs for the first time on the 6th toss.]]

@@ -21,7 +21,7 @@
       "template": ""
     }
   ],
-  "defaultDisplayTextFormatIndex": 0,
+  "defaultDisplayTextFormatIndex": 2,
   "syncDisplayTextFormat": true,
   "syncDefaultDisplayTextFormat": false,
   "copyCommands": [
@@ -98,7 +98,7 @@
   "singleMDLeafInSidebar": true,
   "alwaysUseSidebar": true,
   "ignoreExistingMarkdownTabIn": [],
-  "defaultColorPaletteActionIndex": 4,
+  "defaultColorPaletteActionIndex": 1,
   "syncColorPaletteAction": true,
   "syncDefaultColorPaletteAction": false,
   "proxyMDProperty": "PDF",
@@ -273,7 +273,7 @@
   "backlinkIconSize": 50,
   "showBacklinkIconForSelection": false,
   "showBacklinkIconForAnnotation": false,
-  "showBacklinkIconForOffset": true,
+  "showBacklinkIconForOffset": false,
   "showBacklinkIconForRect": false,
   "showBoundingRectForBacklinkedAnnot": true,
   "hideReplyAnnotation": false,

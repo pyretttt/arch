@@ -4,45 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b9da254a1829651a",
+        "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 75.1187648456057,
         "children": [
           {
-            "id": "11f78664a458db91",
+            "id": "0051b8dd6f647322",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 43,
-                "left": -7,
-                "top": 705,
-                "zoom": 1.7869785773993374
-              },
-              "icon": "lucide-file-text",
-              "title": "shaum_probability_and_stats"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b324cf43c3c01571",
-        "type": "tabs",
-        "dimension": 24.8812351543943,
-        "children": [
-          {
-            "id": "5a935c38c4d1f620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "shaum_probability_and_stats"
+              "title": "New tab"
             }
           }
         ]
@@ -197,10 +169,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5a935c38c4d1f620",
+  "active": "0051b8dd6f647322",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
     "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Render_and_Export_3D_Model_PageSources.framework/Versions/A/Resources/Info.plist",
     "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Import_Train_PageSources.framework/Versions/A/Resources/Info.plist",
     "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/train.usd",

@@ -37,5 +37,59 @@ Part _(b)_. Let's permute combinations from part _(a)_. There're 1 way to permut
 $$\begin{align}
 1 + 12 + 108 + 18 + 24 = 163
 \end{align}$$
+***
 
-**Next to solve:** [[shaum_probability_and_stats.pdf#page=39&selection=96,0,99,9|1.93. A pair of dice is tossed repeatedly. Find the probability that an 11 occurs for the first time on the 6th toss.]]
+[[shaum_probability_and_stats.pdf#page=40&selection=9,0,22,1|(a) A shelf contains 6 separate compartments. In how many ways can 4 indistinguishable marbles be placed in the compartments? (b) Work the problem if there are n compartments and r marbles. This type of problem arises in physics in connection with Bose-Einstein statistics.]]
+
+First thought was 
+$$\begin{align}
+\frac{6^4}{4!}
+\end{align}$$
+But dividing by $4!$ assumes every indistinguishable arrangement corresponds exactly to $4!$ labeled arrangements. Which is not true when all marbles end up in one compartment, more strictly all marbles must be in different compartments.
+
+Right solution: There're 4 start corresponding to 4 marbles and 5 bars which corresponding to 6 compartments. Thereof we need to choose 5 indices for 5 bars out of 4 + 5 indices.
+$$\begin{align}
+{4 + 6 - 1 \choose 6 - 1} = 126
+\end{align}$$
+***
+
+[[shaum_probability_and_stats.pdf#page=40&selection=26,0,43,1|(a) A shelf contains 6 separate compartments. In how many ways can 12 indistinguishable marbles be placed in the compartments so that no compartment is empty? (b) Work the problem if there are n compartments and r marbles where r n. This type of problem arises in physics in connection with Fermi-Dirac statistics]]
+
+This problem is much similar to above. Consider having 5 marbles
+$$\begin{align}
+\star \star \star \star \star 
+\end{align}$$
+to arrange them along 3 compartments we must choose 2 indices along 4 indices _(we can't pick leading and trailing, because compartments are empty then)_. We can't pick index twice so:
+$$\begin{align}
+5 - 1 \choose 3 - 1
+\end{align}$$
+Thereof problem above is solved as:
+$$\begin{align}
+12 - 1 \choose 5 - 1 = 462
+\end{align}$$
+general solution is
+$$\begin{align}
+n - 1 \choose r - 1
+\end{align}$$
+***
+[[shaum_probability_and_stats.pdf#page=40&selection=60,0,60,98|Find the probability that in a game of bridge (a) 2, (b) 3, (c) all 4 players have a complete suit]]
+
+_(a)_ It a little bit tricky. Distributing 13 cards to each player is 
+$$\begin{align}
+13, 13, 13, 13 \choose 52
+\end{align}$$
+But it actually contains each permutation of groups. For example first player get clubs and the second hearts, then there's also are permutations when first get hearts and second got hearts. There're $4!$ such permutation. Then answer is
+$$\begin{align}
+\frac{_{4}P_{2} {26 \choose 13} {13 \choose 13}}{{52 \choose 13, 13, 13, 13}}
+\end{align}$$
+Now numerator contains $4!$ permutations and the denominator contains $4!$ permutations thereof the answer is
+$$\begin{align}
+\frac{12}{{52 \choose 13}{39 \choose 13}}
+\end{align}$$
+
+_(b)_ and _(c)_ solved in the same way.
+
+
+# Chapter 2
+***
+[[shaum_probability_and_stats.pdf#page=43&selection=5,0,5,16|Random Variables]] 

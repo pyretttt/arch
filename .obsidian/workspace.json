@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 49,
+                "page": 51,
                 "left": -8,
-                "top": 713,
+                "top": 721,
                 "zoom": 1.8336588341150755
               },
               "icon": "lucide-file-text",
@@ -199,6 +199,8 @@
   },
   "active": "cdb1a1fba389c2fa",
   "lastOpenFiles": [
+    "Efimov_Demidovich_part_1.pdf",
+    "fundamentals-of-english-grammar.pdf",
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/probsim-book.pdf",
@@ -209,7 +211,6 @@
     "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/train.obj",
     "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/train.mtl",
     "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/License.txt",
-    "gamedev/met-materials-3.0.0/02-3d-models/projects/starter/Build/Intermediates.noindex/Playgrounds/Chapter2/Products/Debug/Chapter2_Sources.framework/Versions/A/Resources/Info.plist",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock1-color.textureset/Universal.mipmapset/rock1-color.png",

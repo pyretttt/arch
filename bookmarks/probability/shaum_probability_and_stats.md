@@ -92,4 +92,4 @@ _(b)_ and _(c)_ solved in the same way.
 
 # Chapter 2
 ***
-[[shaum_probability_and_stats.pdf#page=51&selection=420,0,420,58|Probability Distributions of Functions of Random Variables]]
+[[shaum_probability_and_stats.pdf#page=52&selection=21,0,21,12|Convolutions]]

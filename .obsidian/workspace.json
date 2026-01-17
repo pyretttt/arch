@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 77.0190023752969,
+        "dimension": 77.04225352112675,
         "children": [
           {
             "id": "0051b8dd6f647322",
@@ -14,22 +14,39 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 51,
-                "left": -8,
-                "top": 438,
-                "zoom": 1.8336588341150752
+                "file": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
+                "page": 3,
+                "left": -11,
+                "top": 156,
+                "zoom": 1.3285714285714287
               },
               "icon": "lucide-file-text",
-              "title": "shaum_probability_and_stats"
+              "title": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions"
+            }
+          },
+          {
+            "id": "884f341a79d11292",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
+                "page": 20,
+                "left": -9,
+                "top": 344,
+                "zoom": 1.4833370862418376
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 22.980997624703086,
+        "dimension": 22.95774647887324,
         "children": [
           {
             "id": "cdb1a1fba389c2fa",
@@ -44,8 +61,23 @@
               "icon": "lucide-file",
               "title": "shaum_probability_and_stats"
             }
+          },
+          {
+            "id": "f78976ed88400724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/gilbert_strang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gilbert_strang"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -197,19 +228,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cdb1a1fba389c2fa",
+  "active": "f78976ed88400724",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
+    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
+    "bookmarks/gilbert_strang.md",
+    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
-    "convex_optimization_book.pdf",
-    "bv_cvxbook.pdf",
-    "cv/lie_groups_2d_3d.pdf",
-    "cv/lie.pdf",
-    "geometry-programmers-kaleniuk.qpdf.pdf",
-    "source-code-machine-code.qpdf.pdf",
-    "matrix_methods.qpdf.pdf",
-    "matrixcookbook.qpdf.pdf",
-    "Boot.qpdf.pdf",
+    "grad_conv.pdf",
+    "Godoy_D_V_Deep_Learning_with_PyTorch_Step_by_Step_A_Beginner’s_Guide.pdf",
+    "geometry-programmers-kaleniuk.pdf",
+    "FourierTransformEbookJVStone2024.pdf",
+    "foundation_of_algebra.pdf",
+    "equations.pdf",
+    "Efimov_Demidovich_part_1.pdf",
+    "Docker.pdf",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock1-color.textureset/Universal.mipmapset/rock1-color.png",

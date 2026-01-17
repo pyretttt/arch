@@ -25,6 +25,20 @@
             }
           },
           {
+            "id": "7c28127787b4317b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/progress.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "progress"
+            }
+          },
+          {
             "id": "884f341a79d11292",
             "type": "leaf",
             "state": {
@@ -38,6 +52,22 @@
               },
               "icon": "lucide-file-text",
               "title": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang"
+            }
+          },
+          {
+            "id": "bafafbd95d1598ef",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "probability/shaum_probability_and_stats.pdf",
+                "page": 52,
+                "left": -10,
+                "top": 624,
+                "zoom": 1.5375309555746137
+              },
+              "icon": "lucide-file-text",
+              "title": "shaum_probability_and_stats"
             }
           }
         ],
@@ -228,20 +258,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f78976ed88400724",
+  "active": "7c28127787b4317b",
   "lastOpenFiles": [
-    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
+    "lang/Build your own Programming Language.pdf",
+    "bookmarks/progress.md",
+    "cv/An Invitation to 3-D Vision.pdf",
     "bookmarks/gilbert_strang.md",
-    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
+    "probability/shaum_probability_and_stats.pdf",
+    "cv/An.md",
+    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
+    "probability/solutions_to_probability_book.pdf",
     "grad_conv.pdf",
     "Godoy_D_V_Deep_Learning_with_PyTorch_Step_by_Step_A_Beginner’s_Guide.pdf",
     "geometry-programmers-kaleniuk.pdf",
     "FourierTransformEbookJVStone2024.pdf",
     "foundation_of_algebra.pdf",
-    "equations.pdf",
-    "Efimov_Demidovich_part_1.pdf",
-    "Docker.pdf",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock1-color.textureset/Universal.mipmapset/rock1-color.png",

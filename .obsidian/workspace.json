@@ -15,27 +15,13 @@
               "type": "pdf",
               "state": {
                 "file": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-                "page": 3,
+                "page": 4,
                 "left": -11,
-                "top": 156,
+                "top": 562,
                 "zoom": 1.3285714285714287
               },
               "icon": "lucide-file-text",
               "title": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions"
-            }
-          },
-          {
-            "id": "7c28127787b4317b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bookmarks/progress.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "progress"
             }
           },
           {
@@ -45,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-                "page": 20,
-                "left": -9,
-                "top": 344,
+                "page": 21,
+                "left": -11,
+                "top": 631,
                 "zoom": 1.4833370862418376
               },
               "icon": "lucide-file-text",
@@ -61,9 +47,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 52,
+                "page": 57,
                 "left": -10,
-                "top": 624,
+                "top": 723,
                 "zoom": 1.5375309555746137
               },
               "icon": "lucide-file-text",
@@ -80,15 +66,29 @@
                 "file": "cv/An Invitation to 3-D Vision.pdf",
                 "page": 25,
                 "left": -12,
-                "top": 348,
+                "top": 478,
                 "zoom": 1.2916666666666667
               },
               "icon": "lucide-file-text",
               "title": "An Invitation to 3-D Vision"
             }
+          },
+          {
+            "id": "7c28127787b4317b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/progress.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "progress"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "6cd60c4c660c125a",
@@ -137,8 +137,7 @@
               "title": "an_invitation_to_3d_vision"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -289,18 +288,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5725c32231d869d6",
+  "active": "cdb1a1fba389c2fa",
   "lastOpenFiles": [
-    "cv/An Invitation to 3-D Vision.pdf",
+    "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "bookmarks/gilbert_strang.md",
+    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
     "bookmarks/cv/an_invitation_to_3d_vision.md",
+    "cv/An Invitation to 3-D Vision.pdf",
     "bookmarks/cv",
     "bookmarks/progress.md",
     "lang/Build your own Programming Language.pdf",
-    "bookmarks/gilbert_strang.md",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-    "probability/shaum_probability_and_stats.pdf",
     "cv/An.md",
     "probability/solutions_to_probability_book.pdf",
     "grad_conv.pdf",

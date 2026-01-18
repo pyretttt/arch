@@ -92,4 +92,4 @@ _(b)_ and _(c)_ solved in the same way.
 
 # Chapter 2
 ***
-[[shaum_probability_and_stats.pdf#page=52&selection=21,0,21,12|Convolutions]]
+[[shaum_probability_and_stats.pdf#page=57&selection=10,0,19,41|Find the marginal probability functions (a) of X and (b) of Y for the random variables of Problem 2.8.]]

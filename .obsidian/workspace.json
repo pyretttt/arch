@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 77.04225352112675,
+        "dimension": 67.74647887323944,
         "children": [
           {
             "id": "0051b8dd6f647322",
@@ -86,14 +86,31 @@
               "icon": "lucide-file",
               "title": "progress"
             }
+          },
+          {
+            "id": "4f7a51fa38559be5",
+            "type": "leaf",
+            "dimension": 20,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
+                "page": 215,
+                "left": 3,
+                "top": 294,
+                "zoom": 1.2
+              },
+              "icon": "lucide-file-text",
+              "title": "Gonzales,Woods-Digital.Image.Processing.4th.Edition"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 22.95774647887324,
+        "dimension": 32.25352112676057,
         "children": [
           {
             "id": "cdb1a1fba389c2fa",
@@ -124,6 +141,20 @@
             }
           },
           {
+            "id": "9f8e647ebc8ec8c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/cv/digital_image_processing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "digital_image_processing"
+            }
+          },
+          {
             "id": "5725c32231d869d6",
             "type": "leaf",
             "state": {
@@ -137,7 +168,8 @@
               "title": "an_invitation_to_3d_vision"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -288,23 +320,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cdb1a1fba389c2fa",
+  "active": "9f8e647ebc8ec8c7",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
+    "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
+    "bookmarks/cv/digital_image_processing.md",
+    "bookmarks/cv/an_invitation_to_3d_vision.md",
+    "bookmarks/progress.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/gilbert_strang.md",
     "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-    "bookmarks/cv/an_invitation_to_3d_vision.md",
     "cv/An Invitation to 3-D Vision.pdf",
     "bookmarks/cv",
-    "bookmarks/progress.md",
     "lang/Build your own Programming Language.pdf",
     "cv/An.md",
     "probability/solutions_to_probability_book.pdf",
     "grad_conv.pdf",
     "Godoy_D_V_Deep_Learning_with_PyTorch_Step_by_Step_A_Beginner’s_Guide.pdf",
-    "geometry-programmers-kaleniuk.pdf",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock1-color.textureset/Universal.mipmapset/rock1-color.png",

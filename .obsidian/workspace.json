@@ -69,9 +69,26 @@
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
             }
+          },
+          {
+            "id": "f136ca6486b35065",
+            "type": "leaf",
+            "dimension": 20,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "cv/An Invitation to 3-D Vision.pdf",
+                "page": 25,
+                "left": -12,
+                "top": 348,
+                "zoom": 1.2916666666666667
+              },
+              "icon": "lucide-file-text",
+              "title": "An Invitation to 3-D Vision"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "6cd60c4c660c125a",
@@ -105,9 +122,23 @@
               "icon": "lucide-file",
               "title": "gilbert_strang"
             }
+          },
+          {
+            "id": "5725c32231d869d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/cv/an_invitation_to_3d_vision.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "an_invitation_to_3d_vision"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -258,23 +289,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7c28127787b4317b",
+  "active": "5725c32231d869d6",
   "lastOpenFiles": [
-    "lang/Build your own Programming Language.pdf",
-    "bookmarks/progress.md",
     "cv/An Invitation to 3-D Vision.pdf",
+    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
+    "bookmarks/cv/an_invitation_to_3d_vision.md",
+    "bookmarks/cv",
+    "bookmarks/progress.md",
+    "lang/Build your own Programming Language.pdf",
     "bookmarks/gilbert_strang.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "probability/shaum_probability_and_stats.pdf",
     "cv/An.md",
-    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
     "probability/solutions_to_probability_book.pdf",
     "grad_conv.pdf",
     "Godoy_D_V_Deep_Learning_with_PyTorch_Step_by_Step_A_Beginner’s_Guide.pdf",
     "geometry-programmers-kaleniuk.pdf",
-    "FourierTransformEbookJVStone2024.pdf",
-    "foundation_of_algebra.pdf",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock1-color.textureset/Universal.mipmapset/rock1-color.png",

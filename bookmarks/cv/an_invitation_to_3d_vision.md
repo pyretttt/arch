@@ -1,0 +1,1 @@
+[[An Invitation to 3-D Vision.pdf#page=25&selection=381,0,381,17|Rigid body motion]]

@@ -92,4 +92,5 @@ _(b)_ and _(c)_ solved in the same way.
 
 # Chapter 2
 ***
-[[shaum_probability_and_stats.pdf#page=57&selection=10,0,19,41|Find the marginal probability functions (a) of X and (b) of Y for the random variables of Problem 2.8.]]
+> [!PDF|] [[shaum_probability_and_stats.pdf#page=63&selection=26,0,35,48|p.54]]
+> If the random variables X and Y have joint density function

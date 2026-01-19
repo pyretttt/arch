@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-                "page": 4,
+                "page": 5,
                 "left": -11,
-                "top": 562,
-                "zoom": 1.3285714285714287
+                "top": 509,
+                "zoom": 1.3878151260504203
               },
               "icon": "lucide-file-text",
               "title": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions"
@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-                "page": 21,
-                "left": -11,
-                "top": 631,
-                "zoom": 1.4833370862418376
+                "page": 29,
+                "left": -8,
+                "top": 566,
+                "zoom": 1.5494820986264357
               },
               "icon": "lucide-file-text",
               "title": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang"
@@ -47,10 +47,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 57,
-                "left": -10,
-                "top": 723,
-                "zoom": 1.5375309555746137
+                "page": 63,
+                "left": -9,
+                "top": 497,
+                "zoom": 1.6060925826258536
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -95,9 +95,9 @@
               "type": "pdf",
               "state": {
                 "file": "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
-                "page": 215,
+                "page": 235,
                 "left": 3,
-                "top": 294,
+                "top": 376,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
@@ -169,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -320,17 +321,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9f8e647ebc8ec8c7",
+  "active": "f78976ed88400724",
   "lastOpenFiles": [
-    "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
-    "bookmarks/cv/digital_image_processing.md",
-    "bookmarks/cv/an_invitation_to_3d_vision.md",
-    "bookmarks/progress.md",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/gilbert_strang.md",
     "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
+    "bookmarks/gilbert_strang.md",
+    "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "bookmarks/cv/digital_image_processing.md",
+    "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
+    "bookmarks/cv/an_invitation_to_3d_vision.md",
+    "bookmarks/progress.md",
     "cv/An Invitation to 3-D Vision.pdf",
     "bookmarks/cv",
     "lang/Build your own Programming Language.pdf",

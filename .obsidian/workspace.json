@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 67.74647887323944,
+        "dimension": 77.0190023752969,
         "children": [
           {
             "id": "0051b8dd6f647322",
@@ -64,10 +64,10 @@
               "type": "pdf",
               "state": {
                 "file": "cv/An Invitation to 3-D Vision.pdf",
-                "page": 25,
-                "left": -11,
-                "top": 482,
-                "zoom": 1.349264705882353
+                "page": 28,
+                "left": -10,
+                "top": 611,
+                "zoom": 1.5404411764705883
               },
               "icon": "lucide-file-text",
               "title": "An Invitation to 3-D Vision"
@@ -105,12 +105,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 32.25352112676057,
+        "dimension": 22.980997624703086,
         "children": [
           {
             "id": "cdb1a1fba389c2fa",
@@ -168,7 +168,8 @@
               "title": "an_invitation_to_3d_vision"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -320,18 +321,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cdb1a1fba389c2fa",
+  "active": "5725c32231d869d6",
   "lastOpenFiles": [
+    "cv/An Invitation to 3-D Vision.pdf",
+    "bookmarks/cv/an_invitation_to_3d_vision.md",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
-    "cv/An Invitation to 3-D Vision.pdf",
     "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
     "bookmarks/progress.md",
     "bookmarks/gilbert_strang.md",
     "bookmarks/cv/digital_image_processing.md",
-    "bookmarks/cv/an_invitation_to_3d_vision.md",
     "bookmarks/cv",
     "lang/Build your own Programming Language.pdf",
     "cv/An.md",

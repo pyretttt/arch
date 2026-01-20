@@ -1,1 +1,1 @@
-[[An Invitation to 3-D Vision.pdf#page=25&selection=381,0,381,17|Rigid body motion]]
+[[An Invitation to 3-D Vision.pdf#page=28&selection=65,0,92,9|Remark 2.1. The set of rigid body motions, or special Euclidean transformations, is a (Lie) group, the so-called special Euclidean group, typically denoted as SE(3). Algebraically, a group is a set G, with an operation of (binary) multiplication ◦ on elements of G which is:]]

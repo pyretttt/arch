@@ -92,5 +92,4 @@ _(b)_ and _(c)_ solved in the same way.
 
 # Chapter 2
 ***
-> [!PDF|] [[shaum_probability_and_stats.pdf#page=63&selection=26,0,35,48|p.54]]
-> If the random variables X and Y have joint density function
+[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=30&selection=6,0,8,2|Problems 18-28 lead to the main facts about lengths and angles in triangles.]]

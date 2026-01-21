@@ -16,9 +16,9 @@
               "state": {
                 "file": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
                 "page": 6,
-                "left": -11,
-                "top": 548,
-                "zoom": 1.3878151260504203
+                "left": -9,
+                "top": 63,
+                "zoom": 1.5844537815126054
               },
               "icon": "lucide-file-text",
               "title": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions"
@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-                "page": 29,
+                "page": 31,
                 "left": -8,
-                "top": 150,
-                "zoom": 1.5494820986264357
+                "top": 667,
+                "zoom": 1.7690272660327322
               },
               "icon": "lucide-file-text",
               "title": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang"
@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
@@ -168,7 +168,8 @@
               "title": "an_invitation_to_3d_vision"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -320,17 +321,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cdb1a1fba389c2fa",
+  "active": "f78976ed88400724",
   "lastOpenFiles": [
+    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
+    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
+    "bookmarks/gilbert_strang.md",
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/cv/an_invitation_to_3d_vision.md",
     "cv/An Invitation to 3-D Vision.pdf",
-    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
     "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
     "bookmarks/progress.md",
-    "bookmarks/gilbert_strang.md",
     "bookmarks/cv/digital_image_processing.md",
     "bookmarks/cv",
     "lang/Build your own Programming Language.pdf",

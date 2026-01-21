@@ -47,10 +47,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 65,
-                "left": -9,
-                "top": 420,
-                "zoom": 1.6060925826258536
+                "page": 67,
+                "left": -8,
+                "top": 275,
+                "zoom": 1.8336588341150755
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "6cd60c4c660c125a",
@@ -168,8 +168,7 @@
               "title": "an_invitation_to_3d_vision"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -321,14 +320,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5725c32231d869d6",
+  "active": "cdb1a1fba389c2fa",
   "lastOpenFiles": [
-    "cv/An Invitation to 3-D Vision.pdf",
-    "bookmarks/cv/an_invitation_to_3d_vision.md",
+    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "bookmarks/cv/an_invitation_to_3d_vision.md",
+    "cv/An Invitation to 3-D Vision.pdf",
     "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-    "probability/shaum_probability_and_stats.pdf",
     "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
     "bookmarks/progress.md",
     "bookmarks/gilbert_strang.md",

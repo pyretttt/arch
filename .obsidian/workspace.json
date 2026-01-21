@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "6cd60c4c660c125a",
@@ -169,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -321,15 +321,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f78976ed88400724",
+  "active": "5725c32231d869d6",
   "lastOpenFiles": [
+    "cv/An Invitation to 3-D Vision.pdf",
+    "bookmarks/cv/an_invitation_to_3d_vision.md",
+    "bookmarks/gilbert_strang.md",
     "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-    "bookmarks/gilbert_strang.md",
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
-    "bookmarks/cv/an_invitation_to_3d_vision.md",
-    "cv/An Invitation to 3-D Vision.pdf",
     "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
     "bookmarks/progress.md",
     "bookmarks/cv/digital_image_processing.md",

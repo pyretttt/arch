@@ -64,10 +64,10 @@
               "type": "pdf",
               "state": {
                 "file": "cv/An Invitation to 3-D Vision.pdf",
-                "page": 28,
-                "left": -10,
-                "top": 611,
-                "zoom": 1.5404411764705883
+                "page": 169,
+                "left": -12,
+                "top": 247,
+                "zoom": 1.2916666666666667
               },
               "icon": "lucide-file-text",
               "title": "An Invitation to 3-D Vision"
@@ -86,26 +86,9 @@
               "icon": "lucide-file",
               "title": "progress"
             }
-          },
-          {
-            "id": "4f7a51fa38559be5",
-            "type": "leaf",
-            "dimension": 20,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
-                "page": 235,
-                "left": -52,
-                "top": 376,
-                "zoom": 1.2
-              },
-              "icon": "lucide-file-text",
-              "title": "Gonzales,Woods-Digital.Image.Processing.4th.Edition"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "6cd60c4c660c125a",
@@ -226,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -321,24 +303,25 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5725c32231d869d6",
+  "active": "7c28127787b4317b",
   "lastOpenFiles": [
+    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "cv/An Invitation to 3-D Vision.pdf",
+    "bookmarks/progress.md",
+    "cv/_OceanofPDF.com_3D_Computer_Vision_Foundations_-_Yu-Jin_Zhang.pdf",
+    "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
+    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
+    "cv/mathematical_methods_for_cv.pdf",
+    "cv/lie_groups_2d_3d.pdf",
+    "cv/Fundamentals of Computer Vision.pdf",
+    "cv/feature-extraction-image-processing-cv-4th.pdf",
+    "cv/digital-image-processing-analysis-4th.pdf",
+    "cv/cv-principles-algorithms-applications.pdf",
     "bookmarks/cv/an_invitation_to_3d_vision.md",
     "bookmarks/gilbert_strang.md",
-    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
-    "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
-    "bookmarks/progress.md",
     "bookmarks/cv/digital_image_processing.md",
-    "bookmarks/cv",
-    "lang/Build your own Programming Language.pdf",
     "cv/An.md",
-    "probability/solutions_to_probability_book.pdf",
-    "grad_conv.pdf",
-    "Godoy_D_V_Deep_Learning_with_PyTorch_Step_by_Step_A_Beginner’s_Guide.pdf",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock1-color.textureset/Universal.mipmapset/rock1-color.png",

@@ -86,9 +86,25 @@
               "icon": "lucide-file",
               "title": "progress"
             }
+          },
+          {
+            "id": "517fc20524f0dae4",
+            "type": "leaf",
+            "dimension": 20,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
+                "page": 214,
+                "left": 29,
+                "top": 105,
+                "zoom": 1.573446327683616
+              },
+              "icon": "lucide-file-text",
+              "title": "Gonzales,Woods-Digital.Image.Processing.4th.Edition"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6cd60c4c660c125a",
@@ -303,20 +319,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f78976ed88400724",
+  "active": "0051b8dd6f647322",
   "lastOpenFiles": [
-    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
+    "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
+    "bookmarks/progress.md",
     "bookmarks/gilbert_strang.md",
+    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
     "cv/An Invitation to 3-D Vision.pdf",
     "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/progress.md",
     "bookmarks/cv/an_invitation_to_3d_vision.md",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "cv/_OceanofPDF.com_3D_Computer_Vision_Foundations_-_Yu-Jin_Zhang.pdf",
-    "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
     "cv/mathematical_methods_for_cv.pdf",
     "cv/lie_groups_2d_3d.pdf",
     "bookmarks/cv/digital_image_processing.md",

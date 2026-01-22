@@ -90,6 +90,5 @@ $$\begin{align}
 _(b)_ and _(c)_ solved in the same way.
 
 
-# Chapter 2
+# Chapter 1.2
 ***
-[[shaum_probability_and_stats.pdf#page=67&selection=165,0,174,32|The joint density function of the random variables X and Y is given by]]

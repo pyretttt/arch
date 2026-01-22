@@ -10,7 +10,6 @@
 - [ ] [[Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf]]
 
 
-# Linalg
 ***
 - [ ] [[Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf]]
 - [ ] [[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf]]

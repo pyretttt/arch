@@ -92,3 +92,4 @@ _(b)_ and _(c)_ solved in the same way.
 
 # Chapter 1.2
 ***
+[[shaum_probability_and_stats.pdf#page=73&selection=234,0,250,1|A floor has parallel lines on it at equal distances l from each other. A needle of length a  l is dropped at random onto the floor. Find the probability that the needle will intersect a line. (This problem is known as Buffon’s needle problem.)]]

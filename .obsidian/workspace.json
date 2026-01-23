@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 81.26760563380282,
+        "dimension": 76.12676056338029,
         "children": [
           {
             "id": "0051b8dd6f647322",
@@ -47,10 +47,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 70,
+                "page": 73,
                 "left": -10,
-                "top": 685,
-                "zoom": 1.5375309555746137
+                "top": 414,
+                "zoom": 1.5185671012838453
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -104,12 +104,13 @@
               "title": "Gonzales,Woods-Digital.Image.Processing.4th.Edition"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 18.732394366197184,
+        "dimension": 23.873239436619716,
         "children": [
           {
             "id": "cdb1a1fba389c2fa",
@@ -167,8 +168,7 @@
               "title": "an_invitation_to_3d_vision"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -319,23 +319,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0051b8dd6f647322",
+  "active": "cdb1a1fba389c2fa",
   "lastOpenFiles": [
+    "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "bookmarks/cv/an_invitation_to_3d_vision.md",
+    "bookmarks/cv/digital_image_processing.md",
+    "bookmarks/gilbert_strang.md",
+    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
     "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
     "bookmarks/progress.md",
-    "bookmarks/gilbert_strang.md",
     "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
     "cv/An Invitation to 3-D Vision.pdf",
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/cv/an_invitation_to_3d_vision.md",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "cv/_OceanofPDF.com_3D_Computer_Vision_Foundations_-_Yu-Jin_Zhang.pdf",
     "cv/mathematical_methods_for_cv.pdf",
     "cv/lie_groups_2d_3d.pdf",
-    "bookmarks/cv/digital_image_processing.md",
     "cv/An.md",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",

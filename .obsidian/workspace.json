@@ -32,9 +32,9 @@
               "state": {
                 "file": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
                 "page": 32,
-                "left": -9,
-                "top": 626,
-                "zoom": 1.5677775452350549
+                "left": -10,
+                "top": 630,
+                "zoom": 1.4650416737788978
               },
               "icon": "lucide-file-text",
               "title": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang"
@@ -66,8 +66,8 @@
                 "file": "cv/An Invitation to 3-D Vision.pdf",
                 "page": 35,
                 "left": -12,
-                "top": 667,
-                "zoom": 1.2916666666666667
+                "top": 671,
+                "zoom": 1.2757352941176472
               },
               "icon": "lucide-file-text",
               "title": "An Invitation to 3-D Vision"
@@ -103,9 +103,25 @@
               "icon": "lucide-file-text",
               "title": "Gonzales,Woods-Digital.Image.Processing.4th.Edition"
             }
+          },
+          {
+            "id": "c459edc6726863e1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ml/diffusion_models_stanley_chan.pdf",
+                "page": 2,
+                "left": -12,
+                "top": 254,
+                "zoom": 1.275735294117647
+              },
+              "icon": "lucide-file-text",
+              "title": "diffusion_models_stanley_chan"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
         "id": "6cd60c4c660c125a",
@@ -155,6 +171,20 @@
             }
           },
           {
+            "id": "1c3c3e874173da54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "diffusion_models_stanley_chan_outline"
+            }
+          },
+          {
             "id": "5725c32231d869d6",
             "type": "leaf",
             "state": {
@@ -168,7 +198,8 @@
               "title": "an_invitation_to_3d_vision"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -319,9 +350,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cdb1a1fba389c2fa",
+  "active": "c459edc6726863e1",
   "lastOpenFiles": [
+    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "probability/shaum_probability_and_stats.pdf",
+    "cv/An Invitation to 3-D Vision.pdf",
+    "ml/diffusion_models_stanley_chan.pdf",
+    "probability/Introduction_to_probability_for_Data_Science_2021_Stanley_H_Chan.pdf",
+    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+    "probability/Теория_вероятностей_и_математическая_статистика_2004_Гмурман.pdf",
+    "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
+    "Untitled",
+    "bookmarks/ml",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/cv/an_invitation_to_3d_vision.md",
     "bookmarks/cv/digital_image_processing.md",
@@ -329,13 +369,6 @@
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
     "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
     "bookmarks/progress.md",
-    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-    "cv/An Invitation to 3-D Vision.pdf",
-    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
-    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
-    "cv/_OceanofPDF.com_3D_Computer_Vision_Foundations_-_Yu-Jin_Zhang.pdf",
-    "cv/mathematical_methods_for_cv.pdf",
-    "cv/lie_groups_2d_3d.pdf",
     "cv/An.md",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",

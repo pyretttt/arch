@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 76.12676056338029,
+        "dimension": 70.84323040380048,
         "children": [
           {
             "id": "0051b8dd6f647322",
@@ -111,10 +111,10 @@
               "type": "pdf",
               "state": {
                 "file": "ml/diffusion_models_stanley_chan.pdf",
-                "page": 2,
-                "left": -12,
-                "top": 254,
-                "zoom": 1.275735294117647
+                "page": 5,
+                "left": -11,
+                "top": 216,
+                "zoom": 1.4129901960784312
               },
               "icon": "lucide-file-text",
               "title": "diffusion_models_stanley_chan"
@@ -126,7 +126,7 @@
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 23.873239436619716,
+        "dimension": 29.156769596199528,
         "children": [
           {
             "id": "cdb1a1fba389c2fa",
@@ -256,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -350,16 +351,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c459edc6726863e1",
+  "active": "1c3c3e874173da54",
   "lastOpenFiles": [
+    "ml/diffusion_models_stanley_chan.pdf",
+    "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "probability/shaum_probability_and_stats.pdf",
     "cv/An Invitation to 3-D Vision.pdf",
-    "ml/diffusion_models_stanley_chan.pdf",
     "probability/Introduction_to_probability_for_Data_Science_2021_Stanley_H_Chan.pdf",
     "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "probability/Теория_вероятностей_и_математическая_статистика_2004_Гмурман.pdf",
-    "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "Untitled",
     "bookmarks/ml",
     "bookmarks/probability/shaum_probability_and_stats.md",
@@ -367,7 +368,6 @@
     "bookmarks/cv/digital_image_processing.md",
     "bookmarks/gilbert_strang.md",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-    "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
     "bookmarks/progress.md",
     "cv/An.md",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",

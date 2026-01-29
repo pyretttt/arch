@@ -12,4 +12,4 @@ $$\begin{align}
 
 # 1.3. Matrices
 ***
-[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=32&selection=6,0,8,8|1.3 Matrices]]
+[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=39&selection=4,0,6,1|Problem Set 1.3]]

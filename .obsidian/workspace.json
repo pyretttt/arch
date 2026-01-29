@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-                "page": 7,
-                "left": -11,
-                "top": 63,
-                "zoom": 1.404201680672269
+                "page": 10,
+                "left": -13,
+                "top": 335,
+                "zoom": 1.2176470588235293
               },
               "icon": "lucide-file-text",
               "title": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions"
@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-                "page": 32,
+                "page": 41,
                 "left": -10,
-                "top": 630,
-                "zoom": 1.4650416737788978
+                "top": 543,
+                "zoom": 1.3594911209129827
               },
               "icon": "lucide-file-text",
               "title": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang"
@@ -48,29 +48,12 @@
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
                 "page": 73,
-                "left": -10,
-                "top": 414,
-                "zoom": 1.5185671012838453
+                "left": -11,
+                "top": 419,
+                "zoom": 1.4091602496063347
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
-            }
-          },
-          {
-            "id": "f136ca6486b35065",
-            "type": "leaf",
-            "dimension": 20,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "cv/An Invitation to 3-D Vision.pdf",
-                "page": 35,
-                "left": -12,
-                "top": 671,
-                "zoom": 1.2757352941176472
-              },
-              "icon": "lucide-file-text",
-              "title": "An Invitation to 3-D Vision"
             }
           },
           {
@@ -88,40 +71,40 @@
             }
           },
           {
-            "id": "517fc20524f0dae4",
-            "type": "leaf",
-            "dimension": 20,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
-                "page": 214,
-                "left": 29,
-                "top": 105,
-                "zoom": 1.573446327683616
-              },
-              "icon": "lucide-file-text",
-              "title": "Gonzales,Woods-Digital.Image.Processing.4th.Edition"
-            }
-          },
-          {
             "id": "c459edc6726863e1",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "ml/diffusion_models_stanley_chan.pdf",
-                "page": 5,
-                "left": -11,
-                "top": 216,
-                "zoom": 1.4129901960784312
+                "page": 7,
+                "left": -13,
+                "top": 485,
+                "zoom": 1.183823529411765
               },
               "icon": "lucide-file-text",
               "title": "diffusion_models_stanley_chan"
             }
+          },
+          {
+            "id": "fb593b2e02419212",
+            "type": "leaf",
+            "dimension": 20,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "cv/An Invitation to 3-D Vision.pdf",
+                "page": 56,
+                "left": -13,
+                "top": 546,
+                "zoom": 1.1838235294117647
+              },
+              "icon": "lucide-file-text",
+              "title": "An Invitation to 3-D Vision"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "6cd60c4c660c125a",
@@ -199,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -256,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -351,24 +333,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1c3c3e874173da54",
+  "active": "5725c32231d869d6",
   "lastOpenFiles": [
-    "ml/diffusion_models_stanley_chan.pdf",
-    "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
-    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-    "probability/shaum_probability_and_stats.pdf",
     "cv/An Invitation to 3-D Vision.pdf",
+    "bookmarks/cv/an_invitation_to_3d_vision.md",
+    "bookmarks/progress.md",
+    "ml/diffusion_models_stanley_chan.pdf",
+    "probability/shaum_probability_and_stats.pdf",
+    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
+    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
+    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
+    "bookmarks/cv/digital_image_processing.md",
+    "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "bookmarks/gilbert_strang.md",
+    "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
     "probability/Introduction_to_probability_for_Data_Science_2021_Stanley_H_Chan.pdf",
     "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "probability/Теория_вероятностей_и_математическая_статистика_2004_Гмурман.pdf",
-    "Untitled",
-    "bookmarks/ml",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "bookmarks/cv/an_invitation_to_3d_vision.md",
-    "bookmarks/cv/digital_image_processing.md",
-    "bookmarks/gilbert_strang.md",
-    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-    "bookmarks/progress.md",
     "cv/An.md",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",

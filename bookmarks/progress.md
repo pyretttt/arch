@@ -8,7 +8,7 @@
 - [ ] [Vision book](https://visionbook.mit.edu/image_processing_fourier.html#continuous-and-discrete-waves)
 - [ ] [[An Invitation to 3-D Vision.pdf]]
 - [ ] [[Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf]]
-
+- [ ] [[Multiple View Geometry in Computer Vision (Second Edition).pdf]]
 
 ***
 - [ ] [[Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf]]

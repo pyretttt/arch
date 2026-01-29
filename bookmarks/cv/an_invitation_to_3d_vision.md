@@ -25,4 +25,4 @@ R(g \circ h) = R(g)R(h)
 \end{align}$$
 ***
 
-[[An Invitation to 3-D Vision.pdf#page=35&selection=6,0,8,38|2.3.2 Quaternions and Lie-Cartan coordinates]]
+[[An Invitation to 3-D Vision.pdf#page=56&selection=62,0,62,16|Basic photometry]]

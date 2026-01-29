@@ -25,4 +25,4 @@ R(g \circ h) = R(g)R(h)
 \end{align}$$
 ***
 
-[[An Invitation to 3-D Vision.pdf#page=56&selection=62,0,62,16|Basic photometry]]
+[[An Invitation to 3-D Vision.pdf#page=61&selection=222,0,224,31|Ideal camera]]

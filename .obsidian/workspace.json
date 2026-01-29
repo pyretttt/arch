@@ -94,17 +94,34 @@
               "type": "pdf",
               "state": {
                 "file": "cv/An Invitation to 3-D Vision.pdf",
-                "page": 56,
+                "page": 11,
                 "left": -13,
-                "top": 546,
+                "top": 700,
                 "zoom": 1.1838235294117647
               },
               "icon": "lucide-file-text",
               "title": "An Invitation to 3-D Vision"
             }
+          },
+          {
+            "id": "e87144de4ffc3b61",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
+                "page": 44,
+                "left": -80,
+                "top": 549,
+                "zoom": 0.9597906058513854
+              },
+              "icon": "lucide-file-text",
+              "title": "Multiple View Geometry in Computer Vision (Second Edition)"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "6cd60c4c660c125a",
@@ -333,18 +350,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5725c32231d869d6",
+  "active": "e87144de4ffc3b61",
   "lastOpenFiles": [
-    "cv/An Invitation to 3-D Vision.pdf",
     "bookmarks/cv/an_invitation_to_3d_vision.md",
+    "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
+    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
+    "cv/An Invitation to 3-D Vision.pdf",
     "bookmarks/progress.md",
     "ml/diffusion_models_stanley_chan.pdf",
     "probability/shaum_probability_and_stats.pdf",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
     "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "bookmarks/cv/digital_image_processing.md",
-    "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/gilbert_strang.md",
     "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",

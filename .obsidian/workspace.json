@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-                "page": 60,
-                "left": -10,
-                "top": 38,
+                "page": 61,
+                "left": -9,
+                "top": 603,
                 "zoom": 1.3594911209129827
               },
               "icon": "lucide-file-text",
@@ -77,10 +77,10 @@
               "type": "pdf",
               "state": {
                 "file": "ml/diffusion_models_stanley_chan.pdf",
-                "page": 7,
-                "left": -13,
-                "top": 485,
-                "zoom": 1.183823529411765
+                "page": 20,
+                "left": -11,
+                "top": 312,
+                "zoom": 1.4129901960784317
               },
               "icon": "lucide-file-text",
               "title": "diffusion_models_stanley_chan"
@@ -121,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "6cd60c4c660c125a",
@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -256,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -350,17 +351,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f78976ed88400724",
+  "active": "1c3c3e874173da54",
   "lastOpenFiles": [
-    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
+    "ml/diffusion_models_stanley_chan.pdf",
+    "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/gilbert_strang.md",
+    "bookmarks/progress.md",
+    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
     "bookmarks/cv/an_invitation_to_3d_vision.md",
-    "ml/diffusion_models_stanley_chan.pdf",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
-    "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "cv/An Invitation to 3-D Vision.pdf",
-    "bookmarks/progress.md",
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/cv/digital_image_processing.md",
     "bookmarks/probability/shaum_probability_and_stats.md",

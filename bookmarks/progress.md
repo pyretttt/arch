@@ -2,6 +2,7 @@
 ***
 - [ ] [shaum](shaum_probability_and_stats.pdf)
 - [ ] [Geofrey. Grimmet. Stirzaker](probability/[Geoffrey_R._Grimmett,_David_R._Stirzaker]_Probabi(BookZZ.org).pdf)
+- [ ] [[diffusion_models_stanley_chan.pdf]]
 
 # CV
 ***

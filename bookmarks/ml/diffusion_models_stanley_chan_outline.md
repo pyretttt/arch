@@ -57,4 +57,6 @@ ELBO(x) = E_{q_{\phi}(z | x)}\left[ \log\left( \frac{p(x|z) p(z)}{q_{\phi}(z|x)}
  = \underbrace{  E_{q_{\phi}(z | x)}\left[ \log\left( \overbrace{p(x | z)}^{ \text{A Gaussian} } \right) \right] }_{ \text{How good decoder is} } - \underbrace{ D_{KL}(\overbrace{ q_{\phi}(z | x) }^{ \text{a Gaussian} } || \overbrace{ p(z) }^{ \text{a Gaussian} }) }_{ \text{How good encoder is} }  \\
 = E_{q_{\phi}(z | x)}[ \log( {\color{red} { p_{\phi}(x | z) }} ) ]  - D_{KL}( q_{\phi}(z | x)  || p(z)
 \end{align}$$
-where in last equation replaced $p(x | z)$ with $p_{\phi}(x | z)$.
+where in last equation replaced $p(x | z)$ with $p_{\phi}(x | z)$.=
+
+[[diffusion_models_stanley_chan.pdf#page=21&selection=0,0,4,1|Example 2.1. Let’s consider a Gaussian mixture model]]

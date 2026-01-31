@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-                "page": 11,
+                "page": 14,
                 "left": -13,
-                "top": 310,
+                "top": 826,
                 "zoom": 1.2176470588235293
               },
               "icon": "lucide-file-text",
@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-                "page": 52,
+                "page": 60,
                 "left": -10,
-                "top": 623,
+                "top": 38,
                 "zoom": 1.3594911209129827
               },
               "icon": "lucide-file-text",
@@ -354,8 +354,8 @@
   "lastOpenFiles": [
     "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "bookmarks/gilbert_strang.md",
-    "bookmarks/cv/an_invitation_to_3d_vision.md",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
+    "bookmarks/cv/an_invitation_to_3d_vision.md",
     "ml/diffusion_models_stanley_chan.pdf",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",

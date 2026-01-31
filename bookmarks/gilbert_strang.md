@@ -12,4 +12,4 @@ $$\begin{align}
 
 # 1.3. Matrices
 ***
-[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=52&selection=26,0,28,1|Problems 9-14 are about multiplying matrices and vectors.]]
+[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=61&selection=4,0,12,27|Elimination from A to U]]

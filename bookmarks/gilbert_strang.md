@@ -12,5 +12,4 @@ $$\begin{align}
 
 # 1.3. Matrices
 ***
-[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=61&selection=4,0,12,27|Elimination from A to U]]
-[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=5&selection=0,0,0,7|Preface]]
+[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=70&selection=6,0,8,2|The Matrix Form of One Elimination Step]]

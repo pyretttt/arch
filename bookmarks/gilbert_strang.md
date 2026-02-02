@@ -12,4 +12,12 @@ $$\begin{align}
 
 # 1.3. Matrices
 ***
-[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=70&selection=6,0,8,2|The Matrix Form of One Elimination Step]]
+[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=79&selection=57,0,79,2|If AB = I and BC = I use the associative law to prove A = C.]]
+$$\begin{align}
+AB = BC  \\
+A(AB) = (AB)C  \\
+AI = IC \\
+A = C
+\end{align}$$
+
+[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=80&selection=8,0,8,27|Rules for Matrix Operations]]

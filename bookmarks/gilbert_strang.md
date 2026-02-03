@@ -20,4 +20,9 @@ AI = IC \\
 A = C
 \end{align}$$
 
-[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=80&selection=8,0,8,27|Rules for Matrix Operations]]
+###### Block-Multiplication
+***
+[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=85&selection=4,0,33,19|Example 3 (Important special case) Let the blocks of A be its n columns. Let the blocks of B be its n rows. Then block multiplication AB adds up columns times rows:]]
+
+
+[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=91&selection=4,0,7,2|Problems 25-31 use column-row multiplication and block multiplication.]]

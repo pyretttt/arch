@@ -30,4 +30,4 @@ R(g \circ h) = R(g)R(h)
 
 # Multiple-View-Geometry
 ***
-[[Multiple View Geometry in Computer Vision (Second Edition).pdf#page=46&selection=75,0,76,1|2.2.2 Ideal points and the line at in]]
+[[Multiple View Geometry in Computer Vision (Second Edition).pdf#page=48&selection=227,0,229,10|Five points define a conic]]

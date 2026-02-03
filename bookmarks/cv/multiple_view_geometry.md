@@ -30,4 +30,4 @@ R(g \circ h) = R(g)R(h)
 
 # Multiple-View-Geometry
 ***
-[[Multiple View Geometry in Computer Vision (Second Edition).pdf#page=48&selection=227,0,229,10|Five points define a conic]]
+[[Multiple View Geometry in Computer Vision (Second Edition).pdf#page=56&selection=21,0,26,15|Invariants. An alternative to describing the transformation algebraically, i.e. as a ma-]]

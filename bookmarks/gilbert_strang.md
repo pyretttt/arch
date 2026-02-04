@@ -25,4 +25,4 @@ A = C
 [[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=85&selection=4,0,33,19|Example 3 (Important special case) Let the blocks of A be its n columns. Let the blocks of B be its n rows. Then block multiplication AB adds up columns times rows:]]
 
 
-[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=91&selection=4,0,7,2|Problems 25-31 use column-row multiplication and block multiplication.]]
+[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=101&selection=5,0,19,2|2.5 B Three of these matrices are inve1iible, and three are singular. Find the inverse when it exists. Give reasons for noninvertibility (zero determinant, too few pivots, nonzero solution to Ax= 0) for the other three. The matrices are in the order A, B, C, D, S, E:]]

@@ -30,4 +30,5 @@ R(g \circ h) = R(g)R(h)
 
 # Multiple-View-Geometry
 ***
-[[Multiple View Geometry in Computer Vision (Second Edition).pdf#page=56&selection=21,0,26,15|Invariants. An alternative to describing the transformation algebraically, i.e. as a ma-]]
+[[Multiple View Geometry in Computer Vision (Second Edition).pdf#page=66&selection=70,0,72,4|2.7.1 The line at infinity]]
+

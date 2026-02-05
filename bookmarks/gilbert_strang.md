@@ -23,6 +23,8 @@ A = C
 ###### Block-Multiplication
 ***
 [[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=85&selection=4,0,33,19|Example 3 (Important special case) Let the blocks of A be its n columns. Let the blocks of B be its n rows. Then block multiplication AB adds up columns times rows:]]
+***
 
-
-[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=101&selection=5,0,19,2|2.5 B Three of these matrices are inve1iible, and three are singular. Find the inverse when it exists. Give reasons for noninvertibility (zero determinant, too few pivots, nonzero solution to Ax= 0) for the other three. The matrices are in the order A, B, C, D, S, E:]]
+[[Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf#page=29&selection=642,0,661,1|If A has a column of zeros, so does BA. Then BA = I is impossible. There is no A−1]]
+***
+[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=111&selection=53,0,55,84|The Cost of Elimination]]

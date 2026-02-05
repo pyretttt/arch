@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-                "page": 27,
+                "page": 32,
                 "left": -13,
-                "top": 150,
+                "top": 73,
                 "zoom": 1.2176470588235293
               },
               "icon": "lucide-file-text",
@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-                "page": 4,
-                "left": 522,
-                "top": 544,
+                "page": 110,
+                "left": -11,
+                "top": 87,
                 "zoom": 1.3594911056068455
               },
               "icon": "lucide-file-text",
@@ -94,17 +94,33 @@
               "type": "pdf",
               "state": {
                 "file": "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
-                "page": 66,
-                "left": -6,
-                "top": 612,
-                "zoom": 1.4
+                "page": 76,
+                "left": 32,
+                "top": 69,
+                "zoom": 1.34
               },
               "icon": "lucide-file-text",
               "title": "Multiple View Geometry in Computer Vision (Second Edition)"
             }
+          },
+          {
+            "id": "faa54cf8e7232e91",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+                "page": 559,
+                "left": -12,
+                "top": 51,
+                "zoom": 1.217082496186643
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
@@ -182,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -333,24 +349,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e87144de4ffc3b61",
+  "active": "f78976ed88400724",
   "lastOpenFiles": [
-    "Gilbert_Strang_Linear_Algebra_and_Its_Applicatio_230928_225121.pdf",
     "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/cv/multiple_view_geometry.md",
-    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "bookmarks/gilbert_strang.md",
+    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
+    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+    "bookmarks/progress.md",
+    "cv/computer-vision-reference-guide-2nd.pdf",
+    "cv/Fundamentals of Computer Vision.pdf",
     "ml/diffusion_models_stanley_chan.pdf",
+    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
+    "bookmarks/cv/multiple_view_geometry.md",
+    "Gilbert_Strang_Linear_Algebra_and_Its_Applicatio_230928_225121.pdf",
+    "probability/shaum_probability_and_stats.pdf",
     "cv/An Invitation to 3-D Vision.pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
-    "bookmarks/progress.md",
     "bookmarks/cv/digital_image_processing.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
-    "cv/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf",
-    "probability/Introduction_to_probability_for_Data_Science_2021_Stanley_H_Chan.pdf",
-    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "cv/An.md",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",

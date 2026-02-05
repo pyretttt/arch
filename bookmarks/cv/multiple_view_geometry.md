@@ -30,5 +30,4 @@ R(g \circ h) = R(g)R(h)
 
 # Multiple-View-Geometry
 ***
-[[Multiple View Geometry in Computer Vision (Second Edition).pdf#page=66&selection=70,0,72,4|2.7.1 The line at infinity]]
-
+[[Multiple View Geometry in Computer Vision (Second Edition).pdf#page=77&selection=4,0,43,1|Example 2.28. A circle of radius r centred on the x-axis at x = a has the equation (x − a)2 + y2 = r2, and is represented by the conic matrix]]

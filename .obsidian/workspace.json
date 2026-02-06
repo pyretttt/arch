@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-                "page": 118,
-                "left": -8,
-                "top": 506,
+                "page": 121,
+                "left": -11,
+                "top": 659,
                 "zoom": 1.3594911056068457
               },
               "icon": "lucide-file-text",
@@ -110,17 +110,17 @@
               "type": "pdf",
               "state": {
                 "file": "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
-                "page": 559,
-                "left": -12,
-                "top": 51,
-                "zoom": 1.217082496186643
+                "page": 563,
+                "left": -11,
+                "top": 795,
+                "zoom": 1.4526874928604547
               },
               "icon": "lucide-file-text",
               "title": "Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "6cd60c4c660c125a",
@@ -198,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -255,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -349,22 +350,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "884f341a79d11292",
+  "active": "faa54cf8e7232e91",
   "lastOpenFiles": [
-    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-    "bookmarks/gilbert_strang.md",
-    "bookmarks/cv/digital_image_processing.md",
+    "rl_roadmap.pdf",
+    "graphics_roadmap.pdf",
+    "bookmarks/cv/multiple_view_geometry.md",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+    "bookmarks/gilbert_strang.md",
+    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
+    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
+    "bookmarks/cv/digital_image_processing.md",
     "bookmarks/progress.md",
     "cv/computer-vision-reference-guide-2nd.pdf",
     "cv/Fundamentals of Computer Vision.pdf",
     "ml/diffusion_models_stanley_chan.pdf",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
-    "bookmarks/cv/multiple_view_geometry.md",
     "Gilbert_Strang_Linear_Algebra_and_Its_Applicatio_230928_225121.pdf",
     "probability/shaum_probability_and_stats.pdf",
-    "cv/An Invitation to 3-D Vision.pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "cv/An.md",

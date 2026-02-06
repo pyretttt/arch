@@ -27,4 +27,4 @@ A = C
 
 [[Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf#page=29&selection=642,0,661,1|If A has a column of zeros, so does BA. Then BA = I is impossible. There is no A−1]]
 ***
-[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=111&selection=53,0,55,84|The Cost of Elimination]]
+[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=121&selection=6,0,20,1|We know the dot product (inner product) of x and y. It is the sum of numbers XiYi· Now we have a better way to write x · y, without using that unprofessional dot. Use matrix notation instead:]]

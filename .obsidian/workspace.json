@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-                "page": 37,
+                "page": 41,
                 "left": -13,
-                "top": 161,
+                "top": 272,
                 "zoom": 1.2176470588235293
               },
               "icon": "lucide-file-text",
@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-                "page": 121,
+                "page": 131,
                 "left": -10,
-                "top": 663,
-                "zoom": 1.359491120912983
+                "top": 617,
+                "zoom": 1.3594911056068455
               },
               "icon": "lucide-file-text",
               "title": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang"
@@ -198,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -349,8 +349,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "884f341a79d11292",
+  "active": "f78976ed88400724",
   "lastOpenFiles": [
+    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
+    "bookmarks/gilbert_strang.md",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
     "ml/diffusion_models_stanley_chan.pdf",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
@@ -360,12 +362,9 @@
     "rl_roadmap.pdf",
     "graphics_roadmap.pdf",
     "bookmarks/cv/multiple_view_geometry.md",
-    "bookmarks/gilbert_strang.md",
-    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "bookmarks/cv/digital_image_processing.md",
     "bookmarks/progress.md",
     "cv/computer-vision-reference-guide-2nd.pdf",
-    "cv/Fundamentals of Computer Vision.pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "cv/An.md",

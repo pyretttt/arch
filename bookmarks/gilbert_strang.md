@@ -27,4 +27,5 @@ A = C
 
 [[Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf#page=29&selection=642,0,661,1|If A has a column of zeros, so does BA. Then BA = I is impossible. There is no A−1]]
 ***
-[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=121&selection=6,0,20,1|We know the dot product (inner product) of x and y. It is the sum of numbers XiYi· Now we have a better way to write x · y, without using that unprofessional dot. Use matrix notation instead:]]
+
+[[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf#page=131&selection=7,0,56,2|Producing x1 trucks and x2 planes needs x1 + 50x2 tons of steel, 40x1 + 1000x2 pounds of rubber, and 2x1 + 50x2 months of labor. If the unit costs y1, Y2, y3 are $700 per ton, $3 per pound, and $3000 per month, what are the values of one truck and one plane? Those are the components of AT y_]]

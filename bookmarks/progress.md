@@ -13,7 +13,7 @@
 - [ ] 
 
 ***
-- [ ] [[Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf]]
-- [ ] [[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf]]
+- [ ] [[Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf]] _(Dropped, don't like it)_
+- [ ] [[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf]] _(Dropped, don't like it)_
 - [ ] [[mml-book.pdf]]
 

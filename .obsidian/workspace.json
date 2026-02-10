@@ -9,35 +9,17 @@
         "dimension": 70.84323040380048,
         "children": [
           {
-            "id": "0051b8dd6f647322",
+            "id": "fb44b9b5bc689636",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-                "page": 42,
-                "left": -13,
-                "top": 1,
-                "zoom": 1.2176470588235293
+                "file": "bookmarks/progress.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions"
-            }
-          },
-          {
-            "id": "884f341a79d11292",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-                "page": 140,
-                "left": -11,
-                "top": 159,
-                "zoom": 1.3594911056068455
-              },
-              "icon": "lucide-file-text",
-              "title": "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang"
+              "icon": "lucide-file",
+              "title": "progress"
             }
           },
           {
@@ -110,37 +92,40 @@
               "type": "pdf",
               "state": {
                 "file": "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
-                "page": 564,
+                "page": 420,
                 "left": -13,
-                "top": 280,
+                "top": 371,
                 "zoom": 1.2170824961866429
               },
               "icon": "lucide-file-text",
               "title": "Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski"
             }
+          },
+          {
+            "id": "d5d75014b07394b2",
+            "type": "leaf",
+            "dimension": 14.285714285714286,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "mml-book.pdf",
+                "page": 25,
+                "left": -12,
+                "top": 342,
+                "zoom": 1.217082496186643
+              },
+              "icon": "lucide-file-text",
+              "title": "mml-book"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
         "dimension": 29.156769596199528,
         "children": [
-          {
-            "id": "cdb1a1fba389c2fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "shaum_probability_and_stats"
-            }
-          },
           {
             "id": "9f8e647ebc8ec8c7",
             "type": "leaf",
@@ -184,21 +169,21 @@
             }
           },
           {
-            "id": "f78976ed88400724",
+            "id": "c8d1211d06d2ab04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bookmarks/gilbert_strang.md",
+                "file": "bookmarks/mml_book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gilbert_strang"
+              "title": "mml_book"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -349,24 +334,25 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f78976ed88400724",
+  "active": "c8d1211d06d2ab04",
   "lastOpenFiles": [
-    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-    "bookmarks/gilbert_strang.md",
+    "mml-book.pdf",
+    "bookmarks/mml_book.md",
+    "bookmarks/cv/digital_image_processing.md",
+    "bookmarks/progress.md",
+    "combinatorics-M.pdf",
     "bookmarks/cv/multiple_view_geometry.md",
+    "bookmarks/gilbert_strang.md",
+    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
+    "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "ml/diffusion_models_stanley_chan.pdf",
     "probability/Probabilistic Robotics.pdf",
     "probability/Probabilistic Robotics-2.pdf",
     "rl_roadmap.pdf",
-    "graphics_roadmap.pdf",
-    "bookmarks/cv/digital_image_processing.md",
-    "bookmarks/progress.md",
-    "cv/computer-vision-reference-guide-2nd.pdf",
-    "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "cv/An.md",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",

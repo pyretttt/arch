@@ -1,2 +1,2 @@
-[[mml-book.pdf#page=25&selection=84,0,84,31|2.1 Systems of Linear Equations]]
+[[mml-book.pdf#page=37&selection=225,0,227,75|Example 2.7 (Reduced Row Echelon Form)]]
 

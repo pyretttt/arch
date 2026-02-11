@@ -39,20 +39,6 @@
             }
           },
           {
-            "id": "7c28127787b4317b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bookmarks/progress.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "progress"
-            }
-          },
-          {
             "id": "c459edc6726863e1",
             "type": "leaf",
             "state": {
@@ -76,9 +62,9 @@
               "type": "pdf",
               "state": {
                 "file": "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
-                "page": 76,
+                "page": 51,
                 "left": 32,
-                "top": 69,
+                "top": 742,
                 "zoom": 1.34
               },
               "icon": "lucide-file-text",
@@ -94,7 +80,7 @@
                 "file": "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
                 "page": 423,
                 "left": -13,
-                "top": 573,
+                "top": 480,
                 "zoom": 1.2170824961866429
               },
               "icon": "lucide-file-text",
@@ -109,10 +95,10 @@
               "type": "pdf",
               "state": {
                 "file": "mml-book.pdf",
-                "page": 25,
-                "left": -12,
-                "top": 342,
-                "zoom": 1.217082496186643
+                "page": 37,
+                "left": -13,
+                "top": 626,
+                "zoom": 1.2170824961866429
               },
               "icon": "lucide-file-text",
               "title": "mml-book"
@@ -188,12 +174,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bookmarks/cv/cv_algorithms_and_applications.md",
+                "file": "bookmarks/mml_book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cv_algorithms_and_applications"
+              "title": "mml_book"
             }
           }
         ],
@@ -350,20 +336,20 @@
   },
   "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
-    "bookmarks/cv/cv_algorithms_and_applications.md",
-    "bookmarks/cv/digital_image_processing.md",
-    "bookmarks/mml_book.md",
     "mml-book.pdf",
+    "bookmarks/mml_book.md",
+    "bookmarks/cv/cv_algorithms_and_applications.md",
+    "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
+    "bookmarks/cv/digital_image_processing.md",
     "bookmarks/progress.md",
+    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "combinatorics-M.pdf",
     "bookmarks/cv/multiple_view_geometry.md",
     "bookmarks/gilbert_strang.md",
     "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-    "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
-    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "ml/diffusion_models_stanley_chan.pdf",
     "probability/Probabilistic Robotics.pdf",
     "probability/Probabilistic Robotics-2.pdf",

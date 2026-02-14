@@ -95,9 +95,9 @@
               "type": "pdf",
               "state": {
                 "file": "mml-book.pdf",
-                "page": 48,
+                "page": 69,
                 "left": -13,
-                "top": 128,
+                "top": 160,
                 "zoom": 1.2170824961866429
               },
               "icon": "lucide-file-text",
@@ -338,6 +338,8 @@
   "lastOpenFiles": [
     "mml-book.pdf",
     "bookmarks/mml_book.md",
+    "axler_linalg_done_right.pdf",
+    "LADR4e.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/cv/digital_image_processing.md",
@@ -352,8 +354,6 @@
     "bookmarks/probability/shaum_probability_and_stats.md",
     "ml/diffusion_models_stanley_chan.pdf",
     "probability/Probabilistic Robotics.pdf",
-    "probability/Probabilistic Robotics-2.pdf",
-    "rl_roadmap.pdf",
     "cv/An.md",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",

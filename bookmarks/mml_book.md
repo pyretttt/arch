@@ -1,1 +1,1 @@
-[[mml-book.pdf#page=70&selection=4,0,4,9|Exercises]]
+ [[mml-book.pdf#page=72&selection=82,0,82,61|Determine the inverses of the following matrices if possible:]]

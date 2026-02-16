@@ -1,1 +1,1 @@
- [[mml-book.pdf#page=72&selection=82,0,82,61|Determine the inverses of the following matrices if possible:]]
+[[mml-book.pdf#page=73&selection=153,5,194,4|Consider two subspaces U1 and U2, where U1 is the solution space of the homogeneous equation system A1x = 0 and U2 is the solution space of the homogeneous equation system A2x = 0 with]]

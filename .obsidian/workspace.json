@@ -29,9 +29,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 73,
+                "page": 75,
                 "left": -11,
-                "top": 427,
+                "top": 762,
                 "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
@@ -57,7 +57,6 @@
           {
             "id": "e87144de4ffc3b61",
             "type": "leaf",
-            "dimension": 16.666666666666668,
             "state": {
               "type": "pdf",
               "state": {
@@ -90,14 +89,13 @@
           {
             "id": "d5d75014b07394b2",
             "type": "leaf",
-            "dimension": 14.285714285714286,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "mml-book.pdf",
-                "page": 72,
+                "page": 73,
                 "left": -13,
-                "top": 628,
+                "top": 631,
                 "zoom": 1.2170824961866429
               },
               "icon": "lucide-file-text",
@@ -105,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
@@ -174,12 +172,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bookmarks/mml_book.md",
+                "file": "bookmarks/probability/shaum_probability_and_stats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mml_book"
+              "title": "shaum_probability_and_stats"
             }
           }
         ],
@@ -336,14 +334,16 @@
   },
   "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "mml-book.pdf",
+    "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/mml_book.md",
+    "bookmarks/progress.md",
+    "mml-book.pdf",
     "axler_linalg_done_right.pdf",
     "LADR4e.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/cv/digital_image_processing.md",
-    "bookmarks/progress.md",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "combinatorics-M.pdf",
@@ -351,9 +351,7 @@
     "bookmarks/gilbert_strang.md",
     "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
     "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "ml/diffusion_models_stanley_chan.pdf",
-    "probability/Probabilistic Robotics.pdf",
     "cv/An.md",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",

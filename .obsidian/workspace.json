@@ -29,9 +29,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 75,
+                "page": 76,
                 "left": -11,
-                "top": 762,
+                "top": 592,
                 "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
@@ -93,9 +93,9 @@
               "type": "pdf",
               "state": {
                 "file": "mml-book.pdf",
-                "page": 73,
-                "left": -13,
-                "top": 631,
+                "page": 75,
+                "left": -12,
+                "top": 843,
                 "zoom": 1.2170824961866429
               },
               "icon": "lucide-file-text",
@@ -116,12 +116,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bookmarks/cv/digital_image_processing.md",
+                "file": "bookmarks/mml_book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "digital_image_processing"
+              "title": "mml_book"
             }
           },
           {
@@ -337,13 +337,13 @@
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/mml_book.md",
-    "bookmarks/progress.md",
     "mml-book.pdf",
+    "bookmarks/cv/digital_image_processing.md",
+    "bookmarks/progress.md",
     "axler_linalg_done_right.pdf",
     "LADR4e.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
-    "bookmarks/cv/digital_image_processing.md",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "combinatorics-M.pdf",

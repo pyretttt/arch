@@ -99,3 +99,6 @@ Interesting problem, it's not hard to understand how to solve this in terms of d
 
 [[shaum_probability_and_stats.pdf#page=75&selection=57,0,59,5|Discrete distribution functions]]
 
+current: [[shaum_probability_and_stats.pdf#page=76&selection=207,0,215,60|Let X and Y be continuous random variables having joint density function]]
+
+answers: [[shaum_probability_and_stats.pdf#page=82&selection=2,0,6,5|Random Variables and Probability Distributions 73]]

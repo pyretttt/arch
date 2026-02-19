@@ -1,1 +1,1 @@
-[[mml-book.pdf#page=76&selection=2,0,2,17|Analytic Geometry]]
+[[mml-book.pdf#page=87&selection=201,0,201,26|3.8 Orthogonal Projections]]

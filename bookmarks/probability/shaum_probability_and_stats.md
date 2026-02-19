@@ -97,8 +97,8 @@ _(b)_ and _(c)_ solved in the same way.
 Interesting problem, it's not hard to understand how to solve this in terms of double integral, but hard to make proper constraints.
 ***
 
-[[shaum_probability_and_stats.pdf#page=75&selection=57,0,59,5|Discrete distribution functions]]
+[[shaum_probability_and_stats.pdf#page=77&selection=48,0,64,5|If X has density function find the density function of Y  X2.]]
 
-current: [[shaum_probability_and_stats.pdf#page=76&selection=207,0,215,60|Let X and Y be continuous random variables having joint density function]]
+current: [[shaum_probability_and_stats.pdf#page=77&selection=5,0,5,19|Change of variables]]
 
 answers: [[shaum_probability_and_stats.pdf#page=82&selection=2,0,6,5|Random Variables and Probability Distributions 73]]

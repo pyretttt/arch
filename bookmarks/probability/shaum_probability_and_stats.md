@@ -99,6 +99,6 @@ Interesting problem, it's not hard to understand how to solve this in terms of d
 
 [[shaum_probability_and_stats.pdf#page=77&selection=48,0,64,5|If X has density function find the density function of Y  X2.]]
 
-current: [[shaum_probability_and_stats.pdf#page=77&selection=5,0,5,19|Change of variables]]
+current: [[shaum_probability_and_stats.pdf#page=77&selection=188,0,207,5|Use Problem 2.22 to find the density function of (a) U  XY2, (b) V  X2Y.]]
 
-answers: [[shaum_probability_and_stats.pdf#page=82&selection=2,0,6,5|Random Variables and Probability Distributions 73]]
+answers: [[shaum_probability_and_stats.pdf#page=83&selection=5,0,5,4|2.73]]

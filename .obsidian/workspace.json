@@ -95,7 +95,7 @@
                 "file": "mml-book.pdf",
                 "page": 87,
                 "left": -13,
-                "top": 809,
+                "top": 343,
                 "zoom": 1.2170824961866429
               },
               "icon": "lucide-file-text",
@@ -103,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
@@ -180,7 +180,8 @@
               "title": "shaum_probability_and_stats"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -331,12 +332,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9f8e647ebc8ec8c7",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "mml-book.pdf",
-    "bookmarks/mml_book.md",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/mml_book.md",
+    "mml-book.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/cv/digital_image_processing.md",
     "bookmarks/progress.md",
     "axler_linalg_done_right.pdf",

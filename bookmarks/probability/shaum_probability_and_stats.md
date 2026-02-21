@@ -97,8 +97,7 @@ _(b)_ and _(c)_ solved in the same way.
 Interesting problem, it's not hard to understand how to solve this in terms of double integral, but hard to make proper constraints.
 ***
 
-[[shaum_probability_and_stats.pdf#page=77&selection=48,0,64,5|If X has density function find the density function of Y  X2.]]
 
-current: [[shaum_probability_and_stats.pdf#page=77&selection=188,0,207,5|Use Problem 2.22 to find the density function of (a) U  XY2, (b) V  X2Y.]]
+current: [[shaum_probability_and_stats.pdf#page=78&selection=240,0,240,12|Suppose that]]
 
 answers: [[shaum_probability_and_stats.pdf#page=83&selection=5,0,5,4|2.73]]

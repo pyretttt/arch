@@ -98,6 +98,6 @@ Interesting problem, it's not hard to understand how to solve this in terms of d
 ***
 
 
-current: [[shaum_probability_and_stats.pdf#page=78&selection=240,0,240,12|Suppose that]]
+current: [[shaum_probability_and_stats.pdf#page=79&selection=80,0,87,35|Two independent random variables, X and Y, have respective density functions]]
 
-answers: [[shaum_probability_and_stats.pdf#page=83&selection=5,0,5,4|2.73]]
+answers: [[shaum_probability_and_stats.pdf#page=83&selection=58,0,58,4|2.86]]

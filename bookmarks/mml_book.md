@@ -1,2 +1,1 @@
-
-[[mml-book.pdf#page=111&selection=37,4,37,32|Eigenvalues and Eigenvectors]]
+[[mml-book.pdf#page=122&selection=46,0,49,1|Definition 4.19 (Diagonalizable).]]

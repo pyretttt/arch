@@ -98,6 +98,6 @@ Interesting problem, it's not hard to understand how to solve this in terms of d
 ***
 
 
-current: [[shaum_probability_and_stats.pdf#page=80&selection=8,0,30,1|Let X and Y be identically distributed independent random variables having density function Find the density function of Z  X2  Y2.]]
+current: [[shaum_probability_and_stats.pdf#page=80&selection=187,0,195,60|Let X and Y be independent random variables each having density function]]
 
 answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]

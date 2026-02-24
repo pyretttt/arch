@@ -1,1 +1,1 @@
-[[mml-book.pdf#page=122&selection=46,0,49,1|Definition 4.19 (Diagonalizable).]]
+[[mml-book.pdf#page=143&selection=256,0,257,15|Compute the eigenspaces of the following transformation matrices. Are they diagonalizable?]]

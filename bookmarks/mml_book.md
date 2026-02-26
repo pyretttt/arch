@@ -1,1 +1,1 @@
-[[mml-book.pdf#page=143&selection=256,0,257,15|Compute the eigenspaces of the following transformation matrices. Are they diagonalizable?]]
+[[mml-book.pdf#page=159&selection=4,0,6,12|Example 5.9 (Gradient of a Vector-Valued Function)]]

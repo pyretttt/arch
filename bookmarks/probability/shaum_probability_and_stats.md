@@ -98,6 +98,6 @@ Interesting problem, it's not hard to understand how to solve this in terms of d
 ***
 
 
-current: [[shaum_probability_and_stats.pdf#page=80&selection=187,0,195,60|Let X and Y be independent random variables each having density function]]
+current: [[shaum_probability_and_stats.pdf#page=80&selection=269,0,281,76|A cylindrical stream of particles, of radius a, is directed toward a hemispherical target ABC with center at O as indicated in Fig. 2-26. Assume that the distribution of particles is given b]]
 
 answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]

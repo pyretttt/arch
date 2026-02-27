@@ -1,1 +1,1 @@
-[[mml-book.pdf#page=159&selection=4,0,6,12|Example 5.9 (Gradient of a Vector-Valued Function)]]
+[[mml-book.pdf#page=171&selection=240,4,240,48|Linearization and Multivariate Taylor Series]]

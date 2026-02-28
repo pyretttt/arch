@@ -1,1 +1,1 @@
-[[mml-book.pdf#page=171&selection=240,4,240,48|Linearization and Multivariate Taylor Series]]
+[[mml-book.pdf#page=177&selection=106,0,115,15|Compute the derivatives df /dx of the following functions by using the chain rule. Provide the dimensions of every single partial derivative. Describe your steps in detail]]

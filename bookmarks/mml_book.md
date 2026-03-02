@@ -1,1 +1,1 @@
-[[mml-book.pdf#page=177&selection=106,0,115,15|Compute the derivatives df /dx of the following functions by using the chain rule. Provide the dimensions of every single partial derivative. Describe your steps in detail]]
+[[mml-book.pdf#page=189&selection=262,4,262,46|Sum Rule, Product Rule, and Bayes’ Theorem]]

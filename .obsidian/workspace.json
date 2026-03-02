@@ -29,9 +29,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 88,
+                "page": 112,
                 "left": -9,
-                "top": 568,
+                "top": 96,
                 "zoom": 1.6819479997889277
               },
               "icon": "lucide-file-text",
@@ -77,10 +77,10 @@
               "type": "pdf",
               "state": {
                 "file": "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
-                "page": 423,
-                "left": -13,
-                "top": 480,
-                "zoom": 1.2170824961866429
+                "page": 149,
+                "left": -11,
+                "top": 642,
+                "zoom": 1.452687492860455
               },
               "icon": "lucide-file-text",
               "title": "Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski"
@@ -93,9 +93,9 @@
               "type": "pdf",
               "state": {
                 "file": "mml-book.pdf",
-                "page": 177,
+                "page": 189,
                 "left": -11,
-                "top": 238,
+                "top": 525,
                 "zoom": 1.4526874928604547
               },
               "icon": "lucide-file-text",
@@ -103,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "6cd60c4c660c125a",
@@ -179,9 +179,24 @@
               "icon": "lucide-file",
               "title": "shaum_probability_and_stats"
             }
+          },
+          {
+            "id": "a1385705c8182dd2",
+            "type": "leaf",
+            "dimension": 20,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/cv/cv_algorithms_and_applications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cv_algorithms_and_applications"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -333,19 +348,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "a1385705c8182dd2",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
+    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+    "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/mml_book.md",
+    "probability/shaum_probability_and_stats.pdf",
     "mml-book.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/progress.md",
     "bookmarks/cv/digital_image_processing.md",
     "axler_linalg_done_right.pdf",
     "LADR4e.pdf",
-    "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
-    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "combinatorics-M.pdf",
     "bookmarks/cv/multiple_view_geometry.md",

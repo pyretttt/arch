@@ -1,1 +1,2 @@
-[[mml-book.pdf#page=189&selection=262,4,262,46|Sum Rule, Product Rule, and Bayes’ Theorem]]
+
+[[mml-book.pdf#page=200&selection=400,0,400,11|Example 6.5]]

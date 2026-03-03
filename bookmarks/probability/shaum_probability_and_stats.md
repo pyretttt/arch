@@ -105,4 +105,4 @@ answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]
 
 # Chapter-3
 ***
-[[shaum_probability_and_stats.pdf#page=88&selection=55,0,55,27|Moment Generating Functions]]
+[[shaum_probability_and_stats.pdf#page=94&selection=13,0,13,31|Expectation of random variables]]

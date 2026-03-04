@@ -77,10 +77,10 @@
               "type": "pdf",
               "state": {
                 "file": "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
-                "page": 149,
+                "page": 156,
                 "left": -11,
-                "top": 642,
-                "zoom": 1.452687492860455
+                "top": 560,
+                "zoom": 1.45
               },
               "icon": "lucide-file-text",
               "title": "Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski"
@@ -93,9 +93,9 @@
               "type": "pdf",
               "state": {
                 "file": "mml-book.pdf",
-                "page": 201,
+                "page": 210,
                 "left": -11,
-                "top": 787,
+                "top": 122,
                 "zoom": 1.4526874928604547
               },
               "icon": "lucide-file-text",
@@ -103,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "6cd60c4c660c125a",
@@ -195,8 +195,7 @@
               "title": "cv_algorithms_and_applications"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,12 +287,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "applied-linear-algebra-and-differential-equations.pdf",
+                "file": "bookmarks/mml_book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from applied-linear-algebra-and-differential-equations"
+              "title": "Outgoing links from mml_book"
             }
           },
           {
@@ -348,14 +347,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a1385705c8182dd2",
+  "active": "9f8e647ebc8ec8c7",
   "lastOpenFiles": [
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/mml_book.md",
     "mml-book.pdf",
+    "bookmarks/mml_book.md",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/progress.md",
     "bookmarks/cv/digital_image_processing.md",
     "axler_linalg_done_right.pdf",

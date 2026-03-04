@@ -1,2 +1,2 @@
 
-[[mml-book.pdf#page=200&selection=400,0,400,11|Example 6.5]]
+[[mml-book.pdf#page=211&selection=4,4,6,74|Conjugacy and the Exponential Family]]

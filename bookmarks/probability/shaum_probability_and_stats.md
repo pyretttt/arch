@@ -105,4 +105,4 @@ answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]
 
 # Chapter-3
 ***
-[[shaum_probability_and_stats.pdf#page=95&selection=80,0,81,3|Prove Theorem 3-2, page 77.]]
+[[shaum_probability_and_stats.pdf#page=98&selection=18,0,19,40|Prove (a) result (31), (b) result (32), page 79.]]

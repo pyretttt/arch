@@ -1,1 +1,1 @@
-[[mml-book.pdf#page=217&selection=8,6,10,68|Exponential Family]]
+[[mml-book.pdf#page=221&selection=200,6,202,75|Distribution Function Technique]]

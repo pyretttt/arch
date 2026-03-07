@@ -105,4 +105,4 @@ answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]
 
 # Chapter-3
 ***
-[[shaum_probability_and_stats.pdf#page=100&selection=29,0,62,5|Find the characteristic function of the random variable X having density function f (x)  ce–a|x| , , where a  0, and c is a suitable constant.]]
+[[shaum_probability_and_stats.pdf#page=102&selection=7,0,9,5|Conditional expectation, variance, and moments]]

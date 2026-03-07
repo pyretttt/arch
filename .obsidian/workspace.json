@@ -29,9 +29,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 100,
+                "page": 102,
                 "left": -9,
-                "top": 661,
+                "top": 516,
                 "zoom": 1.6819479997889277
               },
               "icon": "lucide-file-text",
@@ -93,10 +93,10 @@
               "type": "pdf",
               "state": {
                 "file": "mml-book.pdf",
-                "page": 221,
-                "left": -184,
-                "top": 716,
-                "zoom": 0.93
+                "page": 228,
+                "left": -47,
+                "top": 509,
+                "zoom": 1.3
               },
               "icon": "lucide-file-text",
               "title": "mml-book"

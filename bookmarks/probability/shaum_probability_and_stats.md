@@ -105,4 +105,4 @@ answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]
 
 # Chapter-3
 ***
-[[shaum_probability_and_stats.pdf#page=102&selection=7,0,9,5|Conditional expectation, variance, and moments]]
+[[shaum_probability_and_stats.pdf#page=102&selection=93,0,95,5|Chebyshev’s inequality]]

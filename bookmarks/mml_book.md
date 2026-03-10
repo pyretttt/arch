@@ -1,1 +1,1 @@
-[[mml-book.pdf#page=228&selection=271,0,273,1|Consider the time-series model]]
+[[mml-book.pdf#page=229&selection=142,5,142,58|Derive the relationship in Section 6.5.2 in two ways:]]

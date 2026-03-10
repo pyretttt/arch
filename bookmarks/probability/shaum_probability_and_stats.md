@@ -105,4 +105,4 @@ answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]
 
 # Chapter-3
 ***
-[[shaum_probability_and_stats.pdf#page=102&selection=93,0,95,5|Chebyshev’s inequality]]
+[[shaum_probability_and_stats.pdf#page=103&selection=8,0,18,22|For the random variable of Problem 3.18, (a) find . (b) Use Chebyshev’s inequality to obtain an upper bound on and compare with the result in (a).]]

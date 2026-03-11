@@ -105,4 +105,4 @@ answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]
 
 # Chapter-3
 ***
-[[shaum_probability_and_stats.pdf#page=103&selection=8,0,18,22|For the random variable of Problem 3.18, (a) find . (b) Use Chebyshev’s inequality to obtain an upper bound on and compare with the result in (a).]]
+[[shaum_probability_and_stats.pdf#page=106&selection=97,0,104,1|Use Problem 3.39 to obtain the probability distribution of a random variable X whose characteristic function is]]

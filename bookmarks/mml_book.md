@@ -1,1 +1,1 @@
-[[mml-book.pdf#page=229&selection=142,5,142,58|Derive the relationship in Section 6.5.2 in two ways:]]
+[[mml-book.pdf#page=237&selection=111,0,111,33|7.1.3 Stochastic Gradient Descent]]

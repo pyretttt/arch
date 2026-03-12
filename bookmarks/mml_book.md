@@ -1,1 +1,1 @@
-[[mml-book.pdf#page=237&selection=111,0,111,33|7.1.3 Stochastic Gradient Descent]]
+[[mml-book.pdf#page=248&selection=60,6,60,53|Legendre–Fenchel Transform and Convex Conjugate]]

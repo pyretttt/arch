@@ -105,4 +105,8 @@ answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]
 
 # Chapter-3
 ***
-[[shaum_probability_and_stats.pdf#page=106&selection=97,0,104,1|Use Problem 3.39 to obtain the probability distribution of a random variable X whose characteristic function is]]
+problem:
+[[shaum_probability_and_stats.pdf#page=108&selection=78,0,79,25|What is the expected number of points that will come up in 3 successive tosses of a fair die? Does your answer seem reasonable? Explain.]]
+
+answers: 
+[[shaum_probability_and_stats.pdf#page=114&selection=48,0,48,4|3.45]]

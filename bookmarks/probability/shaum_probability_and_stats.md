@@ -106,7 +106,7 @@ answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]
 # Chapter-3
 ***
 problem:
-[[shaum_probability_and_stats.pdf#page=108&selection=78,0,79,25|What is the expected number of points that will come up in 3 successive tosses of a fair die? Does your answer seem reasonable? Explain.]]
+[[shaum_probability_and_stats.pdf#page=109&selection=135,0,154,60|Let X1 , X2 , . . . , Xn be n random variables which are identically distributed such that]]
 
 answers: 
-[[shaum_probability_and_stats.pdf#page=114&selection=48,0,48,4|3.45]]
+[[shaum_probability_and_stats.pdf#page=114&selection=116,0,116,4|3.56]]

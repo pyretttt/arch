@@ -1,2 +1,2 @@
-[[mml-book.pdf#page=258&selection=95,0,95,21|8.1.1 Data as Vectors]]
+[[mml-book.pdf#page=271&selection=4,0,4,21|8.2.5 Further Reading]]
 

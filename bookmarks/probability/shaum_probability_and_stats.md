@@ -106,7 +106,9 @@ answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]
 # Chapter-3
 ***
 problem:
-[[shaum_probability_and_stats.pdf#page=109&selection=135,0,154,60|Let X1 , X2 , . . . , Xn be n random variables which are identically distributed such that]]
+[[shaum_probability_and_stats.pdf#page=110&selection=15,4,15,84|Find the moment generating function of a random variable having density function]]
 
 answers: 
-[[shaum_probability_and_stats.pdf#page=114&selection=116,0,116,4|3.56]]
+[[shaum_probability_and_stats.pdf#page=114&selection=247,0,247,4|3.66]]
+
+Maybe interesting to find out moments of [[shaum_probability_and_stats.pdf#page=110&selection=7,4,9,5|Use the generating function of (a) to find the first four moments about the origin.]] To do so we need to expand $e^{2t}$ in numerator of mgf and match with terms of taylor expansion of moment generating function. 

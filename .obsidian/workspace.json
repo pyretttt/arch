@@ -31,7 +31,7 @@
                 "file": "probability/shaum_probability_and_stats.pdf",
                 "page": 114,
                 "left": -9,
-                "top": 526,
+                "top": 386,
                 "zoom": 1.6819479997889277
               },
               "icon": "lucide-file-text",
@@ -93,9 +93,9 @@
               "type": "pdf",
               "state": {
                 "file": "mml-book.pdf",
-                "page": 258,
+                "page": 270,
                 "left": -47,
-                "top": 508,
+                "top": 234,
                 "zoom": 1.3
               },
               "icon": "lucide-file-text",

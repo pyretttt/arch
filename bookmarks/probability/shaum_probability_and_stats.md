@@ -106,9 +106,14 @@ answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]
 # Chapter-3
 ***
 problem:
-[[shaum_probability_and_stats.pdf#page=110&selection=15,4,15,84|Find the moment generating function of a random variable having density function]]
+[[shaum_probability_and_stats.pdf#page=111&selection=2,0,12,49|3.75. Let X and Y be random variables having joint density function]]
 
 answers: 
-[[shaum_probability_and_stats.pdf#page=114&selection=247,0,247,4|3.66]]
+[[shaum_probability_and_stats.pdf#page=115&selection=0,0,2,10|3.75.]]
 
-Maybe interesting to find out moments of [[shaum_probability_and_stats.pdf#page=110&selection=7,4,9,5|Use the generating function of (a) to find the first four moments about the origin.]] To do so we need to expand $e^{2t}$ in numerator of mgf and match with terms of taylor expansion of moment generating function. 
+May be interesting to find out moments of [[shaum_probability_and_stats.pdf#page=110&selection=7,4,9,5|Use the generating function of (a) to find the first four moments about the origin.]] To do so we need to expand $e^{2t}$ in numerator of mgf and match with terms of taylor expansion of moment generating function. 
+***
+
+Pretty neat to understand how to apply L'Hopital rule here. Define $x = \frac{w}{\sqrt{ n }}$ then $n = (\frac{w}{x})^2$ and $x \to 0$ when $n \to \infty$. Apply L'hopital rule twice, then exponentiate to get answer.
+[[shaum_probability_and_stats.pdf#page=110&selection=87,0,96,1|Prove that as the characteristic function of Problem 3.73 approaches (Hint: Take the logarithm of the characteristic function and use L’Hospital’s rule.)]]
+***

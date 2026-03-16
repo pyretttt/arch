@@ -93,9 +93,9 @@
               "type": "pdf",
               "state": {
                 "file": "mml-book.pdf",
-                "page": 282,
+                "page": 291,
                 "left": -47,
-                "top": 651,
+                "top": 589,
                 "zoom": 1.3
               },
               "icon": "lucide-file-text",
@@ -103,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "6cd60c4c660c125a",
@@ -195,8 +195,7 @@
               "title": "cv_algorithms_and_applications"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,12 +287,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "file": "bookmarks/mml_book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shaum_probability_and_stats"
+              "title": "Outgoing links from mml_book"
             }
           },
           {
@@ -348,12 +347,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "9f8e647ebc8ec8c7",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "bookmarks/mml_book.md",
     "mml-book.pdf",
+    "bookmarks/mml_book.md",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/progress.md",

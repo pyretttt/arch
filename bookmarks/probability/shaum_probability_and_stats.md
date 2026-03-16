@@ -106,7 +106,7 @@ answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]
 # Chapter-3
 ***
 problem:
-[[shaum_probability_and_stats.pdf#page=111&selection=2,0,12,49|3.75. Let X and Y be random variables having joint density function]]
+[[shaum_probability_and_stats.pdf#page=111&selection=63,0,119,3|Find (a) the covariance, (b) the correlation coefficient of two random variables X and Y if E(X)  2, E(Y)  3, E(XY)  10, E(X2)  9, E(Y2 )  16.]]
 
 answers: 
 [[shaum_probability_and_stats.pdf#page=115&selection=0,0,2,10|3.75.]]

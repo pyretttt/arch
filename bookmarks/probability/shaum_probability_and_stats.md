@@ -106,10 +106,10 @@ answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]
 # Chapter-3
 ***
 problem:
-[[shaum_probability_and_stats.pdf#page=111&selection=63,0,119,3|Find (a) the covariance, (b) the correlation coefficient of two random variables X and Y if E(X)  2, E(Y)  3, E(XY)  10, E(X2)  9, E(Y2 )  16.]]
+[[shaum_probability_and_stats.pdf#page=112&selection=54,0,56,5|Other measures of central tendency]]
 
 answers: 
-[[shaum_probability_and_stats.pdf#page=115&selection=0,0,2,10|3.75.]]
+[[shaum_probability_and_stats.pdf#page=115&selection=371,0,371,4|3.92]]
 
 May be interesting to find out moments of [[shaum_probability_and_stats.pdf#page=110&selection=7,4,9,5|Use the generating function of (a) to find the first four moments about the origin.]] To do so we need to expand $e^{2t}$ in numerator of mgf and match with terms of taylor expansion of moment generating function. 
 ***

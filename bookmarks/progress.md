@@ -10,10 +10,14 @@
 - [ ] [[An Invitation to 3-D Vision.pdf]]
 - [ ] [[Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf]]
 - [ ] [[Multiple View Geometry in Computer Vision (Second Edition).pdf]]
-- [ ] 
 
+# Linalg
 ***
 - [ ] [[Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf]] _(Dropped, don't like it)_
 - [ ] [[Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf]] _(Dropped, don't like it)_
-- [ ] [[mml-book.pdf]]
+- [x] [[mml-book.pdf]]
 
+# ML
+***
+- [ ] [Understanding deep learning](UnderstandingDeepLearning_05_29_25_C.pdf)
+- [ ] 

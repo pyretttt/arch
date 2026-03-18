@@ -12,14 +12,16 @@
             "id": "fb44b9b5bc689636",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "bookmarks/progress.md",
-                "mode": "source",
-                "source": false
+                "file": "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
+                "page": 294,
+                "left": -13,
+                "top": 256,
+                "zoom": 1.1838235294117647
               },
-              "icon": "lucide-file",
-              "title": "progress"
+              "icon": "lucide-file-text",
+              "title": "UnderstandingDeepLearning_05_29_25_C"
             }
           },
           {
@@ -29,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 111,
-                "left": -9,
-                "top": 712,
-                "zoom": 1.6819479997889277
+                "page": 115,
+                "left": -11,
+                "top": 538,
+                "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -46,8 +48,8 @@
               "state": {
                 "file": "ml/diffusion_models_stanley_chan.pdf",
                 "page": 52,
-                "left": -2,
-                "top": 77,
+                "left": -4,
+                "top": 81,
                 "zoom": 1.48
               },
               "icon": "lucide-file-text",
@@ -62,9 +64,9 @@
               "state": {
                 "file": "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
                 "page": 51,
-                "left": 32,
-                "top": 742,
-                "zoom": 1.34
+                "left": 34,
+                "top": 746,
+                "zoom": 1.601388888888889
               },
               "icon": "lucide-file-text",
               "title": "Multiple View Geometry in Computer Vision (Second Edition)"
@@ -87,43 +89,29 @@
             }
           },
           {
-            "id": "d5d75014b07394b2",
+            "id": "6a37ff88bb389876",
             "type": "leaf",
+            "dimension": 20,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "mml-book.pdf",
+                "file": "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
                 "page": 291,
-                "left": -47,
-                "top": 589,
-                "zoom": 1.3
+                "left": -13,
+                "top": 639,
+                "zoom": 1.1838235294117647
               },
               "icon": "lucide-file-text",
-              "title": "mml-book"
+              "title": "UnderstandingDeepLearning_05_29_25_C"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
         "dimension": 29.156769596199528,
         "children": [
-          {
-            "id": "9f8e647ebc8ec8c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bookmarks/mml_book.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mml_book"
-            }
-          },
           {
             "id": "1c3c3e874173da54",
             "type": "leaf",
@@ -194,9 +182,23 @@
               "icon": "lucide-file",
               "title": "cv_algorithms_and_applications"
             }
+          },
+          {
+            "id": "0215e771d78e841a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/ml/understanding_deep_learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "understanding_deep_learning"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -253,8 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -288,12 +289,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "file": "bookmarks/ml/understanding_deep_learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shaum_probability_and_stats"
+              "title": "Outgoing links from understanding_deep_learning"
             }
           },
           {
@@ -348,26 +349,27 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "0215e771d78e841a",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "bookmarks/mml_book.md",
-    "mml-book.pdf",
-    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
-    "bookmarks/cv/cv_algorithms_and_applications.md",
-    "bookmarks/progress.md",
-    "bookmarks/cv/digital_image_processing.md",
-    "axler_linalg_done_right.pdf",
-    "LADR4e.pdf",
+    "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
+    "bookmarks/ml/understanding_deep_learning.md",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
-    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
-    "combinatorics-M.pdf",
+    "bookmarks/mml_book.md",
+    "bookmarks/progress.md",
+    "ml/deep_learning_architectures_a_mathematical_approach.pdf",
+    "ml/diffusion_models_stanley_chan.pdf",
+    "ml/ensemble_methods.pdf",
+    "ml/exercise_in_ml.pdf",
+    "ml/foundations_of_llm.pdf",
+    "ml/fundamental-mathematical-concepts-ml-science.pdf",
+    "ml/gaussian_process_in_ml.pdf",
+    "ml/inside_deep_learning_math_algorithms_models.pdf",
+    "ml/learn-generative-ai-pytorch.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "bookmarks/cv/cv_algorithms_and_applications.md",
+    "bookmarks/cv/digital_image_processing.md",
     "bookmarks/cv/multiple_view_geometry.md",
     "bookmarks/gilbert_strang.md",
-    "Introduction_to_Linear_Algebra_5th_Edition_2016_Gilbert_Strang.pdf",
-    "Gilbert_Strang_–_Introduction_to_Linear_Algebra,_5th_Edition_Solutions.pdf",
-    "ml/diffusion_models_stanley_chan.pdf",
     "cv/An.md",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock3-color.textureset/Universal.mipmapset/rock3-color.png",
     "gamedev/met-materials-3.0.0/31-performance-optimization/projects/starter/Performance/Shared/Textures/Textures.xcassets/rocks/rock2-color.textureset/Universal.mipmapset/rock2-color.png",

@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
-                "page": 294,
+                "page": 296,
                 "left": -13,
-                "top": 256,
+                "top": 595,
                 "zoom": 1.1838235294117647
               },
               "icon": "lucide-file-text",
@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 115,
+                "page": 112,
                 "left": -11,
-                "top": 538,
+                "top": 143,
                 "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
@@ -105,7 +105,8 @@
               "title": "UnderstandingDeepLearning_05_29_25_C"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
@@ -198,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -289,12 +290,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/ml/understanding_deep_learning.md",
+                "file": "bookmarks/probability/shaum_probability_and_stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from understanding_deep_learning"
+              "title": "Outgoing links from shaum_probability_and_stats"
             }
           },
           {
@@ -349,8 +350,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0215e771d78e841a",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
+    "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
     "bookmarks/ml/understanding_deep_learning.md",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
@@ -364,8 +367,6 @@
     "ml/fundamental-mathematical-concepts-ml-science.pdf",
     "ml/gaussian_process_in_ml.pdf",
     "ml/inside_deep_learning_math_algorithms_models.pdf",
-    "ml/learn-generative-ai-pytorch.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/cv/digital_image_processing.md",
     "bookmarks/cv/multiple_view_geometry.md",

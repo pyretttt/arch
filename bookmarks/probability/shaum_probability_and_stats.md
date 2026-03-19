@@ -106,10 +106,10 @@ answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]
 # Chapter-3
 ***
 problem:
-[[shaum_probability_and_stats.pdf#page=112&selection=54,0,56,5|Other measures of central tendency]]
+[[shaum_probability_and_stats.pdf#page=113&selection=0,0,0,5|3.100]]
 
 answers: 
-[[shaum_probability_and_stats.pdf#page=115&selection=371,0,371,4|3.92]]
+[[shaum_probability_and_stats.pdf#page=115&selection=423,0,423,4|3.98]]
 
 May be interesting to find out moments of [[shaum_probability_and_stats.pdf#page=110&selection=7,4,9,5|Use the generating function of (a) to find the first four moments about the origin.]] To do so we need to expand $e^{2t}$ in numerator of mgf and match with terms of taylor expansion of moment generating function. 
 ***

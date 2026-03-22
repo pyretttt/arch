@@ -105,15 +105,14 @@ answers: [[shaum_probability_and_stats.pdf#page=83&selection=118,0,118,4|2.93]]
 
 # Chapter-3
 ***
-problem:
-[[shaum_probability_and_stats.pdf#page=113&selection=0,0,0,5|3.100]]
-
-answers: 
-[[shaum_probability_and_stats.pdf#page=115&selection=423,0,423,4|3.98]]
-
 May be interesting to find out moments of [[shaum_probability_and_stats.pdf#page=110&selection=7,4,9,5|Use the generating function of (a) to find the first four moments about the origin.]] To do so we need to expand $e^{2t}$ in numerator of mgf and match with terms of taylor expansion of moment generating function. 
 ***
 
 Pretty neat to understand how to apply L'Hopital rule here. Define $x = \frac{w}{\sqrt{ n }}$ then $n = (\frac{w}{x})^2$ and $x \to 0$ when $n \to \infty$. Apply L'hopital rule twice, then exponentiate to get answer.
 [[shaum_probability_and_stats.pdf#page=110&selection=87,0,96,1|Prove that as the characteristic function of Problem 3.73 approaches (Hint: Take the logarithm of the characteristic function and use L’Hospital’s rule.)]]
 ***
+
+
+# Chapter-4
+***
+[[shaum_probability_and_stats.pdf#page=117&selection=5,0,7,108|The Binomial Distribution]]

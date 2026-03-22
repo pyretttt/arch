@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
-                "page": 296,
+                "page": 297,
                 "left": -13,
-                "top": 595,
+                "top": 428,
                 "zoom": 1.1838235294117647
               },
               "icon": "lucide-file-text",
@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 112,
-                "left": -11,
-                "top": 143,
-                "zoom": 1.409160249606335
+                "page": 117,
+                "left": -9,
+                "top": 537,
+                "zoom": 1.6819479997889277
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -256,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "6835bb1ade82e76c",

@@ -115,4 +115,4 @@ Pretty neat to understand how to apply L'Hopital rule here. Define $x = \frac{w}
 
 # Chapter-4
 ***
-[[shaum_probability_and_stats.pdf#page=117&selection=5,0,7,108|The Binomial Distribution]]
+[[shaum_probability_and_stats.pdf#page=123&selection=54,0,54,22|The Gamma Distribution]]

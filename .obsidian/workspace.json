@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
-                "page": 297,
-                "left": -13,
-                "top": 428,
-                "zoom": 1.1838235294117647
+                "page": 303,
+                "left": -240,
+                "top": 658,
+                "zoom": 0.82
               },
               "icon": "lucide-file-text",
               "title": "UnderstandingDeepLearning_05_29_25_C"
@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 117,
+                "page": 123,
                 "left": -9,
-                "top": 537,
+                "top": 665,
                 "zoom": 1.6819479997889277
               },
               "icon": "lucide-file-text",
@@ -355,8 +355,8 @@
   "lastOpenFiles": [
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
-    "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
     "bookmarks/ml/understanding_deep_learning.md",
+    "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/mml_book.md",
     "bookmarks/progress.md",

@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
-                "page": 303,
-                "left": -240,
-                "top": 658,
-                "zoom": 0.82
+                "page": 332,
+                "left": -67,
+                "top": 160,
+                "zoom": 1.2
               },
               "icon": "lucide-file-text",
               "title": "UnderstandingDeepLearning_05_29_25_C"
@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 123,
+                "page": 134,
                 "left": -9,
-                "top": 665,
+                "top": 575,
                 "zoom": 1.6819479997889277
               },
               "icon": "lucide-file-text",
@@ -86,23 +86,6 @@
               },
               "icon": "lucide-file-text",
               "title": "Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski"
-            }
-          },
-          {
-            "id": "6a37ff88bb389876",
-            "type": "leaf",
-            "dimension": 20,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
-                "page": 291,
-                "left": -13,
-                "top": 639,
-                "zoom": 1.1838235294117647
-              },
-              "icon": "lucide-file-text",
-              "title": "UnderstandingDeepLearning_05_29_25_C"
             }
           }
         ],
@@ -357,6 +340,7 @@
     "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/ml/understanding_deep_learning.md",
     "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
+    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/mml_book.md",
     "bookmarks/progress.md",
@@ -367,7 +351,6 @@
     "ml/foundations_of_llm.pdf",
     "ml/fundamental-mathematical-concepts-ml-science.pdf",
     "ml/gaussian_process_in_ml.pdf",
-    "ml/inside_deep_learning_math_algorithms_models.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/cv/digital_image_processing.md",
     "bookmarks/cv/multiple_view_geometry.md",

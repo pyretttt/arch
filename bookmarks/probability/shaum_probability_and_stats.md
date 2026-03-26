@@ -115,4 +115,5 @@ Pretty neat to understand how to apply L'Hopital rule here. Define $x = \frac{w}
 
 # Chapter-4
 ***
-[[shaum_probability_and_stats.pdf#page=123&selection=54,0,54,22|The Gamma Distribution]]
+[[shaum_probability_and_stats.pdf#page=134&selection=177,0,181,21|The mean inside diameter of a sample of 200 washers produced by a machine is 0.502 inches and the standard deviation is 0.005 inches. The purpose for which these washers are intended allows a maximum tolerance in the diameter of 0.496 to 0.508 inches, otherwise the washers are considered defective. Determine the percentage of defective washers produced by the machine, assuming the diameters are normally distributed.]]
+

@@ -115,5 +115,5 @@ Pretty neat to understand how to apply L'Hopital rule here. Define $x = \frac{w}
 
 # Chapter-4
 ***
-[[shaum_probability_and_stats.pdf#page=138&selection=191,0,198,1|Verify the central limit theorem for a random variable X that is binomially distributed, and thereby establish the validity of the normal approximation to the binomial distribution.]]
+[[shaum_probability_and_stats.pdf#page=142&selection=66,0,66,22|The gamma distribution]]
 

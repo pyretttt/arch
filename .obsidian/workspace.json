@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
-                "page": 341,
-                "left": -67,
-                "top": 558,
-                "zoom": 1.2
+                "page": 345,
+                "left": -142,
+                "top": 306,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "UnderstandingDeepLearning_05_29_25_C"
@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 138,
+                "page": 141,
                 "left": -9,
-                "top": 333,
+                "top": 78,
                 "zoom": 1.6819479997889277
               },
               "icon": "lucide-file-text",

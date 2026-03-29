@@ -115,5 +115,4 @@ Pretty neat to understand how to apply L'Hopital rule here. Define $x = \frac{w}
 
 # Chapter-4
 ***
-[[shaum_probability_and_stats.pdf#page=142&selection=66,0,66,22|The gamma distribution]]
-
+[[shaum_probability_and_stats.pdf#page=144&selection=97,0,100,9|The graph of the chi-square distribution with 5 degrees of freedom is shown in Fig. 4-18. (See the remarks on notation on page 115.) Find the values for which]]

@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
-                "page": 363,
+                "page": 364,
                 "left": -88,
-                "top": 624,
+                "top": 117,
                 "zoom": 0.96
               },
               "icon": "lucide-file-text",
@@ -48,9 +48,9 @@
               "state": {
                 "file": "ml/diffusion_models_stanley_chan.pdf",
                 "page": 5,
-                "left": 11,
-                "top": 355,
-                "zoom": 1.48
+                "left": -64,
+                "top": 526,
+                "zoom": 1.02
               },
               "icon": "lucide-file-text",
               "title": "diffusion_models_stanley_chan"
@@ -64,9 +64,9 @@
               "state": {
                 "file": "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
                 "page": 51,
-                "left": 34,
-                "top": 746,
-                "zoom": 1.601388888888889
+                "left": 33,
+                "top": 750,
+                "zoom": 1.3416666666666668
               },
               "icon": "lucide-file-text",
               "title": "Multiple View Geometry in Computer Vision (Second Edition)"
@@ -79,9 +79,9 @@
               "type": "pdf",
               "state": {
                 "file": "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
-                "page": 174,
-                "left": -4,
-                "top": 604,
+                "page": 177,
+                "left": 39,
+                "top": 716,
                 "zoom": 1.45
               },
               "icon": "lucide-file-text",
@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "6cd60c4c660c125a",
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -273,12 +273,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "file": "bookmarks/cv/cv_algorithms_and_applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shaum_probability_and_stats"
+              "title": "Outgoing links from cv_algorithms_and_applications"
             }
           },
           {
@@ -333,24 +333,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "a1385705c8182dd2",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+    "bookmarks/cv/cv_algorithms_and_applications.md",
+    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
+    "ml/diffusion_models_stanley_chan.pdf",
+    "probability/shaum_probability_and_stats.pdf",
+    "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "Numerical Algorithms_ Methods for Computer Vision, Machine Learning, and Graphics [Solomon 2015-07-13].pdf",
     "cv/_OceanofPDF.com_3D_Computer_Vision_Foundations_-_Yu-Jin_Zhang.pdf",
     "cv/An Invitation to 3-D Vision.pdf",
     "cv/Algorithms for image processing and computer vision.pdf",
     "cv/Computer Vision - A Modern Approach - D. Forsyth, J. Ponce.pdf",
-    "cv/computer-vision-reference-guide-2nd.pdf",
-    "cv/Fundamentals of Computer Vision.pdf",
-    "cv/mathematical_methods_for_cv.pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/ml/understanding_deep_learning.md",
     "bookmarks/mml_book.md",
     "bookmarks/progress.md",
-    "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/cv/digital_image_processing.md",
     "bookmarks/cv/multiple_view_geometry.md",
     "bookmarks/gilbert_strang.md",

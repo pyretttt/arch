@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
-                "page": 348,
-                "left": -142,
-                "top": 694,
-                "zoom": 1
+                "page": 363,
+                "left": -88,
+                "top": 624,
+                "zoom": 0.96
               },
               "icon": "lucide-file-text",
               "title": "UnderstandingDeepLearning_05_29_25_C"
@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 144,
-                "left": -9,
-                "top": 520,
-                "zoom": 1.6819479997889277
+                "page": 151,
+                "left": -11,
+                "top": 165,
+                "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -80,7 +80,7 @@
               "state": {
                 "file": "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
                 "page": 174,
-                "left": -11,
+                "left": -4,
                 "top": 604,
                 "zoom": 1.45
               },
@@ -239,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -338,19 +337,19 @@
   "lastOpenFiles": [
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
-    "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
-    "ml/diffusion_models_stanley_chan.pdf",
-    "probability/Introduction_to_probability_for_Data_Science_2021_Stanley_H_Chan.pdf",
+    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+    "Numerical Algorithms_ Methods for Computer Vision, Machine Learning, and Graphics [Solomon 2015-07-13].pdf",
+    "cv/_OceanofPDF.com_3D_Computer_Vision_Foundations_-_Yu-Jin_Zhang.pdf",
+    "cv/An Invitation to 3-D Vision.pdf",
+    "cv/Algorithms for image processing and computer vision.pdf",
+    "cv/Computer Vision - A Modern Approach - D. Forsyth, J. Ponce.pdf",
+    "cv/computer-vision-reference-guide-2nd.pdf",
+    "cv/Fundamentals of Computer Vision.pdf",
+    "cv/mathematical_methods_for_cv.pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/ml/understanding_deep_learning.md",
-    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "bookmarks/mml_book.md",
     "bookmarks/progress.md",
-    "ml/deep_learning_architectures_a_mathematical_approach.pdf",
-    "ml/ensemble_methods.pdf",
-    "ml/exercise_in_ml.pdf",
-    "ml/foundations_of_llm.pdf",
-    "ml/fundamental-mathematical-concepts-ml-science.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/cv/digital_image_processing.md",
     "bookmarks/cv/multiple_view_geometry.md",

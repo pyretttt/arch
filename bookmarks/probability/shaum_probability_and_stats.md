@@ -115,4 +115,8 @@ Pretty neat to understand how to apply L'Hopital rule here. Define $x = \frac{w}
 
 # Chapter-4
 ***
-[[shaum_probability_and_stats.pdf#page=151&selection=191,0,195,116|The grades on a short quiz in biology were 0, 1, 2, . . . , 10 points, depending on the number answered correctly out of 10 questions. The mean grade was 6.7, and the standard deviation was 1.2. Assuming the grades to be normally distributed, determine (a) the percentage of students scoring 6 points, (b) the maximum grade of the lowest 10% of the class, (c) the minimum grade of the highest 10% of the class.]]
+**problem:**
+[[shaum_probability_and_stats.pdf#page=154&selection=80,0,82,5|The normal distribution]]
+
+**solution**:
+[[shaum_probability_and_stats.pdf#page=157&selection=467,0,467,4|4.72]]

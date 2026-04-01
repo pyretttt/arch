@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 151,
+                "page": 157,
                 "left": -11,
-                "top": 165,
+                "top": 221,
                 "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -273,12 +273,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/cv/cv_algorithms_and_applications.md",
+                "file": "bookmarks/probability/shaum_probability_and_stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from cv_algorithms_and_applications"
+              "title": "Outgoing links from shaum_probability_and_stats"
             }
           },
           {
@@ -333,15 +333,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a1385705c8182dd2",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+    "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/cv/cv_algorithms_and_applications.md",
+    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "ml/diffusion_models_stanley_chan.pdf",
-    "probability/shaum_probability_and_stats.pdf",
     "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "Numerical Algorithms_ Methods for Computer Vision, Machine Learning, and Graphics [Solomon 2015-07-13].pdf",
     "cv/_OceanofPDF.com_3D_Computer_Vision_Foundations_-_Yu-Jin_Zhang.pdf",
     "cv/An Invitation to 3-D Vision.pdf",

@@ -116,7 +116,7 @@ Pretty neat to understand how to apply L'Hopital rule here. Define $x = \frac{w}
 # Chapter-4
 ***
 **problem:**
-[[shaum_probability_and_stats.pdf#page=154&selection=80,0,82,5|The normal distribution]]
+[[shaum_probability_and_stats.pdf#page=155&selection=86,0,86,45|Normal approximation to binomial distribution]]
 
 **solution**:
-[[shaum_probability_and_stats.pdf#page=157&selection=467,0,467,4|4.72]]
+[[shaum_probability_and_stats.pdf#page=158&selection=98,0,98,4|4.86]]

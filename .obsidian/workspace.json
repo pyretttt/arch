@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 158,
+                "page": 155,
                 "left": -11,
-                "top": 553,
+                "top": 534,
                 "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
@@ -79,10 +79,10 @@
               "type": "pdf",
               "state": {
                 "file": "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
-                "page": 177,
-                "left": 39,
-                "top": 716,
-                "zoom": 1.45
+                "page": 635,
+                "left": 2,
+                "top": 689,
+                "zoom": 1.38
               },
               "icon": "lucide-file-text",
               "title": "Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski"
@@ -337,14 +337,14 @@
   "lastOpenFiles": [
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+    "bookmarks/cv/cv_algorithms_and_applications.md",
+    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
+    "ml/diffusion_models_stanley_chan.pdf",
     "cv/2011_Book_RoboticsVisionAndControl.pdf",
     "probability/ProbabilisticRobotics.pdf",
     "probability/RM-StatRethink-Bayes.pdf",
     "probability/bayesian-methods-for-hackers.pdf",
-    "bookmarks/cv/cv_algorithms_and_applications.md",
-    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
-    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
-    "ml/diffusion_models_stanley_chan.pdf",
     "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
     "Numerical Algorithms_ Methods for Computer Vision, Machine Learning, and Graphics [Solomon 2015-07-13].pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",

@@ -116,7 +116,7 @@ Pretty neat to understand how to apply L'Hopital rule here. Define $x = \frac{w}
 # Chapter-4
 ***
 **problem:**
-[[shaum_probability_and_stats.pdf#page=155&selection=108,0,108,24|The Poisson distribution]]
+[[shaum_probability_and_stats.pdf#page=156&selection=16,0,16,31|The hypergeometric distribution]]
 
 **solution**:
-[[shaum_probability_and_stats.pdf#page=158&selection=128,0,128,4|4.90]]
+[[shaum_probability_and_stats.pdf#page=158&selection=186,0,186,4|4.98]]

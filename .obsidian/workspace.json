@@ -33,7 +33,7 @@
                 "file": "probability/shaum_probability_and_stats.pdf",
                 "page": 158,
                 "left": -11,
-                "top": 731,
+                "top": 225,
                 "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
@@ -65,7 +65,7 @@
                 "file": "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
                 "page": 51,
                 "left": 33,
-                "top": 750,
+                "top": 746,
                 "zoom": 1.3416666666666668
               },
               "icon": "lucide-file-text",
@@ -336,9 +336,9 @@
   "lastOpenFiles": [
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
-    "bookmarks/cv/cv_algorithms_and_applications.md",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
+    "bookmarks/cv/cv_algorithms_and_applications.md",
     "ml/diffusion_models_stanley_chan.pdf",
     "cv/2011_Book_RoboticsVisionAndControl.pdf",
     "probability/ProbabilisticRobotics.pdf",

@@ -33,7 +33,7 @@
                 "file": "probability/shaum_probability_and_stats.pdf",
                 "page": 156,
                 "left": -11,
-                "top": 359,
+                "top": 275,
                 "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
@@ -79,10 +79,10 @@
               "type": "pdf",
               "state": {
                 "file": "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
-                "page": 423,
-                "left": -46,
-                "top": 565,
-                "zoom": 1.1
+                "page": 421,
+                "left": -13,
+                "top": 359,
+                "zoom": 1.2170824961866429
               },
               "icon": "lucide-file-text",
               "title": "Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski"
@@ -103,9 +103,25 @@
               "icon": "lucide-file-text",
               "title": "Probability for Statistics and Machine Learning"
             }
+          },
+          {
+            "id": "6da5d3784e100a70",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "lm.pdf",
+                "page": 1,
+                "left": -13,
+                "top": 698,
+                "zoom": 1.1838235294117647
+              },
+              "icon": "lucide-file-text",
+              "title": "lm"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "6cd60c4c660c125a",
@@ -348,10 +364,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "6da5d3784e100a70",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
+    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+    "lm.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
     "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
     "probability/Probability for Statistics and Machine Learning.pdf",
     "probability/Probabilistic Robotics.pdf",
@@ -360,7 +378,6 @@
     "probability/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf",
     "probability/learning_representations_of_data_distribution.pdf",
     "probability/ISLP_website.pdf",
-    "probability/Introduction_to_Probability,_Statistics,_and_Random_Processes_Hossein.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/ml/understanding_deep_learning.md",

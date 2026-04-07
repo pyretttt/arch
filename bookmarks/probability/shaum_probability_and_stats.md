@@ -116,7 +116,8 @@ Pretty neat to understand how to apply L'Hopital rule here. Define $x = \frac{w}
 # Chapter-4
 ***
 **problem:**
-[[shaum_probability_and_stats.pdf#page=156&selection=108,0,108,23|The Cauchy distribution]]
+[[shaum_probability_and_stats.pdf#page=156&selection=155,0,155,5|4.107]]
 
 **solution**:
 [[shaum_probability_and_stats.pdf#page=158&selection=277,0,277,5|4.105]]
+

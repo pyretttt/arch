@@ -111,9 +111,9 @@
               "type": "pdf",
               "state": {
                 "file": "lm.pdf",
-                "page": 3,
+                "page": 21,
                 "left": -13,
-                "top": 460,
+                "top": 199,
                 "zoom": 1.1838235294117647
               },
               "icon": "lucide-file-text",
@@ -133,26 +133,9 @@
               "icon": "lucide-file",
               "title": "progress"
             }
-          },
-          {
-            "id": "d5ab16d0a798acac",
-            "type": "leaf",
-            "dimension": 12.5,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "probability/gamma_chi_student_f_distributions.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 538,
-                "zoom": 1.1838235294117647
-              },
-              "icon": "lucide-file-text",
-              "title": "gamma_chi_student_f_distributions"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       },
       {
         "id": "6cd60c4c660c125a",
@@ -395,13 +378,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "4f66e049c05b8bf3",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "lm.pdf",
-    "probability/gamma_chi_student_f_distributions.pdf",
+    "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
     "bookmarks/progress.md",
+    "probability/gamma_chi_student_f_distributions.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "probability/bayesian-methods-for-hackers.pdf",
     "probability/A-First-Course-in-Probability.pdf",

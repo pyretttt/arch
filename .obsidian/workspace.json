@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 156,
+                "page": 162,
                 "left": -11,
-                "top": 275,
+                "top": 713,
                 "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
@@ -111,9 +111,9 @@
               "type": "pdf",
               "state": {
                 "file": "lm.pdf",
-                "page": 2,
+                "page": 3,
                 "left": -13,
-                "top": 508,
+                "top": 460,
                 "zoom": 1.1838235294117647
               },
               "icon": "lucide-file-text",
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
@@ -395,14 +395,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6da5d3784e100a70",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "lm.pdf",
     "probability/gamma_chi_student_f_distributions.pdf",
     "bookmarks/progress.md",
     "bookmarks/cv/cv_algorithms_and_applications.md",
-    "lm.pdf",
     "probability/bayesian-methods-for-hackers.pdf",
     "probability/A-First-Course-in-Probability.pdf",
     "probability/EvansRosenthalProbability.pdf",

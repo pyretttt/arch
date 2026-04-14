@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 162,
+                "page": 165,
                 "left": -11,
-                "top": 713,
+                "top": 86,
                 "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
@@ -65,7 +65,7 @@
                 "file": "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
                 "page": 51,
                 "left": 33,
-                "top": 746,
+                "top": 738,
                 "zoom": 1.3416666666666668
               },
               "icon": "lucide-file-text",
@@ -79,9 +79,9 @@
               "type": "pdf",
               "state": {
                 "file": "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
-                "page": 421,
+                "page": 424,
                 "left": -13,
-                "top": 359,
+                "top": 783,
                 "zoom": 1.2170824961866429
               },
               "icon": "lucide-file-text",
@@ -135,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       },
       {
         "id": "6cd60c4c660c125a",
@@ -227,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -378,22 +378,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4f66e049c05b8bf3",
+  "active": "a1385705c8182dd2",
   "lastOpenFiles": [
-    "lm.pdf",
-    "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
-    "bookmarks/progress.md",
-    "probability/gamma_chi_student_f_distributions.pdf",
+    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+    "bookmarks/cv/cv_algorithms_and_applications.md",
+    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/cv/cv_algorithms_and_applications.md",
+    "bookmarks/progress.md",
+    "probability/gamma_chi_student_f_distributions.pdf",
+    "lm.pdf",
+    "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
     "probability/bayesian-methods-for-hackers.pdf",
     "probability/A-First-Course-in-Probability.pdf",
     "probability/EvansRosenthalProbability.pdf",
     "probability/EvansRosenthalsolutions.pdf",
-    "probability/One_Thousand_Exercises_in_Probability_Third_Edition_Geoffrey_Grimmett-1.pdf",
-    "probability/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf",
-    "probability/learning_representations_of_data_distribution.pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/ml/understanding_deep_learning.md",
     "bookmarks/mml_book.md",

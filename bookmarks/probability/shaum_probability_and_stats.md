@@ -126,4 +126,6 @@ Side read before continuing exercises
 
 # Chapter-5
 ***
-[[shaum_probability_and_stats.pdf#page=162&selection=4,0,4,15|Sampling Theory]]
+[[shaum_probability_and_stats.pdf#page=166&selection=10,0,10,45|Sampling Distribution of Differences and Sums]]
+
+**Current**: [[shaum_probability_and_stats.pdf#page=166&selection=170,0,170,19|The Sample Variance]]

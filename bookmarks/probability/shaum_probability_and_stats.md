@@ -128,4 +128,5 @@ Side read before continuing exercises
 ***
 [[shaum_probability_and_stats.pdf#page=166&selection=10,0,10,45|Sampling Distribution of Differences and Sums]]
 
-**Current**: [[shaum_probability_and_stats.pdf#page=166&selection=170,0,170,19|The Sample Variance]]
+**Current**: 
+[[shaum_probability_and_stats.pdf#page=171&selection=6,0,24,4|In the case where class intervals all have equal size c, there are available short methods for computing the mean and variance. These are called coding methods and make use of the transformation from the class mark x to a corresponding integer u given by]]

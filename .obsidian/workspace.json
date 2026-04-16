@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 165,
+                "page": 171,
                 "left": -11,
-                "top": 86,
+                "top": 717,
                 "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
@@ -135,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
@@ -227,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -378,13 +378,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a1385705c8182dd2",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
-    "bookmarks/cv/cv_algorithms_and_applications.md",
-    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "bookmarks/cv/cv_algorithms_and_applications.md",
+    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "bookmarks/progress.md",
     "probability/gamma_chi_student_f_distributions.pdf",
     "lm.pdf",

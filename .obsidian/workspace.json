@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 184,
-                "left": -30,
-                "top": 425,
-                "zoom": 0.5164003399178494
+                "page": 193,
+                "left": -11,
+                "top": 204,
+                "zoom": 1.4091602496063347
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -378,11 +378,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f6793c86be5cd9eb",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "151_trading_stategy.pdf",
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "151_trading_stategy.pdf",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
@@ -393,7 +393,6 @@
     "probability/bayesian-methods-for-hackers.pdf",
     "probability/A-First-Course-in-Probability.pdf",
     "probability/EvansRosenthalProbability.pdf",
-    "probability/EvansRosenthalsolutions.pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/ml/understanding_deep_learning.md",
     "bookmarks/mml_book.md",

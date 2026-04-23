@@ -33,7 +33,7 @@
                 "file": "probability/shaum_probability_and_stats.pdf",
                 "page": 195,
                 "left": -11,
-                "top": 683,
+                "top": 485,
                 "zoom": 1.4091602496063347
               },
               "icon": "lucide-file-text",
@@ -380,6 +380,7 @@
   },
   "active": "922cc3cb4c524101",
   "lastOpenFiles": [
+    "book-kubernetes-container-orchestration.pdf",
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/progress.md",

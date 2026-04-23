@@ -33,7 +33,7 @@
                 "file": "probability/shaum_probability_and_stats.pdf",
                 "page": 195,
                 "left": -11,
-                "top": 774,
+                "top": 683,
                 "zoom": 1.4091602496063347
               },
               "icon": "lucide-file-text",
@@ -105,22 +105,6 @@
             }
           },
           {
-            "id": "6da5d3784e100a70",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "lm.pdf",
-                "page": 21,
-                "left": -13,
-                "top": 199,
-                "zoom": 1.1838235294117647
-              },
-              "icon": "lucide-file-text",
-              "title": "lm"
-            }
-          },
-          {
             "id": "4f66e049c05b8bf3",
             "type": "leaf",
             "state": {
@@ -132,6 +116,22 @@
               },
               "icon": "lucide-file",
               "title": "progress"
+            }
+          },
+          {
+            "id": "f923c27fc7a9fd9b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Networking All-in-One Desk Reference for Dummies 2nd Edition.pdf",
+                "page": 33,
+                "left": -4,
+                "top": 280,
+                "zoom": 1.4
+              },
+              "icon": "lucide-file-text",
+              "title": "Networking All-in-One Desk Reference for Dummies 2nd Edition"
             }
           }
         ],
@@ -380,20 +380,19 @@
   },
   "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "Networking All-in-One Desk Reference for Dummies 2nd Edition.pdf",
-    "Network Warrior, 2nd Edition.pdf",
-    "practical-gpu-graphics-rust.pdf",
-    "ultimate-docker-container-book-4th.pdf",
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "bookmarks/progress.md",
+    "probability/gamma_chi_student_f_distributions.pdf",
+    "Networking All-in-One Desk Reference for Dummies 2nd Edition.pdf",
+    "Network Warrior, 2nd Edition.pdf",
+    "lm.pdf",
+    "practical-gpu-graphics-rust.pdf",
+    "ultimate-docker-container-book-4th.pdf",
     "151_trading_stategy.pdf",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
-    "bookmarks/progress.md",
-    "probability/gamma_chi_student_f_distributions.pdf",
-    "lm.pdf",
-    "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/ml/understanding_deep_learning.md",
     "bookmarks/mml_book.md",

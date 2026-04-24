@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 195,
+                "page": 202,
                 "left": -11,
-                "top": 485,
+                "top": 150,
                 "zoom": 1.4091602496063347
               },
               "icon": "lucide-file-text",
@@ -380,9 +380,9 @@
   },
   "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "book-kubernetes-container-orchestration.pdf",
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "book-kubernetes-container-orchestration.pdf",
     "bookmarks/progress.md",
     "probability/gamma_chi_student_f_distributions.pdf",
     "Networking All-in-One Desk Reference for Dummies 2nd Edition.pdf",
@@ -393,7 +393,6 @@
     "151_trading_stategy.pdf",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
-    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/ml/understanding_deep_learning.md",
     "bookmarks/mml_book.md",

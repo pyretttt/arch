@@ -129,8 +129,8 @@ Side read before continuing exercises
 [[shaum_probability_and_stats.pdf#page=166&selection=10,0,10,45|Sampling Distribution of Differences and Sums]]
 
 **Current**: 
-[[shaum_probability_and_stats.pdf#page=196&selection=118,0,118,4|5.72]]
+[[shaum_probability_and_stats.pdf#page=197&selection=90,0,90,4|5.82]]
 
 **answer**: 
-[[shaum_probability_and_stats.pdf#page=203&selection=30,0,30,4|5.72]]
+[[shaum_probability_and_stats.pdf#page=203&selection=68,0,68,4|5.82]]
 

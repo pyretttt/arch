@@ -33,7 +33,7 @@
                 "file": "probability/shaum_probability_and_stats.pdf",
                 "page": 203,
                 "left": -11,
-                "top": 733,
+                "top": 643,
                 "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
@@ -96,9 +96,9 @@
               "state": {
                 "file": "probability/A-First-Course-in-Probability.pdf",
                 "page": 232,
-                "left": -5,
-                "top": 454,
-                "zoom": 1.3136422023758194
+                "left": -4,
+                "top": 458,
+                "zoom": 1.313642366724015
               },
               "icon": "lucide-file-text",
               "title": "A-First-Course-in-Probability"
@@ -116,39 +116,6 @@
               },
               "icon": "lucide-file",
               "title": "progress"
-            }
-          },
-          {
-            "id": "f923c27fc7a9fd9b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Networking All-in-One Desk Reference for Dummies 2nd Edition.pdf",
-                "page": 33,
-                "left": -4,
-                "top": 280,
-                "zoom": 1.4
-              },
-              "icon": "lucide-file-text",
-              "title": "Networking All-in-One Desk Reference for Dummies 2nd Edition"
-            }
-          },
-          {
-            "id": "756095fdf092414b",
-            "type": "leaf",
-            "dimension": 12.5,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "book-kubernetes-container-orchestration.pdf",
-                "page": 43,
-                "left": -11,
-                "top": 359,
-                "zoom": 1.4375
-              },
-              "icon": "lucide-file-text",
-              "title": "book-kubernetes-container-orchestration"
             }
           }
         ],
@@ -241,6 +208,20 @@
               },
               "icon": "lucide-file",
               "title": "understanding_deep_learning"
+            }
+          },
+          {
+            "id": "394e37373ec337ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/book_k8s.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "book_k8s"
             }
           }
         ],
@@ -399,16 +380,17 @@
   "lastOpenFiles": [
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
-    "book-kubernetes-container-orchestration.pdf",
     "ml/diffusion_models_stanley_chan.pdf",
     "bookmarks/progress.md",
-    "probability/gamma_chi_student_f_distributions.pdf",
+    "mastering-python-networking-automation-programmability-3rd.pdf",
+    "fundamentals-devops-software-delivery-hands.pdf",
+    "computer-networks-internet-hands-approach.pdf",
+    "book-kubernetes-container-orchestration.pdf",
+    "bookmarks/book_k8s.md",
+    "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
+    "probability/A-First-Course-in-Probability.pdf",
     "Networking All-in-One Desk Reference for Dummies 2nd Edition.pdf",
     "Network Warrior, 2nd Edition.pdf",
-    "lm.pdf",
-    "practical-gpu-graphics-rust.pdf",
-    "ultimate-docker-container-book-4th.pdf",
-    "151_trading_stategy.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/ml/understanding_deep_learning.md",

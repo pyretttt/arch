@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 203,
+                "page": 202,
                 "left": -11,
-                "top": 643,
+                "top": 556,
                 "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
@@ -116,6 +116,23 @@
               },
               "icon": "lucide-file",
               "title": "progress"
+            }
+          },
+          {
+            "id": "2cb8a648528dc4fa",
+            "type": "leaf",
+            "dimension": 14.285714285714286,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "book-kubernetes-container-orchestration.pdf",
+                "page": 76,
+                "left": -10,
+                "top": 188,
+                "zoom": 1.4422933359876577
+              },
+              "icon": "lucide-file-text",
+              "title": "book-kubernetes-container-orchestration"
             }
           }
         ],
@@ -376,21 +393,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "bafafbd95d1598ef",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
-    "ml/diffusion_models_stanley_chan.pdf",
+    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/progress.md",
+    "computer-networking-top-down-approach-9th.pdf",
+    "book-kubernetes-container-orchestration.pdf",
+    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
+    "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+    "ml/diffusion_models_stanley_chan.pdf",
     "mastering-python-networking-automation-programmability-3rd.pdf",
     "fundamentals-devops-software-delivery-hands.pdf",
     "computer-networks-internet-hands-approach.pdf",
-    "book-kubernetes-container-orchestration.pdf",
     "bookmarks/book_k8s.md",
     "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
-    "probability/A-First-Course-in-Probability.pdf",
-    "Networking All-in-One Desk Reference for Dummies 2nd Edition.pdf",
-    "Network Warrior, 2nd Edition.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/ml/understanding_deep_learning.md",

@@ -129,8 +129,24 @@ Side read before continuing exercises
 [[shaum_probability_and_stats.pdf#page=166&selection=10,0,10,45|Sampling Distribution of Differences and Sums]]
 
 **Current**: 
-[[shaum_probability_and_stats.pdf#page=197&selection=90,0,90,4|5.82]]
+[[shaum_probability_and_stats.pdf#page=202&selection=26,0,26,5|5.130]]
 
 **answer**: 
-[[shaum_probability_and_stats.pdf#page=203&selection=68,0,68,4|5.82]]
+[[shaum_probability_and_stats.pdf#page=203&selection=304,0,304,5|5.130]]
 
+***
+[[shaum_probability_and_stats.pdf#page=202&selection=16,0,19,5|Certain tubes produced by a company have a mean lifetime of 900 hours and a standard deviation of 80 hours. The company sends out 1000 lots of 100 tubes each. In how many lots can we expect (a) the mean lifetimes to exceed 910 hours, (b) the standard deviations of the lifetimes to exceed 95 hours? What assumptions must be made?]]
+
+Interesting to understand how to solve _(b)_. It actually asks for
+$$\begin{align}
+P(S_{Y} > 95^2)
+\end{align}$$
+where $Y$ is sample of size $n = 100$
+$$\begin{align}
+P(S_{Y} > 95^2) \\
+= P\left(  \sum \frac{{(X_{i} - \overline{X})^2}}{n} > 9025 \right) \\
+= P\left(  \sum \frac{{(X_{i} - \overline{X})^2}}{\sigma^2} > 9025 \cdot \frac{100}{\sigma^2} \right) \\
+= P(\chi^2_{99} > 141) \\
+= 0.00358
+\end{align}$$
+where left hand side sum is Chi squared distribution with $99$ degrees of freedom. Thereof answer is $1000 * P(S_{Y} > 95^2) \approx 4$

@@ -163,3 +163,7 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 = P(Z > 2.38) \\
 \approx 0.009
 \end{align}$$
+
+# Chapter-6
+***
+[[shaum_probability_and_stats.pdf#page=204&selection=2,0,2,17|Estimation Theory]]

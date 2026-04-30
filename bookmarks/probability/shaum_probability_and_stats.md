@@ -150,3 +150,16 @@ P(S_{Y} > 95^2) \\
 = 0.00358
 \end{align}$$
 where left hand side sum is Chi squared distribution with $99$ degrees of freedom. Thereof answer is $1000 * P(S_{Y} > 95^2) \approx 4$
+***
+
+[[shaum_probability_and_stats.pdf#page=202&selection=28,0,32,6|On a citywide examination the grades were normally distributed with mean 72 and standard deviation 8. (a) Find the minimum grade of the top 20% of the students. (b) Find the probability that in a random sample of 100 students, the minimum grade of the top 20% will be less than 76.]]
+It is hard to understand what expression to solve for in _(b)_. Actually we can compute probability of single grade to be less than 76
+$$\begin{align}
+P(X \leq 76) = P\left( Z \leq \frac{72 - 76}{8}\right) = 0.6915
+\end{align}$$
+And then we need to compute probability of $Y = \sum X_{i}$ be greater then $80$
+$$\begin{align}
+P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \right) \\
+= P(Z > 2.38) \\
+\approx 0.009
+\end{align}$$

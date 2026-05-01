@@ -47,10 +47,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/A-First-Course-in-Probability.pdf",
-                "page": 232,
-                "left": -4,
-                "top": 726,
-                "zoom": 1.313642366724015
+                "page": 231,
+                "left": -2,
+                "top": 6,
+                "zoom": 1.5679395950649992
               },
               "icon": "lucide-file-text",
               "title": "A-First-Course-in-Probability"
@@ -78,9 +78,9 @@
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
                 "page": 29,
-                "left": -4,
-                "top": 484,
-                "zoom": 0.9138418079096046
+                "left": -84,
+                "top": 488,
+                "zoom": 1.0833333333333333
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -264,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -299,12 +298,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from network"
+              "title": "Outgoing links"
             }
           },
           {
@@ -359,12 +357,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0ad1de5608173a6c",
+  "active": "f6793c86be5cd9eb",
   "lastOpenFiles": [
-    "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/network.md",
+    "Kubernetes in Action.pdf",
+    "kubernetes-book-poulton.pdf",
     "bookmarks/progress.md",
+    "computer-networking-top-down-approach-9th.pdf",
     "probability/A-First-Course-in-Probability.pdf",
+    "bookmarks/network.md",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "ml/diffusion_models_stanley_chan.pdf",
@@ -373,7 +373,6 @@
     "book-kubernetes-container-orchestration.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "mastering-python-networking-automation-programmability-3rd.pdf",
-    "fundamentals-devops-software-delivery-hands.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/ml/understanding_deep_learning.md",

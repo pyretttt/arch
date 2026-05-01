@@ -24,3 +24,8 @@
 ***
 - [ ] [Understanding deep learning](UnderstandingDeepLearning_05_29_25_C.pdf)
 - [ ] [[book-kubernetes-container-orchestration.pdf]] 
+
+
+# Network
+***
+- [ ] [[computer-networking-top-down-approach-9th.pdf]]

@@ -9,32 +9,16 @@
         "dimension": 70.84323040380048,
         "children": [
           {
-            "id": "fb44b9b5bc689636",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
-                "page": 364,
-                "left": -88,
-                "top": 121,
-                "zoom": 0.96
-              },
-              "icon": "lucide-file-text",
-              "title": "UnderstandingDeepLearning_05_29_25_C"
-            }
-          },
-          {
             "id": "bafafbd95d1598ef",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 207,
-                "left": -12,
-                "top": 147,
-                "zoom": 1.204934126474982
+                "page": 208,
+                "left": -11,
+                "top": 673,
+                "zoom": 1.409160249606335
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -49,43 +33,11 @@
                 "file": "ml/diffusion_models_stanley_chan.pdf",
                 "page": 5,
                 "left": -64,
-                "top": 530,
+                "top": 534,
                 "zoom": 1.02
               },
               "icon": "lucide-file-text",
               "title": "diffusion_models_stanley_chan"
-            }
-          },
-          {
-            "id": "e87144de4ffc3b61",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
-                "page": 51,
-                "left": 33,
-                "top": 738,
-                "zoom": 1.3416666666666668
-              },
-              "icon": "lucide-file-text",
-              "title": "Multiple View Geometry in Computer Vision (Second Edition)"
-            }
-          },
-          {
-            "id": "faa54cf8e7232e91",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
-                "page": 424,
-                "left": -13,
-                "top": 783,
-                "zoom": 1.2170824961866429
-              },
-              "icon": "lucide-file-text",
-              "title": "Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski"
             }
           },
           {
@@ -97,7 +49,7 @@
                 "file": "probability/A-First-Course-in-Probability.pdf",
                 "page": 232,
                 "left": -4,
-                "top": 458,
+                "top": 726,
                 "zoom": 1.313642366724015
               },
               "icon": "lucide-file-text",
@@ -119,23 +71,23 @@
             }
           },
           {
-            "id": "2cb8a648528dc4fa",
+            "id": "d9ef6352e7c0df26",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "book-kubernetes-container-orchestration.pdf",
-                "page": 76,
-                "left": -10,
-                "top": 188,
-                "zoom": 1.4422933359876577
+                "file": "computer-networking-top-down-approach-9th.pdf",
+                "page": 29,
+                "left": -4,
+                "top": 484,
+                "zoom": 0.9138418079096046
               },
               "icon": "lucide-file-text",
-              "title": "book-kubernetes-container-orchestration"
+              "title": "computer-networking-top-down-approach-9th"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "6cd60c4c660c125a",
@@ -239,9 +191,23 @@
               "icon": "lucide-file",
               "title": "book_k8s"
             }
+          },
+          {
+            "id": "0ad1de5608173a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "network"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -298,7 +264,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -332,12 +299,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+                "file": "bookmarks/network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski"
+              "title": "Outgoing links from network"
             }
           },
           {
@@ -392,21 +359,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "0ad1de5608173a6c",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "bookmarks/progress.md",
     "computer-networking-top-down-approach-9th.pdf",
-    "book-kubernetes-container-orchestration.pdf",
-    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
+    "bookmarks/network.md",
+    "bookmarks/progress.md",
+    "probability/A-First-Course-in-Probability.pdf",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
+    "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
     "ml/diffusion_models_stanley_chan.pdf",
+    "probability/shaum_probability_and_stats.pdf",
+    "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
+    "book-kubernetes-container-orchestration.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "mastering-python-networking-automation-programmability-3rd.pdf",
     "fundamentals-devops-software-delivery-hands.pdf",
-    "computer-networks-internet-hands-approach.pdf",
-    "bookmarks/book_k8s.md",
-    "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/ml/understanding_deep_learning.md",

@@ -1,2 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=29&selection=53,0,54,4|Our discussion above has identified many of the pieces that make up the Internet.]]
-
+[[computer-networking-top-down-approach-9th.pdf#page=40&selection=45,0,45,55|In the previous subsection, we gave an overview of some]]

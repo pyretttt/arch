@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 209,
-                "left": -10,
-                "top": 616,
-                "zoom": 1.5171083432614785
+                "page": 212,
+                "left": -8,
+                "top": 547,
+                "zoom": 1.8103187057572065
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -78,7 +78,7 @@
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
                 "page": 40,
-                "left": 25,
+                "left": -172,
                 "top": 277,
                 "zoom": 1.1
               },
@@ -86,8 +86,7 @@
               "title": "computer-networking-top-down-approach-9th"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "6cd60c4c660c125a",
@@ -136,8 +135,7 @@
               "title": "network"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,12 +227,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/network.md",
+                "file": "bookmarks/probability/shaum_probability_and_stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from network"
+              "title": "Outgoing links from shaum_probability_and_stats"
             }
           },
           {
@@ -289,13 +287,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0ad1de5608173a6c",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
+    "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/network.md",
     "bookmarks/cv/cv_algorithms_and_applications.md",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/cv/multiple_view_geometry.md",
     "bookmarks/cv/digital_image_processing.md",

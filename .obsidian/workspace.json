@@ -77,10 +77,10 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 46,
-                "left": 24,
-                "top": 277,
-                "zoom": 1.1
+                "page": 52,
+                "left": -135,
+                "top": 635,
+                "zoom": 1.2
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -93,16 +93,17 @@
               "type": "pdf",
               "state": {
                 "file": "kubernetes-book-poulton.pdf",
-                "page": 25,
-                "left": -9,
-                "top": 606,
-                "zoom": 1.7236111111111112
+                "page": 34,
+                "left": -167,
+                "top": 664,
+                "zoom": 1.1
               },
               "icon": "lucide-file-text",
               "title": "kubernetes-book-poulton"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "6cd60c4c660c125a",
@@ -165,7 +166,8 @@
               "title": "k8s_book"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -257,12 +259,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "file": "bookmarks/k8s_book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shaum_probability_and_stats"
+              "title": "Outgoing links from k8s_book"
             }
           },
           {
@@ -317,15 +319,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "8e96a2b6ad64f396",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "ml/diffusion_models_stanley_chan.pdf",
-    "bookmarks/network.md",
     "kubernetes-book-poulton.pdf",
-    "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/k8s_book.md",
+    "1aslam_blas_repo.pdf",
+    "bookmarks/network.md",
+    "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
+    "ml/diffusion_models_stanley_chan.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/cv/multiple_view_geometry.md",
@@ -337,7 +340,6 @@
     "bookmarks/progress.md",
     "cv/Computer Vision Algorithms and Applications (Texts in Computer Science) [2022] Richard Szeliski.pdf",
     "cv/Multiple View Geometry in Computer Vision (Second Edition).pdf",
-    "ml/UnderstandingDeepLearning_05_29_25_C.pdf",
     "bookmarks/mml_book.md",
     "bookmarks/gilbert_strang.md",
     "cv/An.md",

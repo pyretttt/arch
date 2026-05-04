@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=46&selection=54,0,54,82|Earlier, we said that a router takes a packet arriving on one of its attached com-]]
+[[computer-networking-top-down-approach-9th.pdf#page=52&selection=9,0,9,49|We saw earlier that end systems (PCs, smartphones]]

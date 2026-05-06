@@ -1,1 +1,1 @@
-[[kubernetes-book-poulton.pdf#page=34&selection=38,0,38,11|Pod anatomy]]
+[[kubernetes-book-poulton.pdf#page=47&selection=4,0,6,87|If you already have a kubeconfig file]]

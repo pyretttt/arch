@@ -1,1 +1,1 @@
-[[kubernetes-book-poulton.pdf#page=47&selection=4,0,6,87|If you already have a kubeconfig file]]
+[[kubernetes-book-poulton.pdf#page=60&selection=40,0,40,20|Multi-container Pods]]

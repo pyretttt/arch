@@ -77,9 +77,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 55,
-                "left": 470,
-                "top": 97,
+                "page": 60,
+                "left": 111,
+                "top": 551,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -93,16 +93,17 @@
               "type": "pdf",
               "state": {
                 "file": "kubernetes-book-poulton.pdf",
-                "page": 47,
-                "left": -167,
-                "top": 632,
-                "zoom": 1.1
+                "page": 60,
+                "left": 28,
+                "top": 172,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "kubernetes-book-poulton"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "6cd60c4c660c125a",
@@ -165,7 +166,8 @@
               "title": "k8s_book"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -257,12 +259,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "file": "bookmarks/k8s_book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shaum_probability_and_stats"
+              "title": "Outgoing links from k8s_book"
             }
           },
           {
@@ -317,15 +319,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "8e96a2b6ad64f396",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "bookmarks/k8s_book.md",
     "kubernetes-book-poulton.pdf",
+    "bookmarks/k8s_book.md",
     "bookmarks/network.md",
-    "SystemDesignInterview.pdf",
     "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
+    "SystemDesignInterview.pdf",
     "MIT-Quant-Bible.pdf",
     "1aslam_blas_repo.pdf",
     "ml/diffusion_models_stanley_chan.pdf",

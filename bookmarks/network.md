@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=52&selection=9,0,9,49|We saw earlier that end systems (PCs, smartphones]]
+[[computer-networking-top-down-approach-9th.pdf#page=60&selection=15,0,15,68|The most complicated and interesting component of nodal delay is the]]

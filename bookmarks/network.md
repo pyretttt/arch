@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=60&selection=15,0,15,68|The most complicated and interesting component of nodal delay is the]]
+[[computer-networking-top-down-approach-9th.pdf#page=64&selection=79,0,81,47|In addition to delay and packet loss, another critical performance measure in computer networks is end-to-end throughput. To define throughput, consider transferring a large file from Host A to Host B]]

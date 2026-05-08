@@ -1,1 +1,1 @@
-[[kubernetes-book-poulton.pdf#page=60&selection=40,0,40,20|Multi-container Pods]]
+[[kubernetes-book-poulton.pdf#page=75&selection=110,0,112,84|The job of a sidecar container is to augment an application container by providing a secondary service such as log scraping or synchronizing with a remote repository.]]

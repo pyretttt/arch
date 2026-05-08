@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 215,
+                "page": 217,
                 "left": -8,
-                "top": 588,
+                "top": 448,
                 "zoom": 1.8103187057572068
               },
               "icon": "lucide-file-text",
@@ -77,10 +77,10 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 64,
-                "left": -4,
-                "top": 661,
-                "zoom": 0.8248587570621468
+                "page": 63,
+                "left": -179,
+                "top": 1,
+                "zoom": 1.0833333333333333
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -102,8 +102,7 @@
               "title": "kubernetes-book-poulton"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "6cd60c4c660c125a",
@@ -166,8 +165,7 @@
               "title": "k8s_book"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -319,12 +317,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0ad1de5608173a6c",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/network.md",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "bookmarks/network.md",
+    "computer-networking-top-down-approach-9th.pdf",
     "kubernetes-book-poulton.pdf",
     "bookmarks/k8s_book.md",
     "SystemDesignInterview.pdf",

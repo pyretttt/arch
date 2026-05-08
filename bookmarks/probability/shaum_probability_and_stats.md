@@ -166,4 +166,5 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 
 # Chapter-6
 ***
-[[shaum_probability_and_stats.pdf#page=215&selection=97,0,99,5|Maximum likelihood estimates]]
+[[shaum_probability_and_stats.pdf#page=217&selection=247,0,249,87|Measurements of a sample of weights were determined as 8.3, 10.6, 9.7, 8.8, 10.2, and 9.4 lb, respectively. Determine unbiased and efficient estimates of (a) the population mean, and (b) the population variance. (c) Compare the sample standard deviation with the estimated population standard deviation.]]
+

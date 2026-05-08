@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=64&selection=79,0,81,47|In addition to delay and packet loss, another critical performance measure in computer networks is end-to-end throughput. To define throughput, consider transferring a large file from Host A to Host B]]
+[[computer-networking-top-down-approach-9th.pdf#page=72&selection=9,12,10,71|shows the physical path that data takes down a sending end system’s protocol stack, up and down the protocol stacks of an intervening]]

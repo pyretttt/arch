@@ -1,1 +1,1 @@
-[[kubernetes-book-poulton.pdf#page=75&selection=110,0,112,84|The job of a sidecar container is to augment an application container by providing a secondary service such as log scraping or synchronizing with a remote repository.]]
+[[kubernetes-book-poulton.pdf#page=90&selection=2,0,8,38|This chapter shows you how to use Deployments to add cloud-native features such as selfhealing, scaling, rolling updates, and versioned rollbacks to stateless apps on Kubernetes.]]

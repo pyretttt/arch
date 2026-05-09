@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=72&selection=9,12,10,71|shows the physical path that data takes down a sending end system’s protocol stack, up and down the protocol stacks of an intervening]]
+[[computer-networking-top-down-approach-9th.pdf#page=84&selection=26,0,26,26|Chapter 1 Review Questions]]

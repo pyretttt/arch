@@ -77,10 +77,10 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 71,
-                "left": -178,
-                "top": 1,
-                "zoom": 1.0833333333333335
+                "page": 84,
+                "left": 15,
+                "top": 431,
+                "zoom": 1.2
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -102,7 +102,8 @@
               "title": "kubernetes-book-poulton"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "6cd60c4c660c125a",
@@ -165,7 +166,8 @@
               "title": "k8s_book"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -317,14 +319,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "0ad1de5608173a6c",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/network.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/k8s_book.md",
     "kubernetes-book-poulton.pdf",
-    "bookmarks/network.md",
-    "computer-networking-top-down-approach-9th.pdf",
     "SystemDesignInterview.pdf",
     "MIT-Quant-Bible.pdf",
     "1aslam_blas_repo.pdf",

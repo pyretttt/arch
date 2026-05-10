@@ -1,1 +1,1 @@
-[[kubernetes-book-poulton.pdf#page=105&selection=81,0,81,24|Perform a rolling update]]
+[[kubernetes-book-poulton.pdf#page=116&selection=0,3,2,78|Kubernetes Services]]

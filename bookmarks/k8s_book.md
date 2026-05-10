@@ -1,1 +1,1 @@
-[[kubernetes-book-poulton.pdf#page=90&selection=2,0,8,38|This chapter shows you how to use Deployments to add cloud-native features such as selfhealing, scaling, rolling updates, and versioned rollbacks to stateless apps on Kubernetes.]]
+[[kubernetes-book-poulton.pdf#page=105&selection=81,0,81,24|Perform a rolling update]]

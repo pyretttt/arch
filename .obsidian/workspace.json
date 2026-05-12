@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 220,
+                "page": 219,
                 "left": -8,
-                "top": 175,
+                "top": 385,
                 "zoom": 1.8103187057572068
               },
               "icon": "lucide-file-text",
@@ -79,9 +79,9 @@
               "type": "pdf",
               "state": {
                 "file": "kubernetes-book-poulton.pdf",
-                "page": 116,
+                "page": 132,
                 "left": -167,
-                "top": 607,
+                "top": 662,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -323,9 +323,9 @@
   "lastOpenFiles": [
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "kubernetes-book-poulton.pdf",
     "bookmarks/k8s_book.md",
     "gamedev/opengl_book_pdf.pdf",
-    "kubernetes-book-poulton.pdf",
     "bookmarks/network.md",
     "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/progress.md",

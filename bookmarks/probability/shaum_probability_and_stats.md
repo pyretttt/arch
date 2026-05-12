@@ -167,7 +167,7 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 # Chapter-6
 ***
 **current:**
-[[shaum_probability_and_stats.pdf#page=219&selection=24,0,24,5|6.48.]]
+[[shaum_probability_and_stats.pdf#page=219&selection=64,0,64,4|6.55]]
 
 **answer**:
-[[shaum_probability_and_stats.pdf#page=221&selection=8,0,8,4|6.48]]
+[[shaum_probability_and_stats.pdf#page=221&selection=50,0,50,4|6.55]]

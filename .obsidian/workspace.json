@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 219,
+                "page": 222,
                 "left": -8,
-                "top": 385,
+                "top": 533,
                 "zoom": 1.8103187057572068
               },
               "icon": "lucide-file-text",
@@ -64,8 +64,8 @@
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
                 "page": 97,
-                "left": -73,
-                "top": 376,
+                "left": -135,
+                "top": 238,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -79,9 +79,9 @@
               "type": "pdf",
               "state": {
                 "file": "kubernetes-book-poulton.pdf",
-                "page": 132,
+                "page": 147,
                 "left": -167,
-                "top": 662,
+                "top": 37,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -104,7 +104,8 @@
               "title": "opengl_book_pdf"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "6cd60c4c660c125a",
@@ -167,7 +168,8 @@
               "title": "k8s_book"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -319,15 +321,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "8e96a2b6ad64f396",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "kubernetes-book-poulton.pdf",
     "bookmarks/k8s_book.md",
-    "gamedev/opengl_book_pdf.pdf",
     "bookmarks/network.md",
     "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
+    "gamedev/opengl_book_pdf.pdf",
     "bookmarks/progress.md",
     "SystemDesignInterview.pdf",
     "MIT-Quant-Bible.pdf",

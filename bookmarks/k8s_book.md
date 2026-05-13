@@ -1,1 +1,1 @@
-[[kubernetes-book-poulton.pdf#page=132&selection=2,0,3,8|Ingress is all about accessing multiple web applications through a single LoadBalancer Service.]]
+[[kubernetes-book-poulton.pdf#page=148&selection=0,3,2,79|Wasm on Kubernetes]]

@@ -104,7 +104,8 @@
               "title": "opengl_book_pdf"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "6cd60c4c660c125a",
@@ -319,10 +320,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "d9ef6352e7c0df26",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
     "gamedev/opengl_book_pdf.pdf",
     "bookmarks/k8s_book.md",
     "kubernetes-book-poulton.pdf",

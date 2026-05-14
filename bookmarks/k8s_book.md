@@ -1,1 +1,1 @@
-[[kubernetes-book-poulton.pdf#page=180&selection=135,0,160,37|You have two Namespaces called dev and prod, and each has an instance of the enterprise app and an instance of the ent Service. The dev Namespace also has a standalone Pod called jump.]]
+[[kubernetes-book-poulton.pdf#page=194&selection=71,0,73,83|Hands-on]]

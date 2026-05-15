@@ -1,1 +1,1 @@
-[[kubernetes-book-poulton.pdf#page=194&selection=71,0,73,83|Hands-on]]
+[[kubernetes-book-poulton.pdf#page=199&selection=15,0,15,54|In this section, you’ll create a new StorageClass that]]

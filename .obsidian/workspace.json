@@ -63,9 +63,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 97,
-                "left": -135,
-                "top": 636,
+                "page": 106,
+                "left": 69,
+                "top": 645,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -104,7 +104,8 @@
               "title": "opengl_book_pdf"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "6cd60c4c660c125a",
@@ -167,7 +168,8 @@
               "title": "network"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -319,15 +321,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "0ad1de5608173a6c",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/network.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/k8s_book.md",
     "kubernetes-book-poulton.pdf",
-    "bookmarks/network.md",
     "bookmarks/cv/cv_algorithms_and_applications.md",
-    "computer-networking-top-down-approach-9th.pdf",
     "gamedev/opengl_book_pdf.pdf",
     "bookmarks/progress.md",
     "SystemDesignInterview.pdf",

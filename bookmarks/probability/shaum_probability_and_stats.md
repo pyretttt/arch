@@ -178,4 +178,4 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 - [[shaum_probability_and_stats.pdf#page=226&selection=72,3,72,29|DIFFERENCES OF PROPORTIONS]]
 - [[shaum_probability_and_stats.pdf#page=227&selection=0,3,0,23|DIFFERENCES OF MEANS]]
 
-[[shaum_probability_and_stats.pdf#page=229&selection=271,0,273,4|The form of the result (20) suggests that a measure of the discrepancy between observed and expected frequencies for the general case is supplied by the statistic]]
+[[shaum_probability_and_stats.pdf#page=230&selection=33,0,33,18|Contingency Tables]]

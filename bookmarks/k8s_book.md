@@ -1,1 +1,1 @@
-[[kubernetes-book-poulton.pdf#page=199&selection=15,0,15,54|In this section, you’ll create a new StorageClass that]]
+[[kubernetes-book-poulton.pdf#page=204&selection=0,4,2,47|ConfigMaps and Secrets]]

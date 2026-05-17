@@ -178,4 +178,4 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 - [[shaum_probability_and_stats.pdf#page=226&selection=72,3,72,29|DIFFERENCES OF PROPORTIONS]]
 - [[shaum_probability_and_stats.pdf#page=227&selection=0,3,0,23|DIFFERENCES OF MEANS]]
 
-[[shaum_probability_and_stats.pdf#page=230&selection=33,0,33,18|Contingency Tables]]
+[[shaum_probability_and_stats.pdf#page=230&selection=218,0,218,32|Yates’ Correction for Continuity]]

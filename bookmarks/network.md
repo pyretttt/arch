@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=113&selection=15,0,17,41|In many Internet applications, the client and server communicate for an extended period of time, with the client making a series of requests and the server responding to each of the requests]]
+[[computer-networking-top-down-approach-9th.pdf#page=115&selection=24,0,24,23|The HTTP specifications]]

@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 229,
+                "page": 230,
                 "left": -8,
-                "top": 56,
+                "top": 408,
                 "zoom": 1.8103187057572065
               },
               "icon": "lucide-file-text",
@@ -63,9 +63,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 113,
-                "left": 42,
-                "top": 584,
+                "page": 115,
+                "left": 32,
+                "top": 228,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -79,9 +79,9 @@
               "type": "pdf",
               "state": {
                 "file": "kubernetes-book-poulton.pdf",
-                "page": 204,
-                "left": 20,
-                "top": 651,
+                "page": 247,
+                "left": 55,
+                "top": 42,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "6cd60c4c660c125a",
@@ -169,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,12 +261,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/network.md",
+                "file": "bookmarks/k8s_book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from network"
+              "title": "Outgoing links from k8s_book"
             }
           },
           {
@@ -321,14 +321,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0ad1de5608173a6c",
+  "active": "8e96a2b6ad64f396",
   "lastOpenFiles": [
-    "computer-networking-top-down-approach-9th.pdf",
+    "kubernetes-book-poulton.pdf",
+    "bookmarks/k8s_book.md",
     "bookmarks/network.md",
+    "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/k8s_book.md",
-    "kubernetes-book-poulton.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "gamedev/opengl_book_pdf.pdf",
     "bookmarks/progress.md",

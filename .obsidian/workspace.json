@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 230,
+                "page": 236,
                 "left": -8,
-                "top": 408,
+                "top": 368,
                 "zoom": 1.8103187057572065
               },
               "icon": "lucide-file-text",
@@ -80,7 +80,7 @@
               "state": {
                 "file": "kubernetes-book-poulton.pdf",
                 "page": 247,
-                "left": 55,
+                "left": -167,
                 "top": 42,
                 "zoom": 1.1
               },
@@ -104,8 +104,7 @@
               "title": "opengl_book_pdf"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "6cd60c4c660c125a",
@@ -168,8 +167,7 @@
               "title": "network"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,12 +259,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/k8s_book.md",
+                "file": "bookmarks/probability/shaum_probability_and_stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from k8s_book"
+              "title": "Outgoing links from shaum_probability_and_stats"
             }
           },
           {
@@ -321,14 +319,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8e96a2b6ad64f396",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "kubernetes-book-poulton.pdf",
+    "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/k8s_book.md",
+    "kubernetes-book-poulton.pdf",
     "bookmarks/network.md",
     "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "gamedev/opengl_book_pdf.pdf",
     "bookmarks/progress.md",

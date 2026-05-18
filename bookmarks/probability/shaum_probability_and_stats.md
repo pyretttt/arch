@@ -177,5 +177,7 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 ***
 - [[shaum_probability_and_stats.pdf#page=226&selection=72,3,72,29|DIFFERENCES OF PROPORTIONS]]
 - [[shaum_probability_and_stats.pdf#page=227&selection=0,3,0,23|DIFFERENCES OF MEANS]]
+- [[shaum_probability_and_stats.pdf#page=230&selection=218,0,218,32|Yates’ Correction for Continuity]]
+- [[shaum_probability_and_stats.pdf#page=231&selection=14,0,14,26|Coefficient of Contingency]]
 
-[[shaum_probability_and_stats.pdf#page=230&selection=218,0,218,32|Yates’ Correction for Continuity]]
+[[shaum_probability_and_stats.pdf#page=236&selection=166,0,173,18|An examination was given to two classes consisting of 40 and 50 students, respectively. In the first class the mean grade was 74 with a standard deviation of 8, while in the second class the mean grade was 78 with a standard deviation of 7. Is there a significant difference between the performance of the two classes at a level of significance of (a) 0.05, (b) 0.01? (c) What is the P value of the test?]]

@@ -1,1 +1,1 @@
-[[kubernetes-book-poulton.pdf#page=248&selection=0,4,0,25|API security and RBAC]]
+[[kubernetes-book-poulton.pdf#page=262&selection=0,4,2,82|The Kubernetes API]]

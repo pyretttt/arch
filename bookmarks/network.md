@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=115&selection=24,0,24,23|The HTTP specifications]]
+[[computer-networking-top-down-approach-9th.pdf#page=119&selection=78,0,82,74|As shown in Figure 2.10, cookie technology has four components: (1) a cookie header line in the HTTP response message; (2) a cookie header line in the HTTP request message; (3) a cookie file kept on the user’s end system and managed by the user’s browser; and (4) a back-end database at the Web site.]]

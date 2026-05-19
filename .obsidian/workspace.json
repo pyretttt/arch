@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 241,
-                "left": -8,
-                "top": 47,
-                "zoom": 1.8103187057572065
+                "page": 242,
+                "left": -11,
+                "top": 541,
+                "zoom": 1.3726912990471647
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -63,9 +63,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 120,
-                "left": 29,
-                "top": 665,
+                "page": 128,
+                "left": 39,
+                "top": 93,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -104,7 +104,8 @@
               "title": "opengl_book_pdf"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "6cd60c4c660c125a",
@@ -167,7 +168,8 @@
               "title": "network"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,12 +261,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "file": "bookmarks/network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shaum_probability_and_stats"
+              "title": "Outgoing links from network"
             }
           },
           {
@@ -319,14 +321,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "0ad1de5608173a6c",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "bookmarks/k8s_book.md",
-    "kubernetes-book-poulton.pdf",
     "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/network.md",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/k8s_book.md",
+    "kubernetes-book-poulton.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "gamedev/opengl_book_pdf.pdf",
     "bookmarks/progress.md",

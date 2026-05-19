@@ -1,1 +1,1 @@
-[[kubernetes-book-poulton.pdf#page=289&selection=43,0,43,27|Securing Pod communications]]
+[[kubernetes-book-poulton.pdf#page=320&selection=2,0,2,18|Workload isolation]]

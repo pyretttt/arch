@@ -1,1 +1,1 @@
-[[kubernetes-book-poulton.pdf#page=268&selection=11,0,13,76|Hands-on]]
+[[kubernetes-book-poulton.pdf#page=289&selection=43,0,43,27|Securing Pod communications]]

@@ -180,4 +180,4 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 - [[shaum_probability_and_stats.pdf#page=230&selection=218,0,218,32|Yates’ Correction for Continuity]]
 - [[shaum_probability_and_stats.pdf#page=231&selection=14,0,14,26|Coefficient of Contingency]]
 
-[[shaum_probability_and_stats.pdf#page=236&selection=166,0,173,18|An examination was given to two classes consisting of 40 and 50 students, respectively. In the first class the mean grade was 74 with a standard deviation of 8, while in the second class the mean grade was 78 with a standard deviation of 7. Is there a significant difference between the performance of the two classes at a level of significance of (a) 0.05, (b) 0.01? (c) What is the P value of the test?]]
+[[shaum_probability_and_stats.pdf#page=242&selection=95,0,103,18|7.20. In the past the standard deviation of weights of certain 40.0 oz packages filled by a machine was 0.25 oz. A random sample of 20 packages showed a standard deviation of 0.32 oz. Is the apparent increase in variability significant at the (a) 0.05, (b) 0.01 level of significance? (c) What is the P value of the test?]]

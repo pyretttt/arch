@@ -180,4 +180,5 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 - [[shaum_probability_and_stats.pdf#page=230&selection=218,0,218,32|Yates’ Correction for Continuity]]
 - [[shaum_probability_and_stats.pdf#page=231&selection=14,0,14,26|Coefficient of Contingency]]
 
-[[shaum_probability_and_stats.pdf#page=242&selection=95,0,103,18|7.20. In the past the standard deviation of weights of certain 40.0 oz packages filled by a machine was 0.25 oz. A random sample of 20 packages showed a standard deviation of 0.32 oz. Is the apparent increase in variability significant at the (a) 0.05, (b) 0.01 level of significance? (c) What is the P value of the test?]]
+
+[[shaum_probability_and_stats.pdf#page=261&selection=470,0,547,13|Suppose X1 , X2 X k have a multinomial distribution, with expected frequencies np1 , np2 np k, respectively. Let Y1, Y2 Yk be mutually independent, Poisson-distributed variables, with parameters, c, , c,, c, 1  np1, 2  np2 k  npk, respectively. Prove that the conditional distribution of the Y’s given that]]

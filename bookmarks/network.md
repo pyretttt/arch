@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=129&selection=29,0,32,56|Electronic mail has been around since the beginning of the Internet. It was the most popular application when the Internet was in its infancy [Segaller 1998], and has become more elaborate and powerful over the years. It remains one of the Internet’s most important and utilized applications.]]
+[[computer-networking-top-down-approach-9th.pdf#page=133&selection=85,0,85,81|When Alice writes an ordinary snail-mail letter to Bob, she may include all kinds]]

@@ -180,5 +180,4 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 - [[shaum_probability_and_stats.pdf#page=230&selection=218,0,218,32|Yates’ Correction for Continuity]]
 - [[shaum_probability_and_stats.pdf#page=231&selection=14,0,14,26|Coefficient of Contingency]]
 
-
-[[shaum_probability_and_stats.pdf#page=261&selection=470,0,547,13|Suppose X1 , X2 X k have a multinomial distribution, with expected frequencies np1 , np2 np k, respectively. Let Y1, Y2 Yk be mutually independent, Poisson-distributed variables, with parameters, c, , c,, c, 1  np1, 2  np2 k  npk, respectively. Prove that the conditional distribution of the Y’s given that]]
+[[shaum_probability_and_stats.pdf#page=262&selection=20,0,27,12|Use the result of Problem 7.61 to show that 2, as defined by (21), page 220, is approximately chi-square distributed.]]

@@ -118,7 +118,8 @@
               "title": "progress"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "6cd60c4c660c125a",
@@ -273,12 +274,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "file": "computer-networking-top-down-approach-9th.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shaum_probability_and_stats"
+              "title": "Outgoing links from computer-networking-top-down-approach-9th"
             }
           },
           {
@@ -333,10 +334,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "d9ef6352e7c0df26",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
+    "db/postgresql-jobseekers-administration-dbas.pdf",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
+    "db/introbook_v11_en.pdf",
+    "db/The Art Of PostgreSQL.pdf",
+    "db",
+    "d",
+    "untitled folder",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
     "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/network.md",
     "kubernetes-book-poulton.pdf",
@@ -345,16 +353,10 @@
     "ml/diffusion_models_stanley_chan.pdf",
     "bookmarks/k8s_book.md",
     "bookmarks/cv/cv_algorithms_and_applications.md",
-    "gamedev/opengl_book_pdf.pdf",
-    "SystemDesignInterview.pdf",
-    "MIT-Quant-Bible.pdf",
-    "1aslam_blas_repo.pdf",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",
     "bookmarks/cv/multiple_view_geometry.md",
     "bookmarks/cv/digital_image_processing.md",
     "bookmarks/ml/understanding_deep_learning.md",
-    "probability/A-First-Course-in-Probability.pdf",
-    "book-kubernetes-container-orchestration.pdf",
     "bookmarks/mml_book.md",
     "bookmarks/gilbert_strang.md",
     "cv/An.md",

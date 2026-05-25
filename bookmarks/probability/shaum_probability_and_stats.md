@@ -181,3 +181,10 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 - [[shaum_probability_and_stats.pdf#page=231&selection=14,0,14,26|Coefficient of Contingency]]
 
 [[shaum_probability_and_stats.pdf#page=262&selection=20,0,27,12|Use the result of Problem 7.61 to show that 2, as defined by (21), page 220, is approximately chi-square distributed.]]
+
+
+**current**: 
+[[shaum_probability_and_stats.pdf#page=265&selection=53,0,53,4|7.77]]
+
+**answer:**
+[[shaum_probability_and_stats.pdf#page=271&selection=88,0,88,4|7.77]]

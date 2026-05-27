@@ -126,10 +126,10 @@
               "type": "pdf",
               "state": {
                 "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
-                "page": 38,
-                "left": -12,
-                "top": 743,
-                "zoom": 1.2745098039215685
+                "page": 42,
+                "left": -19,
+                "top": 157,
+                "zoom": 0.8088235294117647
               },
               "icon": "lucide-file-text",
               "title": "PostgreSQL Up and Running A Practical Guide"
@@ -271,7 +271,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "6835bb1ade82e76c",

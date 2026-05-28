@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=133&selection=85,0,85,81|When Alice writes an ordinary snail-mail letter to Bob, she may include all kinds]]
+[[computer-networking-top-down-approach-9th.pdf#page=138&selection=6,0,7,56|We now present a high-level overview of how DNS works. Our discussion will focus on the hostname-to-IP-address translation service.]]

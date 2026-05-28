@@ -1,1 +1,1 @@
-[[PostgreSQL Up and Running A Practical Guide.pdf#page=43&selection=0,0,21,42|setting is the current setting; boot_val is the default setting; reset_val is the new setting if you were to restart or reload the server. Make sure that setting and reset_val match after you make a change. If not, the server needs a restart or reload.]]
+[[PostgreSQL Up and Running A Practical Guide.pdf#page=50&selection=26,0,26,20|Managing Connections]]

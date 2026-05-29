@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=138&selection=6,0,7,56|We now present a high-level overview of how DNS works. Our discussion will focus on the hostname-to-IP-address translation service.]]
+[[computer-networking-top-down-approach-9th.pdf#page=144&selection=6,1,28,17|f Type=CNAME, then Value is a canonical hostname for the alias hostname Name. This record can provide querying hosts the canonical name for a hostname. As an example, (foo.com, relay1.bar.foo.com, CNAME) is a CNAME record]]

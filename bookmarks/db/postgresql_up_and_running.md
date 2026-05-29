@@ -1,1 +1,1 @@
-[[PostgreSQL Up and Running A Practical Guide.pdf#page=50&selection=26,0,26,20|Managing Connections]]
+[[PostgreSQL Up and Running A Practical Guide.pdf#page=75&selection=2,0,2,18|Backup and Restore]]

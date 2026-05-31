@@ -183,12 +183,13 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 [[shaum_probability_and_stats.pdf#page=262&selection=20,0,27,12|Use the result of Problem 7.61 to show that 2, as defined by (21), page 220, is approximately chi-square distributed.]]
 
 
-**current**: 
 [[shaum_probability_and_stats.pdf#page=268&selection=25,0,25,5|7.109]]
 1. Compute marginal probabilities of P(D) and P(!D).
 2. Compute expected frequencies from marginal for P(V) and P(Not V)
 3. Compute Chi squared statistic for Chi squared with $(h - 1)(k - 1)$ degrees of freedom.
 
+**current**: 
+[[shaum_probability_and_stats.pdf#page=269&selection=53,0,53,5|7.114]]
 
 **answer:**
-[[shaum_probability_and_stats.pdf#page=272&selection=141,0,141,5|7.109]]
+[[shaum_probability_and_stats.pdf#page=273&selection=16,0,16,5|7.114]]

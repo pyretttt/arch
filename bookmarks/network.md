@@ -1,1 +1,2 @@
-[[computer-networking-top-down-approach-9th.pdf#page=144&selection=6,1,28,17|f Type=CNAME, then Value is a canonical hostname for the alias hostname Name. This record can provide querying hosts the canonical name for a hostname. As an example, (foo.com, relay1.bar.foo.com, CNAME) is a CNAME record]]
+[[computer-networking-top-down-approach-9th.pdf#page=148&selection=31,0,39,42|By many estimates, streaming video—including Netflix, YouTube, AppleTV, Amazon Prime, and so on—account for more than 65% of global Internet traffic [Sandvine 2024] and nearly 75% of mobile network traffic [Ericsson 2024]. This section we will provide an overview of how popular video streaming services are implemented in today’s Internet.]]
+

@@ -63,9 +63,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 147,
-                "left": 85,
-                "top": 126,
+                "page": 148,
+                "left": 77,
+                "top": 513,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -80,7 +80,7 @@
               "state": {
                 "file": "kubernetes-book-poulton.pdf",
                 "page": 73,
-                "left": -167,
+                "left": -4,
                 "top": 497,
                 "zoom": 1.1
               },
@@ -126,17 +126,17 @@
               "type": "pdf",
               "state": {
                 "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
-                "page": 74,
-                "left": -10,
-                "top": 335,
-                "zoom": 1.5208333333333333
+                "page": 81,
+                "left": -16,
+                "top": 297,
+                "zoom": 0.9485294117647058
               },
               "icon": "lucide-file-text",
               "title": "PostgreSQL Up and Running A Practical Guide"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "6cd60c4c660c125a",
@@ -214,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -306,12 +306,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/network.md",
+                "file": "bookmarks/db/postgresql_up_and_running.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from network"
+              "title": "Outgoing links from postgresql_up_and_running"
             }
           },
           {
@@ -366,19 +366,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0ad1de5608173a6c",
+  "active": "f249b960d50edb7d",
   "lastOpenFiles": [
-    "computer-networking-top-down-approach-9th.pdf",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
+    "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/network.md",
+    "kubernetes-book-poulton.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/db/postgresql_up_and_running.md",
-    "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "bookmarks/db/the_art_of_postgresql.md",
     "db/The Art Of PostgreSQL.pdf",
     "bookmarks/db",
     "bookmarks/progress.md",
-    "kubernetes-book-poulton.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "db/postgresql-jobseekers-administration-dbas.pdf",
     "db/introbook_v11_en.pdf",

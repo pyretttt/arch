@@ -187,7 +187,7 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 [[shaum_probability_and_stats.pdf#page=268&selection=25,0,25,5|7.109]]
 1. Compute marginal probabilities of P(D) and P(!D).
 2. Compute expected frequencies from marginal for P(V) and P(Not V)
-3. Compute Chi squared statistic
+3. Compute Chi squared statistic for Chi squared with $(h - 1)(k - 1)$ degrees of freedom.
 
 
 **answer:**

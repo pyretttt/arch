@@ -189,7 +189,7 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 3. Compute Chi squared statistic for Chi squared with $(h - 1)(k - 1)$ degrees of freedom.
 
 **current**: 
-[[shaum_probability_and_stats.pdf#page=269&selection=53,0,53,5|7.114]]
+[[shaum_probability_and_stats.pdf#page=270&selection=81,0,81,5|7.122]]
 
 **answer:**
-[[shaum_probability_and_stats.pdf#page=273&selection=16,0,16,5|7.114]]
+[[shaum_probability_and_stats.pdf#page=273&selection=68,0,68,5|7.122]]

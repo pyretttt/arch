@@ -63,9 +63,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 151,
-                "left": 22,
-                "top": 198,
+                "page": 164,
+                "left": 124,
+                "top": 572,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -95,10 +95,8 @@
               "type": "pdf",
               "state": {
                 "file": "gamedev/opengl_book_pdf.pdf",
-                "page": 174,
-                "left": -14,
-                "top": 684,
-                "zoom": 1.0386904761904765
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "opengl_book_pdf"
@@ -121,21 +119,21 @@
           {
             "id": "72a6fbcd38473cb7",
             "type": "leaf",
-            "dimension": 14.285714285714286,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
                 "page": 108,
-                "left": -10,
-                "top": 199,
+                "left": -4,
+                "top": 203,
                 "zoom": 1.5208333333333335
               },
               "icon": "lucide-file-text",
               "title": "PostgreSQL Up and Running A Practical Guide"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "6cd60c4c660c125a",
@@ -212,7 +210,8 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -304,12 +303,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "file": "bookmarks/network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shaum_probability_and_stats"
+              "title": "Outgoing links from network"
             }
           },
           {
@@ -364,15 +363,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "0ad1de5608173a6c",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/network.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
-    "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/progress.md",
-    "bookmarks/network.md",
-    "computer-networking-top-down-approach-9th.pdf",
+    "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/db/postgresql_up_and_running.md",
     "kubernetes-book-poulton.pdf",
     "bookmarks/db/the_art_of_postgresql.md",
     "db/The Art Of PostgreSQL.pdf",

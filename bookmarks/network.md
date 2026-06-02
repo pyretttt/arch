@@ -1,2 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=148&selection=31,0,39,42|By many estimates, streaming video—including Netflix, YouTube, AppleTV, Amazon Prime, and so on—account for more than 65% of global Internet traffic [Sandvine 2024] and nearly 75% of mobile network traffic [Ericsson 2024]. This section we will provide an overview of how popular video streaming services are implemented in today’s Internet.]]
-
+[[computer-networking-top-down-approach-9th.pdf#page=164&selection=43,0,43,49|Unlike UDP, TCP is a connection-oriented protocol]]

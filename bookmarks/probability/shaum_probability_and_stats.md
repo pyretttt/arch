@@ -193,3 +193,7 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 
 **answer:**
 [[shaum_probability_and_stats.pdf#page=273&selection=68,0,68,5|7.122]]
+
+# Chapter-8
+***
+[[shaum_probability_and_stats.pdf#page=276&selection=3,0,3,22|The Least-Squares Line]]

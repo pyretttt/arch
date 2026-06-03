@@ -196,4 +196,17 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 
 # Chapter-8
 ***
-[[shaum_probability_and_stats.pdf#page=276&selection=3,0,3,22|The Least-Squares Line]]
+- [[shaum_probability_and_stats.pdf#page=277&selection=59,0,59,66|The Least-Squares Line in Terms of Sample Variances and Covariance]]
+- [[shaum_probability_and_stats.pdf#page=277&selection=116,0,116,26|The Least-Squares Parabola]]
+- [[shaum_probability_and_stats.pdf#page=278&selection=27,0,27,19|Multiple Regression]]
+- [[shaum_probability_and_stats.pdf#page=278&selection=91,0,91,26|Standard Error of Estimate]]
+- [[shaum_probability_and_stats.pdf#page=279&selection=46,0,46,34|The Linear Correlation Coefficient]]
+- [[shaum_probability_and_stats.pdf#page=279&selection=67,0,67,19|explained variation]]
+- [[shaum_probability_and_stats.pdf#page=280&selection=55,0,55,35|Generalized Correlation Coefficient]]
+- [[shaum_probability_and_stats.pdf#page=280&selection=105,0,105,16|Rank Correlation]]
+- [[shaum_probability_and_stats.pdf#page=282&selection=25,0,25,41|Probability Interpretation of Correlation]]
+- [[shaum_probability_and_stats.pdf#page=282&selection=58,0,58,29|Sampling Theory of Regression]]
+- [[shaum_probability_and_stats.pdf#page=283&selection=18,0,18,30|Sampling Theory of Correlation]]
+
+**current:**
+[[shaum_probability_and_stats.pdf#page=284&selection=311,0,311,3|8.2]]

@@ -209,4 +209,4 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 - [[shaum_probability_and_stats.pdf#page=283&selection=18,0,18,30|Sampling Theory of Correlation]]
 
 **current:**
-[[shaum_probability_and_stats.pdf#page=284&selection=311,0,311,3|8.2]]
+[[shaum_probability_and_stats.pdf#page=293&selection=2,0,2,4|8.15]]

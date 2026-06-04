@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 284,
+                "page": 293,
                 "left": -8,
-                "top": 223,
+                "top": 456,
                 "zoom": 1.8103187057572065
               },
               "icon": "lucide-file-text",
@@ -63,9 +63,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 164,
+                "page": 170,
                 "left": -135,
-                "top": 572,
+                "top": 63,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -80,7 +80,7 @@
               "state": {
                 "file": "kubernetes-book-poulton.pdf",
                 "page": 73,
-                "left": -4,
+                "left": -167,
                 "top": 497,
                 "zoom": 1.1
               },
@@ -367,10 +367,10 @@
     "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/network.md",
     "computer-networking-top-down-approach-9th.pdf",
+    "kubernetes-book-poulton.pdf",
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "bookmarks/progress.md",
     "bookmarks/db/postgresql_up_and_running.md",
-    "kubernetes-book-poulton.pdf",
     "bookmarks/db/the_art_of_postgresql.md",
     "db/The Art Of PostgreSQL.pdf",
     "bookmarks/db",

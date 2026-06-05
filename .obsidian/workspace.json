@@ -123,9 +123,9 @@
               "type": "pdf",
               "state": {
                 "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
-                "page": 108,
+                "page": 132,
                 "left": -10,
-                "top": 203,
+                "top": 716,
                 "zoom": 1.5208333333333335
               },
               "icon": "lucide-file-text",
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "6cd60c4c660c125a",
@@ -210,7 +210,8 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -302,12 +303,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernetes-book-poulton.pdf",
+                "file": "bookmarks/db/postgresql_up_and_running.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from kubernetes-book-poulton"
+              "title": "Outgoing links from postgresql_up_and_running"
             }
           },
           {
@@ -362,18 +363,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "167a83f6f7878735",
+  "active": "f249b960d50edb7d",
   "lastOpenFiles": [
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
-    "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "kubernetes-book-poulton.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
     "probability/shaum_probability_and_stats.pdf",
     "probability/A-First-Course-in-Probability.pdf",
     "bookmarks/progress.md",
     "ml/diffusion_models_stanley_chan.pdf",
     "bookmarks/network.md",
-    "kubernetes-book-poulton.pdf",
-    "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/db/the_art_of_postgresql.md",
     "db/The Art Of PostgreSQL.pdf",
     "bookmarks/db",

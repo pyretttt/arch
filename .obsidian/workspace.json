@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 293,
+                "page": 297,
                 "left": -8,
-                "top": 456,
+                "top": 646,
                 "zoom": 1.8103187057572065
               },
               "icon": "lucide-file-text",
@@ -63,9 +63,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 170,
+                "page": 171,
                 "left": -135,
-                "top": 63,
+                "top": 496,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "6cd60c4c660c125a",
@@ -302,12 +302,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-networking-top-down-approach-9th.pdf",
+                "file": "kubernetes-book-poulton.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from computer-networking-top-down-approach-9th"
+              "title": "Outgoing links from kubernetes-book-poulton"
             }
           },
           {
@@ -362,16 +362,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d9ef6352e7c0df26",
+  "active": "167a83f6f7878735",
   "lastOpenFiles": [
-    "probability/A-First-Course-in-Probability.pdf",
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
-    "bookmarks/progress.md",
-    "ml/diffusion_models_stanley_chan.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
+    "probability/A-First-Course-in-Probability.pdf",
+    "bookmarks/progress.md",
+    "ml/diffusion_models_stanley_chan.pdf",
     "bookmarks/network.md",
-    "computer-networking-top-down-approach-9th.pdf",
     "kubernetes-book-poulton.pdf",
     "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/db/the_art_of_postgresql.md",
@@ -380,7 +380,6 @@
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "db/postgresql-jobseekers-administration-dbas.pdf",
     "db/introbook_v11_en.pdf",
-    "db",
     "book-kubernetes-container-orchestration.pdf.md",
     "bookmarks/k8s_book.md",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",

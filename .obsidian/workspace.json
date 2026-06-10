@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 306,
+                "page": 307,
                 "left": -22,
-                "top": 532,
+                "top": 408,
                 "zoom": 1.72
               },
               "icon": "lucide-file-text",
@@ -63,9 +63,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 171,
+                "page": 181,
                 "left": -135,
-                "top": 496,
+                "top": 258,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -365,10 +365,10 @@
   "lastOpenFiles": [
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/db/postgresql_up_and_running.md",
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "kubernetes-book-poulton.pdf",
-    "computer-networking-top-down-approach-9th.pdf",
     "probability/A-First-Course-in-Probability.pdf",
     "bookmarks/progress.md",
     "ml/diffusion_models_stanley_chan.pdf",

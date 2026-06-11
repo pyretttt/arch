@@ -1,1 +1,1 @@
-[[PostgreSQL Up and Running A Practical Guide.pdf#page=132&selection=0,0,0,21|Chapter 5. Data Types]]
+[[PostgreSQL Up and Running A Practical Guide.pdf#page=143&selection=48,0,48,29|Here’s an interesting example]]

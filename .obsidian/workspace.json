@@ -123,16 +123,17 @@
               "type": "pdf",
               "state": {
                 "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
-                "page": 143,
-                "left": -94,
-                "top": 679,
-                "zoom": 1.2
+                "page": 153,
+                "left": 38,
+                "top": 700,
+                "zoom": 1.1
               },
               "icon": "lucide-file-text",
               "title": "PostgreSQL Up and Running A Practical Guide"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "6cd60c4c660c125a",
@@ -209,7 +210,8 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -301,12 +303,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "file": "bookmarks/db/postgresql_up_and_running.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shaum_probability_and_stats"
+              "title": "Outgoing links from postgresql_up_and_running"
             }
           },
           {
@@ -361,12 +363,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "f249b960d50edb7d",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "bookmarks/db/postgresql_up_and_running.md",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
     "computer-networking-top-down-approach-9th.pdf",
     "kubernetes-book-poulton.pdf",
     "probability/A-First-Course-in-Probability.pdf",

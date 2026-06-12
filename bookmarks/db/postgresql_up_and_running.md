@@ -1,1 +1,1 @@
-[[PostgreSQL Up and Running A Practical Guide.pdf#page=143&selection=48,0,48,29|Here’s an interesting example]]
+[[PostgreSQL Up and Running A Practical Guide.pdf#page=153&selection=13,0,13,11|Range Types]]

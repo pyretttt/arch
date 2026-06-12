@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 309,
+                "page": 324,
                 "left": -22,
-                "top": 555,
+                "top": 327,
                 "zoom": 1.72
               },
               "icon": "lucide-file-text",
@@ -132,8 +132,7 @@
               "title": "PostgreSQL Up and Running A Practical Guide"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "6cd60c4c660c125a",
@@ -210,8 +209,7 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -303,12 +301,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
+                "file": "bookmarks/probability/shaum_probability_and_stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PostgreSQL Up and Running A Practical Guide"
+              "title": "Outgoing links from shaum_probability_and_stats"
             }
           },
           {
@@ -363,12 +361,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "72a6fbcd38473cb7",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "bookmarks/db/postgresql_up_and_running.md",
-    "db/PostgreSQL Up and Running A Practical Guide.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
+    "bookmarks/db/postgresql_up_and_running.md",
     "computer-networking-top-down-approach-9th.pdf",
     "kubernetes-book-poulton.pdf",
     "probability/A-First-Course-in-Probability.pdf",

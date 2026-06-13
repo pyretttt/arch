@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 324,
-                "left": -22,
-                "top": 327,
-                "zoom": 1.72
+                "page": 326,
+                "left": 30,
+                "top": 734,
+                "zoom": 1.1
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -195,8 +195,7 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "probability/shaum_probability_and_stats.pdf",
+                "file": "bookmarks/probability/shaum_probability_and_stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -348,16 +347,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "bafafbd95d1598ef",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
+    "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "computer-networking-top-down-approach-9th.pdf",
     "kubernetes-book-poulton.pdf",
     "bookmarks/progress.md",
     "gamedev/opengl_book_pdf.pdf",
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "bookmarks/db/postgresql_up_and_running.md",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "probability/shaum_probability_and_stats.pdf",
     "probability/A-First-Course-in-Probability.pdf",
     "ml/diffusion_models_stanley_chan.pdf",
     "bookmarks/network.md",

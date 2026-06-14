@@ -214,4 +214,5 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 
 # Chapter-9
 ***
-[[shaum_probability_and_stats.pdf#page=326&selection=10,0,10,31|Distributions of the Variations]]
+[[shaum_probability_and_stats.pdf#page=327&selection=5,0,7,33|Modifications for Unequal Numbers of Observations]]
+

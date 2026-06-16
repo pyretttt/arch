@@ -214,6 +214,19 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 
 # Chapter-9
 ***
-[[shaum_probability_and_stats.pdf#page=330&selection=559,0,559,39|Two-Factor Experiments with Replication]]
+- [[shaum_probability_and_stats.pdf#page=323&selection=25,0,27,4|One-Way Classification or One-Factor Experiments]]
+- [[shaum_probability_and_stats.pdf#page=324&selection=6,0,8,13|Total Variation. Variation Within Treatments. Variation Between Treatments]]
+- [[shaum_probability_and_stats.pdf#page=324&selection=85,0,85,41|Shortcut Methods for Obtaining Variations]]
+- [[shaum_probability_and_stats.pdf#page=324&selection=124,0,124,50|Linear Mathematical Model for Analysis of Variance]]
+- [[shaum_probability_and_stats.pdf#page=325&selection=89,0,89,33|Expected Values of the Variations]]
+- [[shaum_probability_and_stats.pdf#page=326&selection=10,0,10,31|Distributions of the Variations]]
+- [[shaum_probability_and_stats.pdf#page=326&selection=75,0,76,45|The F Test for the Null Hypothesis of Equal Means]]
+- [[shaum_probability_and_stats.pdf#page=326&selection=146,0,146,27|Analysis of Variance Tables]]
+- [[shaum_probability_and_stats.pdf#page=327&selection=5,0,5,49|Modifications for Unequal Numbers of Observations]]
+- [[shaum_probability_and_stats.pdf#page=327&selection=370,0,370,48|Two-Way Classification or Two-Factor Experiments]]
+- [[shaum_probability_and_stats.pdf#page=328&selection=180,0,180,37|Variations for Two-Factor Experiments]]
+- [[shaum_probability_and_stats.pdf#page=329&selection=5,0,5,47|Analysis of Variance for Two-Factor Experiments]]
+- [[shaum_probability_and_stats.pdf#page=330&selection=559,0,559,39|Two-Factor Experiments with Replication]]
+- [[shaum_probability_and_stats.pdf#page=332&selection=89,0,89,19|Experimental Design]]
 
-
+**current**: [[shaum_probability_and_stats.pdf#page=333&selection=66,0,72,30|Verify that (a) (b) (c) using the notation on page 315]]

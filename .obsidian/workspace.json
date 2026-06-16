@@ -63,9 +63,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 191,
-                "left": -172,
-                "top": 491,
+                "page": 194,
+                "left": 42,
+                "top": 639,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -118,7 +118,8 @@
               "title": "PostgreSQL Up and Running A Practical Guide"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "6cd60c4c660c125a",
@@ -181,7 +182,8 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -274,12 +276,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "file": "bookmarks/network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shaum_probability_and_stats"
+              "title": "Outgoing links from network"
             }
           },
           {
@@ -334,10 +336,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "0ad1de5608173a6c",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/network.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
     "quant/gr4.pdf",
     "quant/gr1.pdf",
     "quant/book.pdf",
@@ -346,9 +350,7 @@
     "quant/2605.27684v1.pdf",
     "quant/AI_for_trading_strategies.pdf",
     "quant/151_trading_stategy.pdf",
-    "quant",
     "bookmarks/db/postgresql_up_and_running.md",
-    "bookmarks/network.md",
     "bookmarks/k8s_book.md",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/progress.md",

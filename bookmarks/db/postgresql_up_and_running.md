@@ -1,1 +1,1 @@
-[[PostgreSQL Up and Running A Practical Guide.pdf#page=164&selection=22,0,26,4|jsonb has similarly named functions as json]]
+[[PostgreSQL Up and Running A Practical Guide.pdf#page=185&selection=23,0,23,32|All Tables Are Custom Data Types]]

@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 333,
+                "page": 337,
                 "left": -180,
-                "top": 599,
+                "top": 602,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -64,7 +64,7 @@
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
                 "page": 194,
-                "left": 42,
+                "left": -172,
                 "top": 639,
                 "zoom": 1.1
               },
@@ -109,17 +109,16 @@
               "type": "pdf",
               "state": {
                 "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
-                "page": 164,
-                "left": -131,
-                "top": 617,
-                "zoom": 1.1
+                "page": 185,
+                "left": -189,
+                "top": 365,
+                "zoom": 0.97
               },
               "icon": "lucide-file-text",
               "title": "PostgreSQL Up and Running A Practical Guide"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "6cd60c4c660c125a",
@@ -182,8 +181,7 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,12 +274,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/network.md",
+                "file": "bookmarks/probability/shaum_probability_and_stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from network"
+              "title": "Outgoing links from shaum_probability_and_stats"
             }
           },
           {
@@ -336,12 +334,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0ad1de5608173a6c",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/network.md",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "bookmarks/db/postgresql_up_and_running.md",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
+    "bookmarks/network.md",
+    "computer-networking-top-down-approach-9th.pdf",
     "quant/gr4.pdf",
     "quant/gr1.pdf",
     "quant/book.pdf",
@@ -349,8 +349,6 @@
     "quant/MIT-Quant-Bible.pdf",
     "quant/2605.27684v1.pdf",
     "quant/AI_for_trading_strategies.pdf",
-    "quant/151_trading_stategy.pdf",
-    "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/k8s_book.md",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/progress.md",

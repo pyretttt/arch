@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=194&selection=18,0,19,76|In this section, we’ll take a close look at UDP, how it works, and what it does.]]
+[[computer-networking-top-down-approach-9th.pdf#page=202&selection=55,0,58,6|Reliable Data Transfer over a Channel with Bit Errors: rdt2.0]]

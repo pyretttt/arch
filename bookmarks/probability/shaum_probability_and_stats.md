@@ -230,4 +230,4 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 - [[shaum_probability_and_stats.pdf#page=332&selection=89,0,89,19|Experimental Design]]
 
 **current**: 
-[[shaum_probability_and_stats.pdf#page=337&selection=306,0,308,35|Table 9-14 shows the lifetimes in hours of samples from three different types of television tubes manufactured by a company. Using the long method, test at (a) the 0.05, (b) the 0.01 significance level whether there is a difference in the three types.]]
+[[shaum_probability_and_stats.pdf#page=340&selection=7,0,7,39|Two-factor experiments with replication]]

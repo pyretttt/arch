@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=202&selection=55,0,58,6|Reliable Data Transfer over a Channel with Bit Errors: rdt2.0]]
+[[computer-networking-top-down-approach-9th.pdf#page=206&selection=84,0,84,42|Suppose now that in addition to corrupting]]

@@ -1,1 +1,1 @@
-[[PostgreSQL Up and Running A Practical Guide.pdf#page=190&selection=28,0,30,24|Chapter 6. Tables, Constraints, and Indexes]]
+[[PostgreSQL Up and Running A Practical Guide.pdf#page=193&selection=16,0,16,18|Partitioned Tables]]

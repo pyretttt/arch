@@ -230,4 +230,4 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 - [[shaum_probability_and_stats.pdf#page=332&selection=89,0,89,19|Experimental Design]]
 
 **current**: 
-[[shaum_probability_and_stats.pdf#page=343&selection=32,0,32,13|Latin squares]]
+[[shaum_probability_and_stats.pdf#page=347&selection=44,0,44,4|9.20]]

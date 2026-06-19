@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 342,
+                "page": 347,
                 "left": -180,
-                "top": 84,
+                "top": 417,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -109,17 +109,16 @@
               "type": "pdf",
               "state": {
                 "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
-                "page": 192,
-                "left": -4,
-                "top": 91,
+                "page": 193,
+                "left": -189,
+                "top": 576,
                 "zoom": 0.97
               },
               "icon": "lucide-file-text",
               "title": "PostgreSQL Up and Running A Practical Guide"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "6cd60c4c660c125a",
@@ -182,8 +181,7 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,12 +274,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/db/postgresql_up_and_running.md",
+                "file": "bookmarks/probability/shaum_probability_and_stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from postgresql_up_and_running"
+              "title": "Outgoing links from shaum_probability_and_stats"
             }
           },
           {
@@ -336,14 +334,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f249b960d50edb7d",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
+    "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/network.md",
     "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/k8s_book.md",
     "quant/gr4.pdf",
     "quant/gr1.pdf",

@@ -1,1 +1,1 @@
-[[PostgreSQL Up and Running A Practical Guide.pdf#page=193&selection=16,0,16,18|Partitioned Tables]]
+[[PostgreSQL Up and Running A Practical Guide.pdf#page=200&selection=23,0,23,18|Unique Constraints]]

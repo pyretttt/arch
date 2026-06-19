@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=206&selection=84,0,84,42|Suppose now that in addition to corrupting]]
+[[computer-networking-top-down-approach-9th.pdf#page=212&selection=45,2,47,25|a Go-Back-N (GBN) protocol,]]

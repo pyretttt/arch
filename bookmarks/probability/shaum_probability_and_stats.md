@@ -229,5 +229,7 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 - [[shaum_probability_and_stats.pdf#page=330&selection=559,0,559,39|Two-Factor Experiments with Replication]]
 - [[shaum_probability_and_stats.pdf#page=332&selection=89,0,89,19|Experimental Design]]
 
-**current**: 
-[[shaum_probability_and_stats.pdf#page=347&selection=44,0,44,4|9.20]]
+
+# Chapter-10
+***
+[[shaum_probability_and_stats.pdf#page=358&selection=9,0,10,6|The Mann–Whitney U Test]]

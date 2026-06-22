@@ -232,4 +232,6 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 
 # Chapter-10
 ***
-[[shaum_probability_and_stats.pdf#page=358&selection=9,0,10,6|The Mann–Whitney U Test]]
+- [[shaum_probability_and_stats.pdf#page=357&selection=23,0,23,13|The Sign Test]]
+- [[shaum_probability_and_stats.pdf#page=358&selection=9,0,10,6|The Mann–Whitney U Test]]
+- [[shaum_probability_and_stats.pdf#page=359&selection=46,0,47,6|The Kruskal–Wallis H Test]]

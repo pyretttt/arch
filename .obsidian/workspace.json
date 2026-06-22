@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 358,
-                "left": -180,
-                "top": 749,
+                "page": 357,
+                "left": 20,
+                "top": 597,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -63,10 +63,10 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 214,
-                "left": 26,
-                "top": 227,
-                "zoom": 1.1
+                "page": 219,
+                "left": -18,
+                "top": 52,
+                "zoom": 0.8248587570621468
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -109,13 +109,29 @@
               "type": "pdf",
               "state": {
                 "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
-                "page": 200,
-                "left": 62,
-                "top": 396,
+                "page": 201,
+                "left": 36,
+                "top": 771,
                 "zoom": 0.97
               },
               "icon": "lucide-file-text",
               "title": "PostgreSQL Up and Running A Practical Guide"
+            }
+          },
+          {
+            "id": "3957578312bb816a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "fundamentals-devops-software-delivery-hands.pdf",
+                "page": 2,
+                "left": -9,
+                "top": 411,
+                "zoom": 1.8467261904761905
+              },
+              "icon": "lucide-file-text",
+              "title": "fundamentals-devops-software-delivery-hands"
             }
           }
         ],
@@ -182,7 +198,8 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,12 +292,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "file": "bookmarks/network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shaum_probability_and_stats"
+              "title": "Outgoing links from network"
             }
           },
           {
@@ -335,24 +352,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "0ad1de5608173a6c",
   "lastOpenFiles": [
     "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/network.md",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
+    "kubernetes-book-poulton.pdf",
+    "bookmarks/progress.md",
+    "fundamentals-devops-software-delivery-hands.pdf",
     "bookmarks/db/postgresql_up_and_running.md",
-    "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "bookmarks/k8s_book.md",
-    "bookmarks/network.md",
     "quant/gr4.pdf",
     "quant/gr1.pdf",
     "quant/book.pdf",
     "quant/HFT_2024___Oxford___lecture_notes_2024.pdf",
     "quant/MIT-Quant-Bible.pdf",
-    "quant/2605.27684v1.pdf",
-    "quant/AI_for_trading_strategies.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
-    "bookmarks/progress.md",
     "bookmarks/db/the_art_of_postgresql.md",
     "book-kubernetes-container-orchestration.pdf.md",
     "bookmarks/ml/diffusion_models_stanley_chan_outline.md",

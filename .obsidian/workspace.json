@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 357,
-                "left": 20,
-                "top": 597,
-                "zoom": 1.1
+                "page": 362,
+                "left": -14,
+                "top": 726,
+                "zoom": 1.0736459044619693
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -64,9 +64,9 @@
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
                 "page": 219,
-                "left": -18,
-                "top": 52,
-                "zoom": 0.8248587570621468
+                "left": -9,
+                "top": 56,
+                "zoom": 1.752824858757062
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -134,8 +134,7 @@
               "title": "fundamentals-devops-software-delivery-hands"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "6cd60c4c660c125a",
@@ -198,8 +197,7 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -352,13 +350,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0ad1de5608173a6c",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/network.md",
-    "db/PostgreSQL Up and Running A Practical Guide.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "bookmarks/network.md",
+    "computer-networking-top-down-approach-9th.pdf",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "kubernetes-book-poulton.pdf",
     "bookmarks/progress.md",
     "fundamentals-devops-software-delivery-hands.pdf",

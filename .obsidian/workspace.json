@@ -64,7 +64,7 @@
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
                 "page": 235,
-                "left": 7,
+                "left": -172,
                 "top": 530,
                 "zoom": 1.1
               },
@@ -354,6 +354,8 @@
   },
   "active": "0ad1de5608173a6c",
   "lastOpenFiles": [
+    "networking-kubernetes-layered-approach.pdf",
+    "Network Programmability and Automation (2023).pdf",
     "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/network.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
@@ -368,7 +370,6 @@
     "quant/gr1.pdf",
     "quant/book.pdf",
     "quant/HFT_2024___Oxford___lecture_notes_2024.pdf",
-    "quant/MIT-Quant-Bible.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/db/the_art_of_postgresql.md",
     "book-kubernetes-container-orchestration.pdf.md",

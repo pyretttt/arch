@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=222&selection=51,0,52,79|Having taken a brief look at the TCP connection, let’s examine the TCP seg-]]
+[[computer-networking-top-down-approach-9th.pdf#page=235&selection=13,0,14,79|Recall that the hosts on each side of a TCP connection set aside a receive buffer]]

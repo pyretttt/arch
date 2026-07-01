@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=243&selection=14,0,15,14|In the previous sections, we examined both the general principles and specific TCP mechanisms]]
+[[computer-networking-top-down-approach-9th.pdf#page=254&selection=35,0,35,10|Slow Start]]

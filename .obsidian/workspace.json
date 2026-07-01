@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 373,
+                "page": 377,
                 "left": -8,
-                "top": 242,
+                "top": 257,
                 "zoom": 1.8103187057572063
               },
               "icon": "lucide-file-text",
@@ -63,9 +63,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 242,
-                "left": -4,
-                "top": 206,
+                "page": 254,
+                "left": 26,
+                "top": 535,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -356,10 +356,10 @@
   "lastOpenFiles": [
     "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/network.md",
-    "networking-kubernetes-layered-approach.pdf",
-    "Network Programmability and Automation (2023).pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
+    "networking-kubernetes-layered-approach.pdf",
+    "Network Programmability and Automation (2023).pdf",
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "kubernetes-book-poulton.pdf",
     "bookmarks/progress.md",

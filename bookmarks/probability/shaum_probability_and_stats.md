@@ -237,4 +237,8 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 - [[shaum_probability_and_stats.pdf#page=359&selection=46,0,47,6|The Kruskal–Wallis H Test]]
 
 **current**: 
-[[shaum_probability_and_stats.pdf#page=373&selection=474,0,474,5|10.23]]
+[[shaum_probability_and_stats.pdf#page=377&selection=274,0,274,5|10.49]]
+
+**answer**:
+[[shaum_probability_and_stats.pdf#page=380&selection=46,0,46,5|10.41]]
+

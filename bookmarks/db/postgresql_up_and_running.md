@@ -1,1 +1,1 @@
-[[PostgreSQL Up and Running A Practical Guide.pdf#page=200&selection=23,0,23,18|Unique Constraints]]
+[[PostgreSQL Up and Running A Practical Guide.pdf#page=209&selection=7,0,7,15|Partial Indexes]]

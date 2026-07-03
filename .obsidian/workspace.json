@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 380,
-                "left": -15,
-                "top": 506,
-                "zoom": 1.0182130996120307
+                "page": 381,
+                "left": -10,
+                "top": 779,
+                "zoom": 1.4879331828141424
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -110,7 +110,7 @@
               "state": {
                 "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
                 "page": 209,
-                "left": 43,
+                "left": -189,
                 "top": 569,
                 "zoom": 0.97
               },
@@ -134,8 +134,7 @@
               "title": "fundamentals-devops-software-delivery-hands"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "6cd60c4c660c125a",
@@ -198,8 +197,7 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -352,14 +350,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f249b960d50edb7d",
+  "active": "922cc3cb4c524101",
   "lastOpenFiles": [
-    "db/PostgreSQL Up and Running A Practical Guide.pdf",
+    "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/db/postgresql_up_and_running.md",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "bookmarks/network.md",
     "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "probability/shaum_probability_and_stats.pdf",
     "networking-kubernetes-layered-approach.pdf",
     "Network Programmability and Automation (2023).pdf",
     "kubernetes-book-poulton.pdf",

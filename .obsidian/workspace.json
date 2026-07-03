@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 381,
-                "left": -10,
-                "top": 779,
-                "zoom": 1.4879331828141424
+                "page": 380,
+                "left": -30,
+                "top": 2,
+                "zoom": 0.5295291621191506
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -63,9 +63,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 260,
-                "left": -172,
-                "top": 408,
+                "page": 270,
+                "left": 19,
+                "top": 538,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -134,7 +134,8 @@
               "title": "fundamentals-devops-software-delivery-hands"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "6cd60c4c660c125a",
@@ -197,7 +198,8 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -350,14 +352,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "0ad1de5608173a6c",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/network.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/db/postgresql_up_and_running.md",
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
-    "bookmarks/network.md",
-    "computer-networking-top-down-approach-9th.pdf",
     "networking-kubernetes-layered-approach.pdf",
     "Network Programmability and Automation (2023).pdf",
     "kubernetes-book-poulton.pdf",

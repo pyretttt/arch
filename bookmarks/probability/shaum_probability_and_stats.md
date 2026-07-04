@@ -245,4 +245,4 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 
 # Chapter-11
 ***
-[[shaum_probability_and_stats.pdf#page=381&selection=0,0,0,16|Bayesian Methods]]
+[[shaum_probability_and_stats.pdf#page=383&selection=514,0,516,3|EXAMPLE 11.5 The]]

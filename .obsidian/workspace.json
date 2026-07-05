@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 76.05633802816901,
+        "dimension": 66.21951219512195,
         "children": [
           {
             "id": "bafafbd95d1598ef",
@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 383,
-                "left": -10,
-                "top": 121,
-                "zoom": 1.4879331828141424
+                "page": 386,
+                "left": 18,
+                "top": 704,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -126,8 +126,8 @@
               "state": {
                 "file": "fundamentals-devops-software-delivery-hands.pdf",
                 "page": 2,
-                "left": -9,
-                "top": 411,
+                "left": -4,
+                "top": 415,
                 "zoom": 1.8467261904761905
               },
               "icon": "lucide-file-text",
@@ -139,10 +139,10 @@
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 23.943661971830984,
+        "dimension": 33.78048780487805,
         "children": [
           {
-            "id": "922cc3cb4c524101",
+            "id": "8e96a2b6ad64f396",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -153,20 +153,6 @@
               },
               "icon": "lucide-file",
               "title": "shaum_probability_and_stats"
-            }
-          },
-          {
-            "id": "8e96a2b6ad64f396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bookmarks/k8s_book.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "k8s_book"
             }
           },
           {
@@ -350,23 +336,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "922cc3cb4c524101",
+  "active": "8e96a2b6ad64f396",
   "lastOpenFiles": [
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/Introduction_to_Probability,_Statistics,_and_Random_Processes_Hossein.pdf",
+    "bookmarks/db/postgresql_up_and_running.md",
+    "bookmarks/k8s_book.md",
     "bookmarks/network.md",
     "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/db/postgresql_up_and_running.md",
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "networking-kubernetes-layered-approach.pdf",
     "Network Programmability and Automation (2023).pdf",
     "kubernetes-book-poulton.pdf",
     "bookmarks/progress.md",
     "fundamentals-devops-software-delivery-hands.pdf",
-    "bookmarks/k8s_book.md",
     "quant/gr4.pdf",
     "quant/gr1.pdf",
-    "quant/book.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/db/the_art_of_postgresql.md",
     "book-kubernetes-container-orchestration.pdf.md",

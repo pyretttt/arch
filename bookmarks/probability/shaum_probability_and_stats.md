@@ -245,4 +245,8 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 
 # Chapter-11
 ***
-[[shaum_probability_and_stats.pdf#page=386&selection=0,0,0,53|Sampling From a Normal Population with Known Variance]]
+- [[shaum_probability_and_stats.pdf#page=384&selection=151,0,151,35|Sampling From a Binomial Population]]
+- [[shaum_probability_and_stats.pdf#page=385&selection=185,0,185,34|Sampling From a Poisson Population]]
+- [[shaum_probability_and_stats.pdf#page=386&selection=0,0,0,53|Sampling From a Normal Population with Known Variance]]
+
+[[shaum_probability_and_stats.pdf#page=387&selection=212,0,212,28|Improper Prior Distributions]]

@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 386,
-                "left": 18,
-                "top": 704,
-                "zoom": 1
+                "page": 387,
+                "left": -92,
+                "top": 188,
+                "zoom": 1.2
               },
               "icon": "lucide-file-text",
               "title": "shaum_probability_and_stats"
@@ -109,9 +109,9 @@
               "type": "pdf",
               "state": {
                 "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
-                "page": 209,
-                "left": -189,
-                "top": 569,
+                "page": 228,
+                "left": 57,
+                "top": 705,
                 "zoom": 0.97
               },
               "icon": "lucide-file-text",
@@ -134,7 +134,8 @@
               "title": "fundamentals-devops-software-delivery-hands"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "6cd60c4c660c125a",
@@ -183,7 +184,8 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -336,16 +338,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8e96a2b6ad64f396",
+  "active": "f249b960d50edb7d",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "probability/Introduction_to_Probability,_Statistics,_and_Random_Processes_Hossein.pdf",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "bookmarks/db/postgresql_up_and_running.md",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
+    "probability/Introduction_to_Probability,_Statistics,_and_Random_Processes_Hossein.pdf",
     "bookmarks/k8s_book.md",
     "bookmarks/network.md",
     "computer-networking-top-down-approach-9th.pdf",
-    "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "networking-kubernetes-layered-approach.pdf",
     "Network Programmability and Automation (2023).pdf",
     "kubernetes-book-poulton.pdf",

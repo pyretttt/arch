@@ -1,1 +1,1 @@
-[[PostgreSQL Up and Running A Practical Guide.pdf#page=209&selection=7,0,7,15|Partial Indexes]]
+[[PostgreSQL Up and Running A Practical Guide.pdf#page=228&selection=47,0,47,26|Composite Types in Queries]]

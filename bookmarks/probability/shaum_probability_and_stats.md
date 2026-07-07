@@ -248,5 +248,13 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 - [[shaum_probability_and_stats.pdf#page=384&selection=151,0,151,35|Sampling From a Binomial Population]]
 - [[shaum_probability_and_stats.pdf#page=385&selection=185,0,185,34|Sampling From a Poisson Population]]
 - [[shaum_probability_and_stats.pdf#page=386&selection=0,0,0,53|Sampling From a Normal Population with Known Variance]]
+- [[shaum_probability_and_stats.pdf#page=387&selection=212,0,212,28|Improper Prior Distributions]]
+- [[shaum_probability_and_stats.pdf#page=388&selection=77,0,77,29|Conjugate Prior Distributions]]
+- [[shaum_probability_and_stats.pdf#page=389&selection=92,0,92,25|Bayesian Point Estimation]]
+- [[shaum_probability_and_stats.pdf#page=391&selection=65,0,65,28|Bayesian Interval Estimation]]
+- [[shaum_probability_and_stats.pdf#page=392&selection=60,0,60,25|Bayesian Hypothesis Tests]]
+- [[shaum_probability_and_stats.pdf#page=393&selection=89,0,91,112|Bayes Factors]]
+- [[shaum_probability_and_stats.pdf#page=395&selection=0,0,0,33|Bayesian Predictive Distributions]]
 
-[[shaum_probability_and_stats.pdf#page=387&selection=212,0,212,28|Improper Prior Distributions]]
+**current**:
+[[shaum_probability_and_stats.pdf#page=399&selection=148,0,148,4|11.6]]

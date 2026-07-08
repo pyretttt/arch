@@ -1,1 +1,1 @@
-[[PostgreSQL Up and Running A Practical Guide.pdf#page=228&selection=47,0,47,26|Composite Types in Queries]]
+[[PostgreSQL Up and Running A Practical Guide.pdf#page=237&selection=57,0,57,12|PARTITION BY]]

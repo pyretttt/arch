@@ -257,4 +257,4 @@ P(Y > 80) = P\left( Z > \frac{80 - 69}{\sqrt{ 100 \cdot 0.6915 \cdot 0.3085 }} \
 - [[shaum_probability_and_stats.pdf#page=395&selection=0,0,0,33|Bayesian Predictive Distributions]]
 
 **current**:
-[[shaum_probability_and_stats.pdf#page=399&selection=148,0,148,4|11.6]]
+[[shaum_probability_and_stats.pdf#page=400&selection=23,0,23,5|11.13]]

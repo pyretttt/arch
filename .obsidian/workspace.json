@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 398,
+                "page": 400,
                 "left": -92,
-                "top": 151,
+                "top": 583,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -109,9 +109,9 @@
               "type": "pdf",
               "state": {
                 "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
-                "page": 253,
-                "left": 55,
-                "top": 13,
+                "page": 280,
+                "left": -125,
+                "top": 761,
                 "zoom": 0.97
               },
               "icon": "lucide-file-text",
@@ -134,8 +134,7 @@
               "title": "fundamentals-devops-software-delivery-hands"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "6cd60c4c660c125a",
@@ -184,8 +183,7 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -338,13 +336,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f249b960d50edb7d",
+  "active": "8e96a2b6ad64f396",
   "lastOpenFiles": [
-    "db/PostgreSQL Up and Running A Practical Guide.pdf",
-    "bookmarks/db/postgresql_up_and_running.md",
-    "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "bookmarks/db/postgresql_up_and_running.md",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
+    "fundamentals-devops-software-delivery-hands.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
     "probability/Introduction_to_Probability,_Statistics,_and_Random_Processes_Hossein.pdf",
     "bookmarks/k8s_book.md",
     "bookmarks/network.md",
@@ -352,7 +351,6 @@
     "Network Programmability and Automation (2023).pdf",
     "kubernetes-book-poulton.pdf",
     "bookmarks/progress.md",
-    "fundamentals-devops-software-delivery-hands.pdf",
     "quant/gr4.pdf",
     "quant/gr1.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",

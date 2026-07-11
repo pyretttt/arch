@@ -17,7 +17,7 @@
                 "file": "probability/shaum_probability_and_stats.pdf",
                 "page": 400,
                 "left": -92,
-                "top": 583,
+                "top": 350,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -135,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "6cd60c4c660c125a",
@@ -184,8 +184,7 @@
               "title": "postgresql_up_and_running"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -338,12 +337,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f249b960d50edb7d",
+  "active": "d9ef6352e7c0df26",
   "lastOpenFiles": [
-    "db/PostgreSQL Up and Running A Practical Guide.pdf",
-    "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/db/postgresql_up_and_running.md",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "fundamentals-devops-software-delivery-hands.pdf",
     "computer-networking-top-down-approach-9th.pdf",
     "probability/Introduction_to_Probability,_Statistics,_and_Random_Processes_Hossein.pdf",

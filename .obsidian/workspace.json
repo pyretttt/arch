@@ -16,8 +16,8 @@
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
                 "page": 404,
-                "left": -92,
-                "top": 769,
+                "left": -133,
+                "top": 540,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -63,10 +63,10 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 294,
-                "left": -4,
-                "top": 362,
-                "zoom": 1
+                "page": 299,
+                "left": 26,
+                "top": 88,
+                "zoom": 1.2
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -109,9 +109,9 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-devops-software-delivery-hands.pdf",
-                "page": 70,
-                "left": 24,
-                "top": 406,
+                "page": 91,
+                "left": -4,
+                "top": 577,
                 "zoom": 1.8467261904761905
               },
               "icon": "lucide-file-text",
@@ -262,12 +262,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-networking-top-down-approach-9th.pdf",
+                "file": "bookmarks/network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from computer-networking-top-down-approach-9th"
+              "title": "Outgoing links from network"
             }
           },
           {
@@ -322,14 +322,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d9ef6352e7c0df26",
+  "active": "0ad1de5608173a6c",
   "lastOpenFiles": [
-    "bookmarks/network.md",
     "computer-networking-top-down-approach-9th.pdf",
-    "kubernetes-book-poulton.pdf",
+    "bookmarks/network.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
     "fundamentals-devops-software-delivery-hands.pdf",
+    "kubernetes-book-poulton.pdf",
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "bookmarks/progress.md",
     "bookmarks/db/postgresql_up_and_running.md",

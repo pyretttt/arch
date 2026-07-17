@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=294&selection=60,0,60,47|Now that we’ve overviewed the data and control]]
+[[computer-networking-top-down-approach-9th.pdf#page=299&selection=60,0,60,21|The switching fabric]]

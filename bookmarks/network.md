@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=299&selection=60,0,60,21|The switching fabric]]
+[[computer-networking-top-down-approach-9th.pdf#page=307&selection=25,0,27,76|First-in-First-Out (FIFO)]]

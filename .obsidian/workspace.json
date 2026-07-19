@@ -63,9 +63,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 307,
-                "left": -161,
-                "top": 548,
+                "page": 315,
+                "left": 44,
+                "top": 557,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -118,7 +118,8 @@
               "title": "fundamentals-devops-software-delivery-hands"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "6cd60c4c660c125a",
@@ -167,8 +168,7 @@
               "title": "shaum_probability_and_stats"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,12 +261,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "file": "bookmarks/network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shaum_probability_and_stats"
+              "title": "Outgoing links from network"
             }
           },
           {
@@ -321,13 +321,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6672c9cca4388c32",
+  "active": "0ad1de5608173a6c",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "bookmarks/network.md",
-    "fundamentals-devops-software-delivery-hands.pdf",
     "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/network.md",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
+    "fundamentals-devops-software-delivery-hands.pdf",
     "kubernetes-book-poulton.pdf",
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "bookmarks/progress.md",

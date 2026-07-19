@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=307&selection=25,0,27,76|First-in-First-Out (FIFO)]]
+[[computer-networking-top-down-approach-9th.pdf#page=315&selection=50,0,52,12|Each IP address is 32 bits long]]

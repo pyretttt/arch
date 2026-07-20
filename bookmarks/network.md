@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=315&selection=50,0,52,12|Each IP address is 32 bits long]]
+[[computer-networking-top-down-approach-9th.pdf#page=321&selection=22,0,22,54|Once an organization has obtained a block of addresses]]

@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 405,
+                "page": 406,
                 "left": -133,
-                "top": 638,
+                "top": 737,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -64,8 +64,8 @@
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
                 "page": 315,
-                "left": 44,
-                "top": 557,
+                "left": -161,
+                "top": 454,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -109,17 +109,16 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-devops-software-delivery-hands.pdf",
-                "page": 136,
+                "page": 160,
                 "left": 0,
-                "top": 238,
+                "top": 307,
                 "zoom": 1.8467261904761905
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-devops-software-delivery-hands"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "6cd60c4c660c125a",
@@ -168,7 +167,8 @@
               "title": "shaum_probability_and_stats"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,12 +261,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/network.md",
+                "file": "bookmarks/probability/shaum_probability_and_stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from network"
+              "title": "Outgoing links from shaum_probability_and_stats"
             }
           },
           {
@@ -321,13 +321,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0ad1de5608173a6c",
+  "active": "6672c9cca4388c32",
   "lastOpenFiles": [
-    "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/network.md",
-    "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/shaum_probability_and_stats.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "fundamentals-devops-software-delivery-hands.pdf",
+    "bookmarks/network.md",
+    "Wiley.Implementing.SSL.TLS.Using.Cryptography.and.PKI.0470920416.pdf",
+    "ssl-tls-theory-practice-3rd.pdf",
+    "Hashicorp-vault-for-beginners.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
     "kubernetes-book-poulton.pdf",
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "bookmarks/progress.md",
@@ -335,9 +338,6 @@
     "probability/Introduction_to_Probability,_Statistics,_and_Random_Processes_Hossein.pdf",
     "bookmarks/k8s_book.md",
     "networking-kubernetes-layered-approach.pdf",
-    "Network Programmability and Automation (2023).pdf",
-    "quant/gr4.pdf",
-    "quant/gr1.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/db/the_art_of_postgresql.md",
     "book-kubernetes-container-orchestration.pdf.md",

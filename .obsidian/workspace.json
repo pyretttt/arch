@@ -16,8 +16,8 @@
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
                 "page": 406,
-                "left": -133,
-                "top": 737,
+                "left": -141,
+                "top": 467,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -63,9 +63,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 321,
-                "left": -169,
-                "top": 635,
+                "page": 327,
+                "left": 26,
+                "top": 258,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -95,9 +95,9 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-devops-software-delivery-hands.pdf",
-                "page": 160,
-                "left": 0,
-                "top": 307,
+                "page": 196,
+                "left": -7,
+                "top": 628,
                 "zoom": 1.8467261904761905
               },
               "icon": "lucide-file-text",
@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "6cd60c4c660c125a",
@@ -327,14 +327,14 @@
   },
   "active": "88c51b963162dd6b",
   "lastOpenFiles": [
-    "Hashicorp-vault-for-beginners.pdf",
-    "fundamentals-devops-software-delivery-hands.pdf",
-    "bookmarks/progress.md",
     "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/network.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
-    "bookmarks/db/postgresql_up_and_running.md",
     "probability/shaum_probability_and_stats.pdf",
+    "fundamentals-devops-software-delivery-hands.pdf",
+    "Hashicorp-vault-for-beginners.pdf",
+    "bookmarks/progress.md",
+    "bookmarks/db/postgresql_up_and_running.md",
     "Wiley.Implementing.SSL.TLS.Using.Cryptography.and.PKI.0470920416.pdf",
     "ssl-tls-theory-practice-3rd.pdf",
     "kubernetes-book-poulton.pdf",

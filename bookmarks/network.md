@@ -1,1 +1,1 @@
-[[computer-networking-top-down-approach-9th.pdf#page=321&selection=22,0,22,54|Once an organization has obtained a block of addresses]]
+[[computer-networking-top-down-approach-9th.pdf#page=327&selection=6,0,6,18|In the early 1990s]]

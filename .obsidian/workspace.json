@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 407,
+                "page": 408,
                 "left": -141,
-                "top": 577,
+                "top": 477,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -63,10 +63,10 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 327,
-                "left": -169,
-                "top": 258,
-                "zoom": 1.1
+                "page": 332,
+                "left": -176,
+                "top": 617,
+                "zoom": 1.0833333333333335
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -80,7 +80,7 @@
               "state": {
                 "file": "kubernetes-book-poulton.pdf",
                 "page": 73,
-                "left": -110,
+                "left": -164,
                 "top": 501,
                 "zoom": 1.1
               },
@@ -95,9 +95,9 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-devops-software-delivery-hands.pdf",
-                "page": 222,
+                "page": 242,
                 "left": -7,
-                "top": 405,
+                "top": 547,
                 "zoom": 1.8467261904761905
               },
               "icon": "lucide-file-text",
@@ -328,14 +328,14 @@
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "fundamentals-devops-software-delivery-hands.pdf",
+    "Hashicorp-vault-for-beginners.pdf",
     "bookmarks/network.md",
     "computer-networking-top-down-approach-9th.pdf",
-    "Hashicorp-vault-for-beginners.pdf",
+    "kubernetes-book-poulton.pdf",
     "bookmarks/progress.md",
     "bookmarks/db/postgresql_up_and_running.md",
     "Wiley.Implementing.SSL.TLS.Using.Cryptography.and.PKI.0470920416.pdf",
     "ssl-tls-theory-practice-3rd.pdf",
-    "kubernetes-book-poulton.pdf",
     "db/PostgreSQL Up and Running A Practical Guide.pdf",
     "probability/Introduction_to_Probability,_Statistics,_and_Random_Processes_Hossein.pdf",
     "bookmarks/k8s_book.md",

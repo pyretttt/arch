@@ -63,10 +63,10 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 332,
-                "left": -176,
-                "top": 617,
-                "zoom": 1.0833333333333335
+                "page": 412,
+                "left": 18,
+                "top": 198,
+                "zoom": 1.2
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -121,7 +121,8 @@
               "title": "Hashicorp-vault-for-beginners"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "6cd60c4c660c125a",
@@ -170,7 +171,8 @@
               "title": "network"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,12 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "file": "computer-networking-top-down-approach-9th.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shaum_probability_and_stats"
+              "title": "Outgoing links from computer-networking-top-down-approach-9th"
             }
           },
           {
@@ -323,14 +325,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6672c9cca4388c32",
+  "active": "d9ef6352e7c0df26",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "fundamentals-devops-software-delivery-hands.pdf",
-    "Hashicorp-vault-for-beginners.pdf",
     "bookmarks/network.md",
     "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
+    "probability/shaum_probability_and_stats.pdf",
+    "fundamentals-devops-software-delivery-hands.pdf",
+    "Hashicorp-vault-for-beginners.pdf",
     "kubernetes-book-poulton.pdf",
     "bookmarks/progress.md",
     "bookmarks/db/postgresql_up_and_running.md",

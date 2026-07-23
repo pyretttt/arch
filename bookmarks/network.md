@@ -1,1 +1,0 @@
-[[computer-networking-top-down-approach-9th.pdf#page=332&selection=27,0,28,79|Recall that Section 4.2.1 characterized destination-based forwarding as the two steps of looking up a destination IP address (“match”), then sending the packet]]

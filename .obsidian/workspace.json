@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 410,
-                "left": 15,
-                "top": 257,
+                "page": 418,
+                "left": -141,
+                "top": 154,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -95,9 +95,9 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-devops-software-delivery-hands.pdf",
-                "page": 340,
+                "page": 491,
                 "left": -7,
-                "top": 174,
+                "top": 619,
                 "zoom": 1.8467261904761905
               },
               "icon": "lucide-file-text",
@@ -327,11 +327,11 @@
   "lastOpenFiles": [
     "probability/shaum_probability_and_stats.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
-    "Hashicorp-vault-for-beginners.pdf",
     "fundamentals-devops-software-delivery-hands.pdf",
+    "kubernetes-book-poulton.pdf",
+    "Hashicorp-vault-for-beginners.pdf",
     "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/network.md",
-    "kubernetes-book-poulton.pdf",
     "bookmarks/progress.md",
     "bookmarks/db/postgresql_up_and_running.md",
     "Wiley.Implementing.SSL.TLS.Using.Cryptography.and.PKI.0470920416.pdf",

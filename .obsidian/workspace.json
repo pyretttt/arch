@@ -6,40 +6,8 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 75.60975609756098,
+        "dimension": 60.78431372549019,
         "children": [
-          {
-            "id": "bafafbd95d1598ef",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "probability/shaum_probability_and_stats.pdf",
-                "page": 418,
-                "left": -141,
-                "top": 154,
-                "zoom": 1.2
-              },
-              "icon": "lucide-file-text",
-              "title": "shaum_probability_and_stats"
-            }
-          },
-          {
-            "id": "c459edc6726863e1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ml/diffusion_models_stanley_chan.pdf",
-                "page": 5,
-                "left": -165,
-                "top": 538,
-                "zoom": 1.02
-              },
-              "icon": "lucide-file-text",
-              "title": "diffusion_models_stanley_chan"
-            }
-          },
           {
             "id": "49ba2707c8e31b1c",
             "type": "leaf",
@@ -47,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/A-First-Course-in-Probability.pdf",
-                "page": 232,
+                "page": 10,
                 "left": -2,
-                "top": 730,
-                "zoom": 1.6876088789901682
+                "top": 29,
+                "zoom": 1.676729853178789
               },
               "icon": "lucide-file-text",
               "title": "A-First-Course-in-Probability"
@@ -63,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 353,
-                "left": -176,
-                "top": 599,
-                "zoom": 1.0833333333333333
+                "page": 219,
+                "left": -9,
+                "top": 60,
+                "zoom": 1.7415254237288136
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -81,7 +49,7 @@
                 "file": "kubernetes-book-poulton.pdf",
                 "page": 73,
                 "left": -164,
-                "top": 501,
+                "top": 505,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -92,41 +60,56 @@
             "id": "3957578312bb816a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "fundamentals-devops-software-delivery-hands.pdf",
-                "page": 491,
-                "left": -7,
-                "top": 619,
-                "zoom": 1.8467261904761905
+                "file": "bookmarks/progress.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "fundamentals-devops-software-delivery-hands"
+              "icon": "lucide-file",
+              "title": "progress"
             }
           },
           {
             "id": "fdf168ceb3077ec2",
             "type": "leaf",
-            "dimension": 14.285714285714286,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Hashicorp-vault-for-beginners.pdf",
-                "page": 12,
+                "page": 125,
                 "left": -8,
-                "top": 671,
+                "top": 663,
                 "zoom": 1.8538008178975225
               },
               "icon": "lucide-file-text",
               "title": "Hashicorp-vault-for-beginners"
             }
+          },
+          {
+            "id": "c8ec845b190d0108",
+            "type": "leaf",
+            "dimension": 20,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "probability/bayesian-methods-for-hackers.pdf",
+                "page": 26,
+                "left": 22,
+                "top": 412,
+                "zoom": 1.09508547008547
+              },
+              "icon": "lucide-file-text",
+              "title": "bayesian-methods-for-hackers"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 24.390243902439025,
+        "dimension": 39.21568627450981,
         "children": [
           {
             "id": "6672c9cca4388c32",
@@ -134,12 +117,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bookmarks/probability/shaum_probability_and_stats.md",
+                "file": "bookmarks/progress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shaum_probability_and_stats"
+              "title": "progress"
+            }
+          },
+          {
+            "id": "aa9b053c5c0097fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/probability/bayes_methods_for_hackers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bayes_methods_for_hackers"
             }
           },
           {
@@ -170,7 +167,8 @@
               "title": "network"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +188,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -223,13 +223,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 403.30078125
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -323,23 +321,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6672c9cca4388c32",
+  "active": "aa9b053c5c0097fc",
   "lastOpenFiles": [
-    "probability/shaum_probability_and_stats.pdf",
+    "probability/bayesian-methods-for-hackers.pdf",
+    "bookmarks/probability/bayes_methods_for_hackers.md",
+    "bookmarks/progress.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
-    "fundamentals-devops-software-delivery-hands.pdf",
+    "probability/A-First-Course-in-Probability.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
     "kubernetes-book-poulton.pdf",
     "Hashicorp-vault-for-beginners.pdf",
-    "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/network.md",
-    "bookmarks/progress.md",
+    "probability/[Geoffrey_R._Grimmett,_David_R._Stirzaker]_Probabi(BookZZ.org).pdf",
+    "ml/diffusion_models_stanley_chan.pdf",
+    "probability/shaum_probability_and_stats.pdf",
     "bookmarks/db/postgresql_up_and_running.md",
+    "fundamentals-devops-software-delivery-hands.pdf",
+    "bookmarks/network.md",
     "Wiley.Implementing.SSL.TLS.Using.Cryptography.and.PKI.0470920416.pdf",
-    "ssl-tls-theory-practice-3rd.pdf",
-    "db/PostgreSQL Up and Running A Practical Guide.pdf",
-    "probability/Introduction_to_Probability,_Statistics,_and_Random_Processes_Hossein.pdf",
     "bookmarks/k8s_book.md",
-    "networking-kubernetes-layered-approach.pdf",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/db/the_art_of_postgresql.md",
     "book-kubernetes-container-orchestration.pdf.md",

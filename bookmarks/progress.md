@@ -1,7 +1,12 @@
 # Probability
 ***
-- [ ] [shaum](shaum_probability_and_stats.pdf)
-- [ ] [Geofrey. Grimmet. Stirzaker](probability/[Geoffrey_R._Grimmett,_David_R._Stirzaker]_Probabi(BookZZ.org).pdf)
+- [x] [shaum](shaum_probability_and_stats.pdf)
+- [ ] [Geofrey. Grimmet. Stirzaker](probability/[Geoffrey_R._Grimmett,_David_R._Stirzaker]_Probabi(BookZZ.org).pdf) and [[One_Thousand_Exercises_in_Probability_Third_Edition_Geoffrey_Grimmett-1.pdf]] 
+- [ ] [[bayesian-methods-for-hackers.pdf]]
+- [ ] [[math19b_2011.pdf]]
+- [ ] [[ProbabilisticRobotics.pdf]]
+- [ ] [[RM-StatRethink-Bayes.pdf]]
+- [ ] [[probsim-book.pdf]]
 - [ ] [[diffusion_models_stanley_chan.pdf]]
 - [x] [[gamma_chi_student_f_distributions.pdf]]
 
@@ -26,7 +31,7 @@
 - [x] [[kubernetes-book-poulton.pdf]] 
 - [x] [[PostgreSQL Up and Running A Practical Guide.pdf]]
 - [ ] [[The Art Of PostgreSQL.pdf]]
-- [ ] [[fundamentals-devops-software-delivery-hands.pdf]]
+- [x] [[fundamentals-devops-software-delivery-hands.pdf]]
 - [ ] [[Hashicorp-vault-for-beginners.pdf]]
 - [ ] 
 

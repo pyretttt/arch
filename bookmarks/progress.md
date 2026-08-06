@@ -26,7 +26,7 @@
 - [x] [[kubernetes-book-poulton.pdf]] 
 - [x] [[PostgreSQL Up and Running A Practical Guide.pdf]]
 - [ ] [[The Art Of PostgreSQL.pdf]]
-- [ ] [[fundamentals-devops-software-delivery-hands.pdf]]
+- [x] [[fundamentals-devops-software-delivery-hands.pdf]]
 - [ ] [[Hashicorp-vault-for-beginners.pdf]]
 - [ ] 
 

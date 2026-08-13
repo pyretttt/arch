@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 60.78431372549019,
+        "dimension": 79.09738717339667,
         "children": [
           {
             "id": "49ba2707c8e31b1c",
@@ -33,8 +33,8 @@
                 "file": "computer-networking-top-down-approach-9th.pdf",
                 "page": 219,
                 "left": -9,
-                "top": 60,
-                "zoom": 1.7415254237288136
+                "top": 67,
+                "zoom": 1.8248587570621468
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -77,10 +77,10 @@
               "type": "pdf",
               "state": {
                 "file": "Hashicorp-vault-for-beginners.pdf",
-                "page": 125,
+                "page": 149,
                 "left": -8,
-                "top": 663,
-                "zoom": 1.8538008178975225
+                "top": 669,
+                "zoom": 1.9425066153476067
               },
               "icon": "lucide-file-text",
               "title": "Hashicorp-vault-for-beginners"
@@ -94,22 +94,22 @@
               "type": "pdf",
               "state": {
                 "file": "probability/bayesian-methods-for-hackers.pdf",
-                "page": 26,
-                "left": 22,
-                "top": 412,
-                "zoom": 1.09508547008547
+                "page": 39,
+                "left": 33,
+                "top": 583,
+                "zoom": 1.9171415004748336
               },
               "icon": "lucide-file-text",
               "title": "bayesian-methods-for-hackers"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 39.21568627450981,
+        "dimension": 20.902612826603324,
         "children": [
           {
             "id": "6672c9cca4388c32",
@@ -227,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.30078125
+    "width": 403.30078125,
+    "collapsed": true
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -321,16 +322,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "aa9b053c5c0097fc",
+  "active": "d9ef6352e7c0df26",
   "lastOpenFiles": [
-    "probability/bayesian-methods-for-hackers.pdf",
     "bookmarks/probability/bayes_methods_for_hackers.md",
+    "probability/bayesian-methods-for-hackers.pdf",
+    "Hashicorp-vault-for-beginners.pdf",
     "bookmarks/progress.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "probability/A-First-Course-in-Probability.pdf",
     "computer-networking-top-down-approach-9th.pdf",
     "kubernetes-book-poulton.pdf",
-    "Hashicorp-vault-for-beginners.pdf",
     "probability/[Geoffrey_R._Grimmett,_David_R._Stirzaker]_Probabi(BookZZ.org).pdf",
     "ml/diffusion_models_stanley_chan.pdf",
     "probability/shaum_probability_and_stats.pdf",

@@ -2,12 +2,12 @@
 ***
 - [x] [shaum](shaum_probability_and_stats.pdf)
 - [ ] [Geofrey. Grimmet. Stirzaker](probability/[Geoffrey_R._Grimmett,_David_R._Stirzaker]_Probabi(BookZZ.org).pdf) and [[One_Thousand_Exercises_in_Probability_Third_Edition_Geoffrey_Grimmett-1.pdf]] 
-- [ ] [[bayesian-methods-for-hackers.pdf]]
 - [ ] [[math19b_2011.pdf]]
 - [ ] [[ProbabilisticRobotics.pdf]]
 - [ ] [[RM-StatRethink-Bayes.pdf]]
 - [ ] [[probsim-book.pdf]]
 - [ ] [[diffusion_models_stanley_chan.pdf]]
+- [ ] [[BDA3.pdf]] related site https://sites.stat.columbia.edu/gelman/book/
 - [x] [[gamma_chi_student_f_distributions.pdf]]
 
 # CV

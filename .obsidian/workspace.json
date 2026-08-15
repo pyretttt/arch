@@ -71,22 +71,6 @@
             }
           },
           {
-            "id": "fdf168ceb3077ec2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Hashicorp-vault-for-beginners.pdf",
-                "page": 183,
-                "left": -11,
-                "top": 682,
-                "zoom": 1.4628939138802024
-              },
-              "icon": "lucide-file-text",
-              "title": "Hashicorp-vault-for-beginners"
-            }
-          },
-          {
             "id": "250c16aeafa1ace5",
             "type": "leaf",
             "dimension": 20,
@@ -94,17 +78,51 @@
               "type": "pdf",
               "state": {
                 "file": "probability/RM-StatRethink-Bayes.pdf",
-                "page": 15,
+                "page": 38,
                 "left": -10,
-                "top": 186,
+                "top": 151,
                 "zoom": 1.540091264667536
               },
               "icon": "lucide-file-text",
               "title": "RM-StatRethink-Bayes"
             }
+          },
+          {
+            "id": "4316af50afa7ddce",
+            "type": "leaf",
+            "dimension": 20,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "probability/BDA3.pdf",
+                "page": 6,
+                "left": -11,
+                "top": 210,
+                "zoom": 1.3897058823529411
+              },
+              "icon": "lucide-file-text",
+              "title": "BDA3"
+            }
+          },
+          {
+            "id": "78a5d172f872a2f1",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "linux-networking-professionals-enterprise.pdf",
+                "page": 40,
+                "left": -1,
+                "top": 518,
+                "zoom": 1.575
+              },
+              "icon": "lucide-file-text",
+              "title": "linux-networking-professionals-enterprise"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "6cd60c4c660c125a",
@@ -168,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -321,24 +339,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "aa9b053c5c0097fc",
+  "active": "88c51b963162dd6b",
   "lastOpenFiles": [
     "linux-networking-professionals-enterprise.pdf",
-    "tcp_ip_networkadministration_3rdedition.pdf",
+    "bookmarks/network.md",
     "bookmarks/probability/stat_rethink_bayes.md",
-    "probability/RM-StatRethink-Bayes.pdf",
-    "probability/[Geoffrey_R._Grimmett,_David_R._Stirzaker]_Probabi(BookZZ.org).pdf",
-    "probability/BDA3.pdf",
+    "tcp_ip_networkadministration_3rdedition.pdf",
     "bookmarks/progress.md",
-    "probability/ProbabilisticRobotics.pdf",
-    "probability/math19b_2011.pdf",
-    "probability/probsim-book.pdf",
+    "Network Warrior, 2nd Edition.pdf",
+    "networking-kubernetes-layered-approach.pdf",
+    "probability/RM-StatRethink-Bayes.pdf",
+    "mastering-python-networking-automation-programmability-3rd.pdf",
+    "Network Programmability and Automation (2023).pdf",
+    "probability/BDA3.pdf",
     "Hashicorp-vault-for-beginners.pdf",
-    "probability/bayesian-methods-for-hackers.pdf",
-    "computer-networking-top-down-approach-9th.pdf",
+    "probability/[Geoffrey_R._Grimmett,_David_R._Stirzaker]_Probabi(BookZZ.org).pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/db/postgresql_up_and_running.md",
-    "bookmarks/network.md",
     "bookmarks/k8s_book.md",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/db/the_art_of_postgresql.md",

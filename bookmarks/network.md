@@ -1,1 +1,1 @@
-[[linux-networking-professionals-enterprise.pdf#page=40&selection=1,0,7,10|Basic Linux Network Configuration and Operations – Working with Local Interfaces]]
+[[linux-networking-professionals-enterprise.pdf#page=66&selection=5,0,6,85|In this chapter, we'll cover some "how it works" networking basics, as well as how to use]]

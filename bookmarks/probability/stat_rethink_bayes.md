@@ -1,1 +1,1 @@
-[[RM-StatRethink-Bayes.pdf#page=39&selection=4,7,4,30|Using prior information]]
+[[RM-StatRethink-Bayes.pdf#page=51&selection=150,5,150,24|Making the model go]]

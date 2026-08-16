@@ -57,7 +57,7 @@
             }
           },
           {
-            "id": "3957578312bb816a",
+            "id": "88b92491a0d84537",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,10 +78,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/RM-StatRethink-Bayes.pdf",
-                "page": 38,
-                "left": -10,
-                "top": 151,
-                "zoom": 1.540091264667536
+                "page": 54,
+                "left": -70,
+                "top": 103,
+                "zoom": 1.1489569752281619
               },
               "icon": "lucide-file-text",
               "title": "RM-StatRethink-Bayes"
@@ -112,10 +112,10 @@
               "type": "pdf",
               "state": {
                 "file": "linux-networking-professionals-enterprise.pdf",
-                "page": 40,
+                "page": 66,
                 "left": -1,
-                "top": 518,
-                "zoom": 1.575
+                "top": 485,
+                "zoom": 1.6
               },
               "icon": "lucide-file-text",
               "title": "linux-networking-professionals-enterprise"
@@ -245,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 343.39453125,
+    "collapsed": true
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -344,16 +345,16 @@
     "linux-networking-professionals-enterprise.pdf",
     "bookmarks/network.md",
     "bookmarks/probability/stat_rethink_bayes.md",
-    "tcp_ip_networkadministration_3rdedition.pdf",
+    "probability/RM-StatRethink-Bayes.pdf",
     "bookmarks/progress.md",
+    "fundamentals-devops-software-delivery-hands.pdf",
+    "Learning DevOps.pdf",
+    "computer-networks-internet-hands-approach.pdf",
+    "probability/BDA3.pdf",
+    "tcp_ip_networkadministration_3rdedition.pdf",
     "Network Warrior, 2nd Edition.pdf",
     "networking-kubernetes-layered-approach.pdf",
-    "probability/RM-StatRethink-Bayes.pdf",
     "mastering-python-networking-automation-programmability-3rd.pdf",
-    "Network Programmability and Automation (2023).pdf",
-    "probability/BDA3.pdf",
-    "Hashicorp-vault-for-beginners.pdf",
-    "probability/[Geoffrey_R._Grimmett,_David_R._Stirzaker]_Probabi(BookZZ.org).pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/k8s_book.md",

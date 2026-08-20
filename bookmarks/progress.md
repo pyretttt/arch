@@ -7,8 +7,10 @@
 - [ ] [[RM-StatRethink-Bayes.pdf]]
 - [ ] [[probsim-book.pdf]]
 - [ ] [[diffusion_models_stanley_chan.pdf]]
-- [ ] [[BDA3.pdf]] related site https://sites.stat.columbia.edu/gelman/book/
+- [ ] [[BDA3.pdf]] related site https://sites.stat.columbia.edu/gelman/book/ and [notes](https://avehtari.github.io/BDA_course_Aalto/BDA3_notes.html#ch3)
 - [x] [[gamma_chi_student_f_distributions.pdf]]
+- [ ] [[EvansRosenthalProbability.pdf]]
+- [ ] [[Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf]]
 
 # CV
 ***

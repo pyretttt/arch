@@ -71,23 +71,6 @@
             }
           },
           {
-            "id": "250c16aeafa1ace5",
-            "type": "leaf",
-            "dimension": 20,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "probability/RM-StatRethink-Bayes.pdf",
-                "page": 53,
-                "left": -159,
-                "top": 372,
-                "zoom": 1.1489569752281619
-              },
-              "icon": "lucide-file-text",
-              "title": "RM-StatRethink-Bayes"
-            }
-          },
-          {
             "id": "4316af50afa7ddce",
             "type": "leaf",
             "dimension": 20,
@@ -95,10 +78,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/BDA3.pdf",
-                "page": 87,
-                "left": -10,
-                "top": 532,
-                "zoom": 1.5833333333333333
+                "page": 1,
+                "left": -13,
+                "top": 715,
+                "zoom": 1.2500000000000002
               },
               "icon": "lucide-file-text",
               "title": "BDA3"
@@ -112,17 +95,51 @@
               "type": "pdf",
               "state": {
                 "file": "linux-networking-professionals-enterprise.pdf",
-                "page": 78,
+                "page": 85,
                 "left": 0,
-                "top": 213,
+                "top": 322,
                 "zoom": 1.7944444444444445
               },
               "icon": "lucide-file-text",
               "title": "linux-networking-professionals-enterprise"
             }
+          },
+          {
+            "id": "f5100a2529cfaeef",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "probability/EvansRosenthalProbability.pdf",
+                "page": 7,
+                "left": -13,
+                "top": 790,
+                "zoom": 1.25
+              },
+              "icon": "lucide-file-text",
+              "title": "EvansRosenthalProbability"
+            }
+          },
+          {
+            "id": "74821a2087c12c73",
+            "type": "leaf",
+            "dimension": 14.285714285714286,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+                "page": 515,
+                "left": 38,
+                "top": 696,
+                "zoom": 1.9264395110397534
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org)"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "6cd60c4c660c125a",
@@ -149,12 +166,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bookmarks/probability/stat_rethink_bayes.md",
+                "file": "bookmarks/probability/linear_algebra_math.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stat_rethink_bayes"
+              "title": "linear_algebra_math"
             }
           },
           {
@@ -183,6 +200,20 @@
               },
               "icon": "lucide-file",
               "title": "network"
+            }
+          },
+          {
+            "id": "48c63adf71f90584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intro_to_probability_by_joseph_blitzstein"
             }
           }
         ],
@@ -344,19 +375,21 @@
   "lastOpenFiles": [
     "linux-networking-professionals-enterprise.pdf",
     "bookmarks/network.md",
-    "bookmarks/probability/stat_rethink_bayes.md",
-    "probability/RM-StatRethink-Bayes.pdf",
-    "probability/A-First-Course-in-Probability.pdf",
-    "bookmarks/db/postgresql_up_and_running.md",
-    "probability/BDA3.pdf",
-    "bookmarks/progress.md",
-    "fundamentals-devops-software-delivery-hands.pdf",
-    "Learning DevOps.pdf",
-    "computer-networks-internet-hands-approach.pdf",
-    "tcp_ip_networkadministration_3rdedition.pdf",
-    "Network Warrior, 2nd Edition.pdf",
-    "networking-kubernetes-layered-approach.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
+    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
+    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+    "Untitled 1.md",
+    "bookmarks/probability/linear_algebra_math.md",
+    "bookmarks/progress.md",
+    "probability/EvansRosenthalProbability.pdf",
+    "probability/BDA3.pdf",
+    "probability/stochastic_processes.pdf",
+    "probability/EvansRosenthalsolutions.pdf",
+    "probability/A-First-Course-in-Probability.pdf",
+    "probability/гнурман.pdf",
+    "probability/Теория_вероятностей_и_математическая_статистика_2004_Гмурман.pdf",
+    "probability/solutions_to_probability_book.pdf",
+    "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/k8s_book.md",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/db/the_art_of_postgresql.md",
@@ -384,7 +417,6 @@
     "gamedev/met-materials-3.0.0/21-image-based-lighting/projects/resources/Specular/Notes.md",
     "gamedev/met-materials-3.0.0/21-image-based-lighting/projects/resources/IrradianceGenerator/Notes.md",
     "gamedev/met-materials-3.0.0/README.md",
-    "bookmarks/text.md",
-    "Boot.md"
+    "bookmarks/text.md"
   ]
 }

@@ -1,1 +1,1 @@
-[[linux-networking-professionals-enterprise.pdf#page=78&selection=64,0,64,41|Layer 4 – TCP and the three-way handshake]]
+[[linux-networking-professionals-enterprise.pdf#page=85&selection=108,0,111,16|ss for instance has almost the same functions. In the following table, you can see what we've asked for:]]

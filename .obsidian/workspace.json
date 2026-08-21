@@ -122,24 +122,40 @@
             }
           },
           {
+            "id": "26b0f92bee8927a3",
+            "type": "leaf",
+            "dimension": 12.5,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
+                "page": 75,
+                "left": -18,
+                "top": 513,
+                "zoom": 0.8431372549019608
+              },
+              "icon": "lucide-file-text",
+              "title": "PostgreSQL Up and Running A Practical Guide"
+            }
+          },
+          {
             "id": "74821a2087c12c73",
             "type": "leaf",
-            "dimension": 14.285714285714286,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-                "page": 515,
-                "left": 38,
-                "top": 696,
-                "zoom": 1.9264395110397534
+                "page": 518,
+                "left": 32,
+                "top": 598,
+                "zoom": 1.0258439501512
               },
               "icon": "lucide-file-text",
               "title": "Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org)"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "6cd60c4c660c125a",
@@ -217,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -371,16 +387,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "88c51b963162dd6b",
+  "active": "48c63adf71f90584",
   "lastOpenFiles": [
-    "linux-networking-professionals-enterprise.pdf",
-    "bookmarks/network.md",
-    "bookmarks/probability/shaum_probability_and_stats.md",
-    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
+    "bookmarks/progress.md",
+    "bookmarks/network.md",
+    "linux-networking-professionals-enterprise.pdf",
+    "bookmarks/probability/shaum_probability_and_stats.md",
     "Untitled 1.md",
     "bookmarks/probability/linear_algebra_math.md",
-    "bookmarks/progress.md",
     "probability/EvansRosenthalProbability.pdf",
     "probability/BDA3.pdf",
     "probability/stochastic_processes.pdf",
@@ -388,7 +405,6 @@
     "probability/A-First-Course-in-Probability.pdf",
     "probability/гнурман.pdf",
     "probability/Теория_вероятностей_и_математическая_статистика_2004_Гмурман.pdf",
-    "probability/solutions_to_probability_book.pdf",
     "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/k8s_book.md",
     "bookmarks/cv/cv_algorithms_and_applications.md",

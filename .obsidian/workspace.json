@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/A-First-Course-in-Probability.pdf",
-                "page": 10,
+                "page": 232,
                 "left": -1,
-                "top": 370,
+                "top": 730,
                 "zoom": 1.7569626685377095
               },
               "icon": "lucide-file-text",
@@ -93,13 +93,29 @@
               "type": "pdf",
               "state": {
                 "file": "linux-networking-professionals-enterprise.pdf",
-                "page": 120,
-                "left": -1,
-                "top": 506,
-                "zoom": 1.5999999999999999
+                "page": 167,
+                "left": -78,
+                "top": 622,
+                "zoom": 1.4
               },
               "icon": "lucide-file-text",
               "title": "linux-networking-professionals-enterprise"
+            }
+          },
+          {
+            "id": "04d32b245059634f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+                "page": 88,
+                "left": 34,
+                "top": 728,
+                "zoom": 1.3121259827515348
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org)"
             }
           },
           {
@@ -110,8 +126,8 @@
               "state": {
                 "file": "probability/EvansRosenthalProbability.pdf",
                 "page": 7,
-                "left": -13,
-                "top": 790,
+                "left": -94,
+                "top": 794,
                 "zoom": 1.25
               },
               "icon": "lucide-file-text",
@@ -126,28 +142,12 @@
               "state": {
                 "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
                 "page": 316,
-                "left": -11,
-                "top": 295,
+                "left": -28,
+                "top": 299,
                 "zoom": 1.3394607843137256
               },
               "icon": "lucide-file-text",
               "title": "PostgreSQL Up and Running A Practical Guide"
-            }
-          },
-          {
-            "id": "04d32b245059634f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-                "page": 88,
-                "left": 38,
-                "top": 185,
-                "zoom": 1.9264395110397536
-              },
-              "icon": "lucide-file-text",
-              "title": "Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org)"
             }
           },
           {
@@ -157,13 +157,45 @@
               "type": "pdf",
               "state": {
                 "file": "github-actions-action.pdf",
-                "page": 70,
-                "left": 40,
-                "top": 255,
+                "page": 136,
+                "left": -2,
+                "top": 629,
                 "zoom": 1.93
               },
               "icon": "lucide-file-text",
               "title": "github-actions-action"
+            }
+          },
+          {
+            "id": "9d170d5fb835bd94",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "serious-cryptography-practical-2nd.pdf",
+                "page": 217,
+                "left": -156,
+                "top": 209,
+                "zoom": 1.0686936936936937
+              },
+              "icon": "lucide-file-text",
+              "title": "serious-cryptography-practical-2nd"
+            }
+          },
+          {
+            "id": "9fb98161d8ea7b12",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "network-security-private-3rd.pdf",
+                "page": 6,
+                "left": 60,
+                "top": 228,
+                "zoom": 2.0391414141414144
+              },
+              "icon": "lucide-file-text",
+              "title": "network-security-private-3rd"
             }
           }
         ],
@@ -399,24 +431,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "78a5d172f872a2f1",
+  "active": "88c51b963162dd6b",
   "lastOpenFiles": [
-    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-    "probability/BDA3.pdf",
-    "github-actions-action.pdf",
-    "bookmarks/network.md",
     "linux-networking-professionals-enterprise.pdf",
-    "db/PostgreSQL Up and Running A Practical Guide.pdf",
-    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
+    "bookmarks/network.md",
+    "network-security-private-3rd.pdf",
+    "github-actions-action.pdf",
     "bookmarks/progress.md",
+    "serious-cryptography-practical-2nd.pdf",
+    "probability/EvansRosenthalProbability.pdf",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
+    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+    "probability/A-First-Course-in-Probability.pdf",
+    "probability/BDA3.pdf",
+    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "probability/stochastic_processes.pdf",
-    "probability/resPdfShow.do;jsessionid=83EF8448F60844D9A7E160C2893A128A.pdf",
-    "probability/EvansRosenthalsolutions.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "Untitled 1.md",
     "bookmarks/probability/linear_algebra_math.md",
-    "probability/EvansRosenthalProbability.pdf",
-    "probability/A-First-Course-in-Probability.pdf",
     "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/k8s_book.md",
     "bookmarks/cv/cv_algorithms_and_applications.md",

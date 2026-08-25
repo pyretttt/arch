@@ -44,4 +44,5 @@
 - [ ] [[linux-networking-professionals-enterprise.pdf]]
 - [ ] [[mastering-python-networking-automation-programmability-3rd.pdf]]
 - [ ] [[tcp_ip_networkadministration_3rdedition.pdf]]
-- [ ] 
+- [ ] [[network-security-private-3rd.pdf]]
+- [ ] [[serious-cryptography-practical-2nd.pdf]]

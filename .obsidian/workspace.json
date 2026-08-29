@@ -93,9 +93,9 @@
               "type": "pdf",
               "state": {
                 "file": "linux-networking-professionals-enterprise.pdf",
-                "page": 167,
-                "left": -78,
-                "top": 622,
+                "page": 204,
+                "left": -41,
+                "top": 463,
                 "zoom": 1.4
               },
               "icon": "lucide-file-text",
@@ -110,9 +110,9 @@
               "state": {
                 "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
                 "page": 88,
-                "left": 34,
-                "top": 728,
-                "zoom": 1.3121259827515348
+                "left": 37,
+                "top": 732,
+                "zoom": 1.7176921956020095
               },
               "icon": "lucide-file-text",
               "title": "Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org)"
@@ -157,9 +157,9 @@
               "type": "pdf",
               "state": {
                 "file": "github-actions-action.pdf",
-                "page": 148,
-                "left": -3,
-                "top": 392,
+                "page": 161,
+                "left": -4,
+                "top": 381,
                 "zoom": 1.93
               },
               "icon": "lucide-file-text",
@@ -189,9 +189,9 @@
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 6,
-                "left": 60,
-                "top": 228,
+                "page": 1,
+                "left": -8,
+                "top": 365,
                 "zoom": 2.0391414141414144
               },
               "icon": "lucide-file-text",
@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       },
       {
         "id": "6cd60c4c660c125a",
@@ -433,15 +433,15 @@
   },
   "active": "88c51b963162dd6b",
   "lastOpenFiles": [
-    "github-actions-action.pdf",
-    "bookmarks/network.md",
     "linux-networking-professionals-enterprise.pdf",
+    "bookmarks/network.md",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
+    "probability/EvansRosenthalProbability.pdf",
     "network-security-private-3rd.pdf",
+    "github-actions-action.pdf",
+    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "bookmarks/progress.md",
     "serious-cryptography-practical-2nd.pdf",
-    "probability/EvansRosenthalProbability.pdf",
-    "db/PostgreSQL Up and Running A Practical Guide.pdf",
-    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "probability/A-First-Course-in-Probability.pdf",
     "probability/BDA3.pdf",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",

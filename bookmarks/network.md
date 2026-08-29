@@ -1,1 +1,1 @@
-[[linux-networking-professionals-enterprise.pdf#page=167&selection=4,0,4,20|SELinux and AppArmor]]
+[[linux-networking-professionals-enterprise.pdf#page=204&selection=4,0,10,64|In this chapter, we'll cover several topics that involve Dynamic Host Control Protocol (DHCP). As the name implies, DHCP is used to provide the basic information that a host needs to connect to the network and, in some cases, on where to find additional configuration, which makes it a key part of most infrastructures]]

@@ -1,1 +1,5 @@
-[[linux-networking-professionals-enterprise.pdf#page=204&selection=4,0,10,64|In this chapter, we'll cover several topics that involve Dynamic Host Control Protocol (DHCP). As the name implies, DHCP is used to provide the basic information that a host needs to connect to the network and, in some cases, on where to find additional configuration, which makes it a key part of most infrastructures]]
+[[linux-networking-professionals-enterprise.pdf#page=420&selection=4,0,4,38|In this chapter, we'll build on packet]]
+
+# Cryptography
+***
+[[network-security-private-3rd.pdf#page=63&selection=22,0,22,42|It is often useful to prove that a message]]

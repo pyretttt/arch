@@ -31,29 +31,13 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 353,
-                "left": -196,
-                "top": 660,
-                "zoom": 1.0833333333333335
+                "page": 219,
+                "left": -9,
+                "top": 60,
+                "zoom": 1.8248587570621468
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
-            }
-          },
-          {
-            "id": "167a83f6f7878735",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "kubernetes-book-poulton.pdf",
-                "page": 73,
-                "left": -164,
-                "top": 505,
-                "zoom": 1.1
-              },
-              "icon": "lucide-file-text",
-              "title": "kubernetes-book-poulton"
             }
           },
           {
@@ -93,10 +77,10 @@
               "type": "pdf",
               "state": {
                 "file": "linux-networking-professionals-enterprise.pdf",
-                "page": 204,
-                "left": -41,
-                "top": 463,
-                "zoom": 1.4
+                "page": 420,
+                "left": -17,
+                "top": 458,
+                "zoom": 1.51
               },
               "icon": "lucide-file-text",
               "title": "linux-networking-professionals-enterprise"
@@ -135,47 +119,15 @@
             }
           },
           {
-            "id": "26b0f92bee8927a3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "db/PostgreSQL Up and Running A Practical Guide.pdf",
-                "page": 316,
-                "left": -28,
-                "top": 299,
-                "zoom": 1.3394607843137256
-              },
-              "icon": "lucide-file-text",
-              "title": "PostgreSQL Up and Running A Practical Guide"
-            }
-          },
-          {
-            "id": "086baea73c579fda",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "github-actions-action.pdf",
-                "page": 161,
-                "left": -4,
-                "top": 381,
-                "zoom": 1.93
-              },
-              "icon": "lucide-file-text",
-              "title": "github-actions-action"
-            }
-          },
-          {
             "id": "9d170d5fb835bd94",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "serious-cryptography-practical-2nd.pdf",
-                "page": 217,
+                "page": 216,
                 "left": -156,
-                "top": 209,
+                "top": 48,
                 "zoom": 1.0686936936936937
               },
               "icon": "lucide-file-text",
@@ -189,17 +141,34 @@
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 365,
-                "zoom": 2.0391414141414144
+                "page": 53,
+                "left": -14,
+                "top": 496,
+                "zoom": 1.4
               },
               "icon": "lucide-file-text",
               "title": "network-security-private-3rd"
             }
+          },
+          {
+            "id": "114794b459feb502",
+            "type": "leaf",
+            "dimension": 10,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "fundamentals-of-english-grammar.pdf",
+                "page": 479,
+                "left": 4,
+                "top": 474,
+                "zoom": 0.9
+              },
+              "icon": "lucide-file-text",
+              "title": "fundamentals-of-english-grammar"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       },
       {
         "id": "6cd60c4c660c125a",
@@ -263,6 +232,20 @@
             }
           },
           {
+            "id": "991e604962e80dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/english_grammar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "english_grammar"
+            }
+          },
+          {
             "id": "48c63adf71f90584",
             "type": "leaf",
             "state": {
@@ -277,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -431,21 +414,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "88c51b963162dd6b",
+  "active": "991e604962e80dbf",
   "lastOpenFiles": [
-    "linux-networking-professionals-enterprise.pdf",
-    "bookmarks/network.md",
-    "db/PostgreSQL Up and Running A Practical Guide.pdf",
-    "probability/EvansRosenthalProbability.pdf",
-    "network-security-private-3rd.pdf",
-    "github-actions-action.pdf",
-    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-    "bookmarks/progress.md",
-    "serious-cryptography-practical-2nd.pdf",
-    "probability/A-First-Course-in-Probability.pdf",
-    "probability/BDA3.pdf",
+    "fundamentals-of-english-grammar.pdf",
+    "bookmarks/english_grammar.md",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
-    "probability/stochastic_processes.pdf",
+    "bookmarks/network.md",
+    "network-security-private-3rd.pdf",
+    "linux-networking-professionals-enterprise.pdf",
+    "serious-cryptography-practical-2nd.pdf",
+    "probability/EvansRosenthalProbability.pdf",
+    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
+    "bookmarks/progress.md",
+    "probability/BDA3.pdf",
+    "probability/A-First-Course-in-Probability.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "Untitled 1.md",
     "bookmarks/probability/linear_algebra_math.md",
@@ -476,7 +460,6 @@
     "gamedev/met-materials-3.0.0/21-image-based-lighting/projects/challenge/Environment/Shared/Models/License.md",
     "gamedev/met-materials-3.0.0/21-image-based-lighting/projects/resources/Specular/Notes.md",
     "gamedev/met-materials-3.0.0/21-image-based-lighting/projects/resources/IrradianceGenerator/Notes.md",
-    "gamedev/met-materials-3.0.0/README.md",
-    "bookmarks/text.md"
+    "gamedev/met-materials-3.0.0/README.md"
   ]
 }

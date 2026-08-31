@@ -35,7 +35,7 @@
 - [ ] [[The Art Of PostgreSQL.pdf]]
 - [x] [[fundamentals-devops-software-delivery-hands.pdf]]
 - [x] [[Hashicorp-vault-for-beginners.pdf]]
-- [ ] [[github-actions-action.pdf]]
+- [x] [[github-actions-action.pdf]]
 
 # Network
 ***
@@ -46,3 +46,7 @@
 - [ ] [[tcp_ip_networkadministration_3rdedition.pdf]]
 - [ ] [[network-security-private-3rd.pdf]]
 - [ ] [[serious-cryptography-practical-2nd.pdf]]
+
+# English
+***
+- [ ] [[fundamentals-of-english-grammar.pdf]]

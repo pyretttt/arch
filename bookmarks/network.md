@@ -1,1 +1,4 @@
-[[linux-networking-professionals-enterprise.pdf#page=204&selection=4,0,10,64|In this chapter, we'll cover several topics that involve Dynamic Host Control Protocol (DHCP). As the name implies, DHCP is used to provide the basic information that a host needs to connect to the network and, in some cases, on where to find additional configuration, which makes it a key part of most infrastructures]]
+
+# Cryptography
+***
+[[network-security-private-3rd.pdf#page=70&selection=93,0,93,41|The concept of entropy comes from physics]]

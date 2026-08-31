@@ -35,7 +35,7 @@
 - [ ] [[The Art Of PostgreSQL.pdf]]
 - [x] [[fundamentals-devops-software-delivery-hands.pdf]]
 - [x] [[Hashicorp-vault-for-beginners.pdf]]
-- [ ] [[github-actions-action.pdf]]
+- [x] [[github-actions-action.pdf]]
 
 # Network
 ***

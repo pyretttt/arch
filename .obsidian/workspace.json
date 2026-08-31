@@ -93,10 +93,10 @@
               "type": "pdf",
               "state": {
                 "file": "linux-networking-professionals-enterprise.pdf",
-                "page": 204,
-                "left": -41,
-                "top": 463,
-                "zoom": 1.4
+                "page": 247,
+                "left": 70,
+                "top": 314,
+                "zoom": 1.2
               },
               "icon": "lucide-file-text",
               "title": "linux-networking-professionals-enterprise"
@@ -148,22 +148,6 @@
               },
               "icon": "lucide-file-text",
               "title": "PostgreSQL Up and Running A Practical Guide"
-            }
-          },
-          {
-            "id": "086baea73c579fda",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "github-actions-action.pdf",
-                "page": 161,
-                "left": -4,
-                "top": 381,
-                "zoom": 1.93
-              },
-              "icon": "lucide-file-text",
-              "title": "github-actions-action"
             }
           },
           {
@@ -431,17 +415,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "88c51b963162dd6b",
+  "active": "78a5d172f872a2f1",
   "lastOpenFiles": [
-    "linux-networking-professionals-enterprise.pdf",
     "bookmarks/network.md",
-    "db/PostgreSQL Up and Running A Practical Guide.pdf",
-    "probability/EvansRosenthalProbability.pdf",
-    "network-security-private-3rd.pdf",
-    "github-actions-action.pdf",
-    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+    "linux-networking-professionals-enterprise.pdf",
     "bookmarks/progress.md",
     "serious-cryptography-practical-2nd.pdf",
+    "github-actions-action.pdf",
+    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+    "probability/EvansRosenthalProbability.pdf",
+    "db/PostgreSQL Up and Running A Practical Guide.pdf",
+    "network-security-private-3rd.pdf",
     "probability/A-First-Course-in-Probability.pdf",
     "probability/BDA3.pdf",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",

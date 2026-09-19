@@ -1,4 +1,4 @@
 
 # Cryptography
 ***
-[[network-security-private-3rd.pdf#page=70&selection=93,0,93,41|The concept of entropy comes from physics]]
+[[network-security-private-3rd.pdf#page=72&selection=52,0,52,64|Applications that use random numbers have different requirements]]

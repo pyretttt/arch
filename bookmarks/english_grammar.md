@@ -1,3 +1,5 @@
-[[fundamentals-of-english-grammar.pdf#page=53&selection=4,0,4,32|Simple past and past progressive]]
+[[fundamentals-of-english-grammar.pdf#page=54&selection=4,0,4,26|Using the past progresslve]]
+
 **Answers**:
-[[fundamentals-of-english-grammar.pdf#page=479&selection=283,0,284,8|and I*tcntog]]
+
+![[fundamentals-of-english-grammar.pdf#page=480&rect=286,34,385,53]]

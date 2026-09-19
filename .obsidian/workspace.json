@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 219,
-                "left": -9,
-                "top": 60,
-                "zoom": 1.8248587570621468
+                "page": 353,
+                "left": -92,
+                "top": 66,
+                "zoom": 1.4
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
@@ -259,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -413,13 +413,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "991e604962e80dbf",
+  "active": "88c51b963162dd6b",
   "lastOpenFiles": [
-    "fundamentals-of-english-grammar.pdf",
-    "bookmarks/english_grammar.md",
+    "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/network.md",
-    "network-security-private-3rd.pdf",
     "bookmarks/progress.md",
+    "network-security-private-3rd.pdf",
+    "bookmarks/english_grammar.md",
+    "fundamentals-of-english-grammar.pdf",
     "serious-cryptography-practical-2nd.pdf",
     "linux-networking-professionals-enterprise.pdf",
     "mastering-linux-administration-configuring-2nd.pdf",
@@ -428,7 +429,6 @@
     "probability/shaum_probability_and_stats.pdf",
     "probability/A-First-Course-in-Probability.pdf",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
-    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "Untitled 1.md",
     "bookmarks/probability/linear_algebra_math.md",

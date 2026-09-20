@@ -1,5 +1,5 @@
-[[fundamentals-of-english-grammar.pdf#page=54&selection=4,0,4,26|Using the past progresslve]]
+[[fundamentals-of-english-grammar.pdf#page=61&selection=55,0,55,40|EXPRESSING PAST TIME: USING TIME CLAUSES]]
 
 **Answers**:
 
-![[fundamentals-of-english-grammar.pdf#page=480&rect=286,34,385,53]]
+![[fundamentals-of-english-grammar.pdf#page=481&rect=21,63,261,335]]

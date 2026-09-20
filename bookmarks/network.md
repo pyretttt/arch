@@ -2,4 +2,4 @@
 
 # Cryptography
 ***
-[[network-security-private-3rd.pdf#page=77&selection=72,0,72,23|The Euclidean algorithm]]
+[[network-security-private-3rd.pdf#page=78&selection=17,0,24,10|When we want to find the multiplicative inverse of b mod a, the goal]]

@@ -1,4 +1,4 @@
-[[computer-networking-top-down-approach-9th.pdf#page=357&selection=334,0,337,29|A centralized routing algorithm]]
+[[computer-networking-top-down-approach-9th.pdf#page=366&selection=36,0,37,16|Distance-Vector Algorithm: Link-Cost Changes and Link Failure]]
 
 # Cryptography
 ***

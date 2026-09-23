@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 366,
+                "page": 369,
                 "left": -190,
-                "top": 513,
+                "top": 326,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -158,7 +158,7 @@
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
                 "page": 67,
-                "left": 34,
+                "left": -232,
                 "top": 152,
                 "zoom": 1
               },
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
@@ -259,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -413,14 +413,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "373f8a784d3b3dcb",
+  "active": "88c51b963162dd6b",
   "lastOpenFiles": [
-    "fundamentals-of-english-grammar.pdf",
-    "bookmarks/english_grammar.md",
+    "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/network.md",
+    "bookmarks/english_grammar.md",
+    "fundamentals-of-english-grammar.pdf",
     "serious-cryptography-practical-2nd.pdf",
     "network-security-private-3rd.pdf",
-    "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",

@@ -1,4 +1,5 @@
-[[fundamentals-of-english-grammar.pdf#page=68&selection=4,0,16,1|Expressing future time: be going 3-7 Using the present progressive to express to and wiN]]
+[[fundamentals-of-english-grammar.pdf#page=76&selection=4,0,12,7|BE GOING TO vs. WILL]]
+
 
 **Answers**:
 

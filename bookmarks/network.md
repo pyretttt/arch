@@ -1,4 +1,4 @@
-[[computer-networking-top-down-approach-9th.pdf#page=370&selection=18,0,18,24|Open Shortest Path First]]
+[[computer-networking-top-down-approach-9th.pdf#page=378&selection=12,0,12,66|In addition to being the Internet’s inter-AS routing protocol, BGP]]
 
 # Cryptography
 ***

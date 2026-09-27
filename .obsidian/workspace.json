@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 377,
-                "left": 84,
-                "top": 11,
-                "zoom": 1.1
+                "page": 395,
+                "left": 13,
+                "top": 562,
+                "zoom": 1.440677966101695
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -79,7 +79,7 @@
                 "file": "linux-networking-professionals-enterprise.pdf",
                 "page": 515,
                 "left": 5,
-                "top": 612,
+                "top": 616,
                 "zoom": 2.3
               },
               "icon": "lucide-file-text",
@@ -125,49 +125,49 @@
               "type": "pdf",
               "state": {
                 "file": "serious-cryptography-practical-2nd.pdf",
-                "page": 3,
-                "left": -8,
-                "top": 627,
-                "zoom": 1.922619047619048
+                "page": 1,
+                "left": 584,
+                "top": 670,
+                "zoom": 1.5175560404681614
               },
               "icon": "lucide-file-text",
               "title": "serious-cryptography-practical-2nd"
             }
           },
           {
-            "id": "9fb98161d8ea7b12",
+            "id": "5f40b5fc5357a0a0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 79,
-                "left": -149,
-                "top": 626,
-                "zoom": 1.1
+                "page": 84,
+                "left": -63,
+                "top": 727,
+                "zoom": 1.078216374269006
               },
               "icon": "lucide-file-text",
               "title": "network-security-private-3rd"
             }
           },
           {
-            "id": "cce381b26aba9501",
+            "id": "e8a42a169238db8f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 75,
-                "left": -232,
-                "top": 279,
-                "zoom": 1
+                "page": 78,
+                "left": -11,
+                "top": 654,
+                "zoom": 1.4140480591497226
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       },
       {
         "id": "6cd60c4c660c125a",
@@ -217,20 +217,6 @@
             }
           },
           {
-            "id": "88c51b963162dd6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bookmarks/network.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "network"
-            }
-          },
-          {
             "id": "48c63adf71f90584",
             "type": "leaf",
             "state": {
@@ -257,9 +243,23 @@
               "icon": "lucide-file",
               "title": "english_grammar"
             }
+          },
+          {
+            "id": "509734b5ae3e7f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "network"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -318,8 +318,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.39453125,
-    "collapsed": true
+    "width": 343.39453125
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -413,23 +412,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "88c51b963162dd6b",
+  "active": "509734b5ae3e7f1c",
   "lastOpenFiles": [
-    "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/network.md",
-    "linux-networking-professionals-enterprise.pdf",
-    "bookmarks/english_grammar.md",
-    "fundamentals-of-english-grammar.pdf",
     "network-security-private-3rd.pdf",
+    "bookmarks/network.md",
+    "fundamentals-of-english-grammar.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/english_grammar.md",
+    "serious-cryptography-practical-2nd.pdf",
+    "linux-networking-professionals-enterprise.pdf",
+    "axler_linalg_done_right.pdf",
+    "bootstrapping-microservices-2nd.pdf",
+    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
+    "asynchronous-programming-cpp-multithreading.pdf",
     "bookmarks/progress.md",
     "mml-book.pdf",
-    "serious-cryptography-practical-2nd.pdf",
     "bookmarks/db/postgresql_up_and_running.md",
-    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-    "probability/EvansRosenthalProbability.pdf",
-    "book_of_proof.pdf",
-    "mastering-linux-administration-configuring-2nd.pdf",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "Untitled 1.md",
     "bookmarks/probability/linear_algebra_math.md",

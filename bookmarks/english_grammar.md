@@ -1,5 +1,4 @@
-[[fundamentals-of-english-grammar.pdf#page=76&selection=4,0,12,7|BE GOING TO vs. WILL]]
-
+[[fundamentals-of-english-grammar.pdf#page=78&selection=2,0,6,10|EXPRESSING THE FUTURE IN TIME CLAUSES AND I IF-CLAUSES]]
 
 **Answers**:
 

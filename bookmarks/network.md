@@ -2,4 +2,4 @@
 
 # Cryptography
 ***
-[[network-security-private-3rd.pdf#page=84&selection=24,0,24,47|Block ciphers are designed to take a reasonable]]
+[[network-security-private-3rd.pdf#page=85&selection=59,0,59,21|The round takes a key]]

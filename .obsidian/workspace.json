@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 79.09738717339668,
+        "dimension": 65.97014925373135,
         "children": [
           {
             "id": "49ba2707c8e31b1c",
@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 395,
-                "left": 13,
-                "top": 562,
-                "zoom": 1.440677966101695
+                "page": 409,
+                "left": -13,
+                "top": 43,
+                "zoom": 1.1920901709811356
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -141,9 +141,9 @@
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 84,
-                "left": -63,
-                "top": 727,
+                "page": 85,
+                "left": -2,
+                "top": 672,
                 "zoom": 1.078216374269006
               },
               "icon": "lucide-file-text",
@@ -157,22 +157,22 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 78,
-                "left": -11,
-                "top": 654,
-                "zoom": 1.4140480591497226
+                "page": 85,
+                "left": -10,
+                "top": 232,
+                "zoom": 1.1831775700934581
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 20.90261282660332,
+        "dimension": 34.02985074626866,
         "children": [
           {
             "id": "6672c9cca4388c32",
@@ -259,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -412,13 +412,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "509734b5ae3e7f1c",
+  "active": "373f8a784d3b3dcb",
   "lastOpenFiles": [
-    "network-security-private-3rd.pdf",
-    "bookmarks/network.md",
     "fundamentals-of-english-grammar.pdf",
-    "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/english_grammar.md",
+    "bookmarks/network.md",
+    "network-security-private-3rd.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
     "serious-cryptography-practical-2nd.pdf",
     "linux-networking-professionals-enterprise.pdf",
     "axler_linalg_done_right.pdf",

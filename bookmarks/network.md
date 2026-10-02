@@ -2,4 +2,4 @@
 
 # Cryptography
 ***
-[[network-security-private-3rd.pdf#page=85&selection=59,0,59,21|The round takes a key]]
+[[network-security-private-3rd.pdf#page=88&selection=54,0,54,33|DES was published in 1977 by NIST]]

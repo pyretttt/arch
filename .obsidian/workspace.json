@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 75.60975609756098,
+        "dimension": 66.21140142517815,
         "children": [
           {
             "id": "49ba2707c8e31b1c",
@@ -157,22 +157,22 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 88,
-                "left": -12,
-                "top": 252,
-                "zoom": 1.7093345656192238
+                "page": 92,
+                "left": -21,
+                "top": 472,
+                "zoom": 0.8803142329020334
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 24.390243902439025,
+        "dimension": 33.788598574821854,
         "children": [
           {
             "id": "6672c9cca4388c32",
@@ -259,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -413,12 +413,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8821b99a3b5f670d",
+  "active": "373f8a784d3b3dcb",
   "lastOpenFiles": [
-    "network-security-private-3rd.pdf",
-    "bookmarks/network.md",
-    "bookmarks/english_grammar.md",
     "fundamentals-of-english-grammar.pdf",
+    "bookmarks/english_grammar.md",
+    "bookmarks/network.md",
+    "network-security-private-3rd.pdf",
     "reinforcement_learning.pdf",
     "мл конспект 1.pdf",
     "computer-networking-top-down-approach-9th.pdf",

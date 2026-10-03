@@ -1,5 +1,5 @@
-[[fundamentals-of-english-grammar.pdf#page=88&selection=115,0,118,28|CISE 29. Preview:parallel verbs]]
+[[fundamentals-of-english-grammar.pdf#page=92&selection=34,0,34,10|verb forms]]
 
 **Answers**:
 
-![[fundamentals-of-english-grammar.pdf#page=483&rect=5,25,266,208]]
+![[fundamentals-of-english-grammar.pdf#page=483&rect=271,143,528,676]]

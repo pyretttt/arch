@@ -1,5 +1,5 @@
-[[fundamentals-of-english-grammar.pdf#page=88&selection=115,0,118,28|CISE 29. Preview:parallel verbs]]
-
+[[fundamentals-of-english-grammar.pdf#page=94&selection=4,0,4,64|Error analysis: summary review of present, past, and future time]]
+ 
 **Answers**:
 
-![[fundamentals-of-english-grammar.pdf#page=483&rect=5,25,266,208]]
+![[fundamentals-of-english-grammar.pdf#page=484&rect=17,137,278,682]]

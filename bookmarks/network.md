@@ -2,4 +2,4 @@
 
 # Cryptography
 ***
-[[network-security-private-3rd.pdf#page=88&selection=54,0,54,33|DES was published in 1977 by NIST]]
+[[network-security-private-3rd.pdf#page=99&selection=41,0,41,43|AES is a 128-bit block cipher with a choice]]

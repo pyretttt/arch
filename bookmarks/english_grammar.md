@@ -1,5 +1,4 @@
-[[fundamentals-of-english-grammar.pdf#page=94&selection=4,0,4,64|Error analysis: summary review of present, past, and future time]]
- 
+[[fundamentals-of-english-grammar.pdf#page=97&selection=139,0,139,15|PAST PARTICIPLE]]
+1
 **Answers**:
-
-![[fundamentals-of-english-grammar.pdf#page=484&rect=17,137,278,682]]
+![[fundamentals-of-english-grammar.pdf#page=484&rect=281,252,528,637]]

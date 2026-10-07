@@ -157,17 +157,17 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 99,
-                "left": -23,
-                "top": 692,
-                "zoom": 0.8299632352941175
+                "page": 101,
+                "left": -19,
+                "top": 272,
+                "zoom": 0.8439252336448598
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "6cd60c4c660c125a",
@@ -259,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -413,12 +413,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8821b99a3b5f670d",
+  "active": "373f8a784d3b3dcb",
   "lastOpenFiles": [
-    "network-security-private-3rd.pdf",
-    "bookmarks/network.md",
     "fundamentals-of-english-grammar.pdf",
     "bookmarks/english_grammar.md",
+    "bookmarks/network.md",
+    "network-security-private-3rd.pdf",
     "serious-cryptography-practical-2nd.pdf",
     "reinforcement_learning.pdf",
     "мл конспект 1.pdf",

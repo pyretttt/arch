@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 66.21140142517815,
+        "dimension": 70.1086956521739,
         "children": [
           {
             "id": "49ba2707c8e31b1c",
@@ -141,38 +141,38 @@
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 99,
-                "left": 64,
-                "top": 627,
-                "zoom": 1
+                "page": 103,
+                "left": -18,
+                "top": 117,
+                "zoom": 1.0782163742690059
               },
               "icon": "lucide-file-text",
               "title": "network-security-private-3rd"
             }
           },
           {
-            "id": "a91162518965d5d6",
+            "id": "7f83dc1a0feeb47b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 101,
-                "left": -19,
-                "top": 272,
-                "zoom": 0.8439252336448598
+                "page": 111,
+                "left": -172,
+                "top": 536,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       },
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 33.788598574821854,
+        "dimension": 29.891304347826086,
         "children": [
           {
             "id": "6672c9cca4388c32",
@@ -259,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -413,12 +413,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "373f8a784d3b3dcb",
+  "active": "8821b99a3b5f670d",
   "lastOpenFiles": [
-    "fundamentals-of-english-grammar.pdf",
-    "bookmarks/english_grammar.md",
-    "bookmarks/network.md",
     "network-security-private-3rd.pdf",
+    "bookmarks/network.md",
+    "bookmarks/english_grammar.md",
+    "fundamentals-of-english-grammar.pdf",
     "serious-cryptography-practical-2nd.pdf",
     "reinforcement_learning.pdf",
     "мл конспект 1.pdf",

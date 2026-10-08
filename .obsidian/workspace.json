@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 66.21140142517815,
+        "dimension": 70.1086956521739,
         "children": [
           {
             "id": "49ba2707c8e31b1c",
@@ -110,8 +110,8 @@
               "state": {
                 "file": "probability/EvansRosenthalProbability.pdf",
                 "page": 638,
-                "left": -94,
-                "top": 547,
+                "left": -4,
+                "top": 551,
                 "zoom": 1.25
               },
               "icon": "lucide-file-text",
@@ -126,9 +126,9 @@
               "state": {
                 "file": "serious-cryptography-practical-2nd.pdf",
                 "page": 1,
-                "left": 584,
-                "top": 670,
-                "zoom": 1.5993850426502683
+                "left": 577,
+                "top": 674,
+                "zoom": 0.9521920253917874
               },
               "icon": "lucide-file-text",
               "title": "serious-cryptography-practical-2nd"
@@ -141,26 +141,26 @@
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 99,
-                "left": 64,
-                "top": 627,
-                "zoom": 1
+                "page": 114,
+                "left": 87,
+                "top": 662,
+                "zoom": 1.2
               },
               "icon": "lucide-file-text",
               "title": "network-security-private-3rd"
             }
           },
           {
-            "id": "a91162518965d5d6",
+            "id": "6bfb8395f541cad0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 101,
-                "left": -19,
-                "top": 272,
-                "zoom": 0.8439252336448598
+                "page": 125,
+                "left": -4,
+                "top": 524,
+                "zoom": 1.1
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
@@ -172,7 +172,7 @@
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 33.788598574821854,
+        "dimension": 29.891304347826086,
         "children": [
           {
             "id": "6672c9cca4388c32",
@@ -417,17 +417,17 @@
   "lastOpenFiles": [
     "fundamentals-of-english-grammar.pdf",
     "bookmarks/english_grammar.md",
+    "probability/EvansRosenthalProbability.pdf",
+    "serious-cryptography-practical-2nd.pdf",
     "bookmarks/network.md",
     "network-security-private-3rd.pdf",
-    "serious-cryptography-practical-2nd.pdf",
+    "ospf.pdf",
     "reinforcement_learning.pdf",
     "мл конспект 1.pdf",
     "computer-networking-top-down-approach-9th.pdf",
     "linux-networking-professionals-enterprise.pdf",
     "axler_linalg_done_right.pdf",
-    "bootstrapping-microservices-2nd.pdf",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
-    "asynchronous-programming-cpp-multithreading.pdf",
     "bookmarks/progress.md",
     "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/probability/shaum_probability_and_stats.md",

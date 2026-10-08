@@ -1,4 +1,5 @@
-[[fundamentals-of-english-grammar.pdf#page=101&selection=247,0,251,15|Simple past vs. present perfect]]
+[[fundamentals-of-english-grammar.pdf#page=126&selection=2,0,2,12|PAST PERFECT]]
+
 
 **Answers**:
-![[fundamentals-of-english-grammar.pdf#page=484&rect=281,252,528,637]]
+![[fundamentals-of-english-grammar.pdf#page=486&rect=282,50,528,669]]

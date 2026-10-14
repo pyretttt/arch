@@ -1,4 +1,4 @@
 
 # Cryptography
 ***
-[[network-security-private-3rd.pdf#page=114&selection=18,0,18,41|XEX mode was designed for disk encryption]]
+[[network-security-private-3rd.pdf#page=119&selection=53,0,53,32|While MACs based on CBC residues]]

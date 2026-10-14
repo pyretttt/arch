@@ -141,9 +141,9 @@
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 114,
-                "left": 87,
-                "top": 662,
+                "page": 119,
+                "left": 102,
+                "top": 618,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -157,9 +157,9 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 126,
-                "left": -53,
-                "top": 677,
+                "page": 133,
+                "left": -136,
+                "top": 291,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -245,7 +245,7 @@
             }
           },
           {
-            "id": "8821b99a3b5f670d",
+            "id": "95c0a501737eadc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -318,7 +318,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.39453125
+    "width": 343.39453125,
+    "collapsed": true
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -412,21 +413,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6bfb8395f541cad0",
+  "active": "373f8a784d3b3dcb",
   "lastOpenFiles": [
-    "math-concepts-every-scientist-should.pdf",
-    "bookmarks/english_grammar.md",
     "fundamentals-of-english-grammar.pdf",
-    "probability/EvansRosenthalProbability.pdf",
-    "serious-cryptography-practical-2nd.pdf",
+    "bookmarks/english_grammar.md",
     "bookmarks/network.md",
     "network-security-private-3rd.pdf",
+    "math-concepts-every-scientist-should.pdf",
+    "probability/EvansRosenthalProbability.pdf",
+    "serious-cryptography-practical-2nd.pdf",
     "ospf.pdf",
     "reinforcement_learning.pdf",
     "мл конспект 1.pdf",
     "computer-networking-top-down-approach-9th.pdf",
     "linux-networking-professionals-enterprise.pdf",
-    "axler_linalg_done_right.pdf",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "bookmarks/progress.md",
     "bookmarks/db/postgresql_up_and_running.md",

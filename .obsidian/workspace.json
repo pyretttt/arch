@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/A-First-Course-in-Probability.pdf",
-                "page": 265,
-                "left": -1,
-                "top": 603,
-                "zoom": 1.7569626685377095
+                "page": 267,
+                "left": -2,
+                "top": 223,
+                "zoom": 1.5516210563479307
               },
               "icon": "lucide-file-text",
               "title": "A-First-Course-in-Probability"
@@ -31,10 +31,10 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 409,
-                "left": -13,
-                "top": 43,
-                "zoom": 1.1920901709811356
+                "page": 413,
+                "left": -8,
+                "top": 83,
+                "zoom": 1.6115819209039548
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
@@ -61,9 +61,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/BDA3.pdf",
-                "page": 1,
-                "left": -10,
-                "top": 723,
+                "page": 3,
+                "left": 16,
+                "top": 121,
                 "zoom": 1.5833333333333333
               },
               "icon": "lucide-file-text",
@@ -77,9 +77,9 @@
               "type": "pdf",
               "state": {
                 "file": "linux-networking-professionals-enterprise.pdf",
-                "page": 515,
+                "page": 518,
                 "left": 5,
-                "top": 616,
+                "top": 345,
                 "zoom": 2.3
               },
               "icon": "lucide-file-text",
@@ -93,10 +93,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-                "page": 515,
-                "left": 38,
-                "top": 721,
-                "zoom": 1.9264395110397532
+                "page": 551,
+                "left": 37,
+                "top": 146,
+                "zoom": 1.7012906208176153
               },
               "icon": "lucide-file-text",
               "title": "Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org)"
@@ -109,29 +109,13 @@
               "type": "pdf",
               "state": {
                 "file": "probability/EvansRosenthalProbability.pdf",
-                "page": 638,
-                "left": -4,
-                "top": 551,
+                "page": 642,
+                "left": -49,
+                "top": 229,
                 "zoom": 1.25
               },
               "icon": "lucide-file-text",
               "title": "EvansRosenthalProbability"
-            }
-          },
-          {
-            "id": "9d170d5fb835bd94",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "serious-cryptography-practical-2nd.pdf",
-                "page": 1,
-                "left": 577,
-                "top": 674,
-                "zoom": 0.9521920253917874
-              },
-              "icon": "lucide-file-text",
-              "title": "serious-cryptography-practical-2nd"
             }
           },
           {
@@ -141,9 +125,9 @@
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 121,
-                "left": 115,
-                "top": 400,
+                "page": 124,
+                "left": -63,
+                "top": 549,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -157,17 +141,33 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 136,
-                "left": 25,
-                "top": 244,
+                "page": 151,
+                "left": -136,
+                "top": 304,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
             }
+          },
+          {
+            "id": "8bc64eb2f09f8032",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "math-concepts-every-scientist-should.pdf",
+                "page": 4,
+                "left": 0,
+                "top": 365,
+                "zoom": 1.5847222222222221
+              },
+              "icon": "lucide-file-text",
+              "title": "math-concepts-every-scientist-should"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       },
       {
         "id": "6cd60c4c660c125a",
@@ -259,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -318,8 +318,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.39453125,
-    "collapsed": true
+    "width": 446.7734375
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -413,22 +412,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "373f8a784d3b3dcb",
+  "active": "f6793c86be5cd9eb",
   "lastOpenFiles": [
-    "fundamentals-of-english-grammar.pdf",
-    "bookmarks/english_grammar.md",
-    "bookmarks/network.md",
+    "little_book_of_generative_ai.pdf",
+    "probability/little_book_of_generative_ai.pdf",
+    "probability/2605.29713v2.pdf",
+    "probability/A-First-Course-in-Probability.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
+    "probability/BDA3.pdf",
+    "linux-networking-professionals-enterprise.pdf",
+    "probability/EvansRosenthalProbability.pdf",
+    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "network-security-private-3rd.pdf",
     "math-concepts-every-scientist-should.pdf",
-    "probability/EvansRosenthalProbability.pdf",
-    "serious-cryptography-practical-2nd.pdf",
-    "ospf.pdf",
-    "reinforcement_learning.pdf",
-    "мл конспект 1.pdf",
-    "computer-networking-top-down-approach-9th.pdf",
-    "linux-networking-professionals-enterprise.pdf",
+    "bookmarks/network.md",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "bookmarks/progress.md",
+    "bookmarks/english_grammar.md",
     "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "Untitled 1.md",

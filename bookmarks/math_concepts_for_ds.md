@@ -1,0 +1,1 @@
+[[math-concepts-every-scientist-should.pdf#page=41&selection=40,0,40,15|Differentiation]]

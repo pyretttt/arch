@@ -46,3 +46,15 @@ As soon as $Enc(m_{7}, r_{7}) = E(m_{7} \otimes r_{7})$ and decryption is $Dec(c
 - It's not possible to encrypt CBC mode in parallel because encryption function depends on calculations of the previous block - $Enc(m_{i}) = E(m_{i} \otimes c_{i - 1})$, with $c_{0} = IV$ i.e. we don't know $c_{i - 1}$ for all blocks.
 
 6. [[network-security-private-3rd.pdf#page=124&selection=40,0,47,29|Suppose a message is encrypted with CTR mode, and you know that plaintext block m7 contains your salary. Suppose you have access to the ciphertext. How can you modify the ciphertext to increase your salary?]]
+
+- To Decrypt with Counter mode we do two things: (1) extract encrypted $IV$ as $K(IV + 6, K) = c_{7} \otimes m_{7}$ and thereof $m_{7} = c_{7} \otimes E(IV + 6, K)$. Once we know the $m_{7}$ is $XOR$ between $c_{7}$ and $E(IV + 6, K)$ - we can change $c_{7}$ in predictable way to obtain arbitrary $m_{7}'$
+
+7. [[network-security-private-3rd.pdf#page=124&selection=50,0,51,13|In CBC mode, suppose you reused the same IV for two messages. What are the security implications?]]
+
+- Sending same IV leaks data about repetitive information which rarely changes. For example once something changes eavesdropper - can say that something really changed. Changing $IV$ each time guarantees that even the same plaintext will be different each time
+
+8. [[network-security-private-3rd.pdf#page=124&selection=54,0,60,75|Suppose you wanted to decrypt only block n of a file that was encrypted with CBC mode (and you knew the key with which the file was encrypted). Which blocks of the encrypted file would you need to read? What cryptographic operations would you need to do?]]
+
+- To decrypt only block $n$ of file with known secret key, I would also need block encrypted block $n - 1$. Required operation is $m_{n} = D(c_{n}, K) \otimes c_{n - 1}$ where $c_{0} = IV$
+
+9. 

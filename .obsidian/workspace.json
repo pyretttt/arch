@@ -93,10 +93,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-                "page": 530,
-                "left": 37,
-                "top": 429,
-                "zoom": 1.7012906208176153
+                "page": 531,
+                "left": 69,
+                "top": 67,
+                "zoom": 1.2
               },
               "icon": "lucide-file-text",
               "title": "Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org)"
@@ -273,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -427,8 +427,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "04d32b245059634f",
+  "active": "48c63adf71f90584",
   "lastOpenFiles": [
+    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "bookmarks/network.md",
     "network-security-private-3rd.pdf",
     "math-concepts-every-scientist-should.pdf",
@@ -436,8 +438,6 @@
     "fundamentals-of-english-grammar.pdf",
     "bookmarks/math_concepts_for_ds.md",
     "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
-    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "probability/EvansRosenthalProbability.pdf",
     "bookmarks/progress.md",
     "little_book_of_generative_ai.pdf",

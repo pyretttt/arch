@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 423,
-                "left": -138,
-                "top": 240,
+                "page": 425,
+                "left": 113,
+                "top": 64,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -94,7 +94,7 @@
               "state": {
                 "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
                 "page": 531,
-                "left": 69,
+                "left": -71,
                 "top": 67,
                 "zoom": 1.2
               },
@@ -126,7 +126,7 @@
               "state": {
                 "file": "network-security-private-3rd.pdf",
                 "page": 124,
-                "left": -63,
+                "left": 64,
                 "top": 334,
                 "zoom": 1.2
               },
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
@@ -273,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -427,17 +427,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "48c63adf71f90584",
+  "active": "95c0a501737eadc4",
   "lastOpenFiles": [
-    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
+    "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/network.md",
     "network-security-private-3rd.pdf",
+    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "math-concepts-every-scientist-should.pdf",
     "bookmarks/english_grammar.md",
     "fundamentals-of-english-grammar.pdf",
     "bookmarks/math_concepts_for_ds.md",
-    "computer-networking-top-down-approach-9th.pdf",
     "probability/EvansRosenthalProbability.pdf",
     "bookmarks/progress.md",
     "little_book_of_generative_ai.pdf",

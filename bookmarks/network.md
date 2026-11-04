@@ -1,4 +1,4 @@
-[[computer-networking-top-down-approach-9th.pdf#page=421&selection=16,0,16,26|In checksumming techniques]]
+[[computer-networking-top-down-approach-9th.pdf#page=426&selection=6,0,6,48|Recall from our early discussion back in Section]]
 
 # Cryptography
 ***

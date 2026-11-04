@@ -32,7 +32,7 @@
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
                 "page": 425,
-                "left": 113,
+                "left": -138,
                 "top": 64,
                 "zoom": 1.1
               },
@@ -157,17 +157,17 @@
               "type": "pdf",
               "state": {
                 "file": "math-concepts-every-scientist-should.pdf",
-                "page": 41,
-                "left": 0,
-                "top": 436,
-                "zoom": 1.5847222222222221
+                "page": 49,
+                "left": 5,
+                "top": 130,
+                "zoom": 1.66
               },
               "icon": "lucide-file-text",
               "title": "math-concepts-every-scientist-should"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       },
       {
         "id": "6cd60c4c660c125a",
@@ -273,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -427,17 +427,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "95c0a501737eadc4",
+  "active": "ae51b62e7c1ea661",
   "lastOpenFiles": [
-    "computer-networking-top-down-approach-9th.pdf",
+    "math-concepts-every-scientist-should.pdf",
+    "bookmarks/math_concepts_for_ds.md",
     "bookmarks/network.md",
+    "computer-networking-top-down-approach-9th.pdf",
     "network-security-private-3rd.pdf",
     "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
-    "math-concepts-every-scientist-should.pdf",
     "bookmarks/english_grammar.md",
     "fundamentals-of-english-grammar.pdf",
-    "bookmarks/math_concepts_for_ds.md",
     "probability/EvansRosenthalProbability.pdf",
     "bookmarks/progress.md",
     "little_book_of_generative_ai.pdf",

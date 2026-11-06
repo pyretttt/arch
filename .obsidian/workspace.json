@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 425,
-                "left": -138,
-                "top": 64,
+                "page": 427,
+                "left": -4,
+                "top": 379,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -93,10 +93,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-                "page": 531,
-                "left": -71,
-                "top": 67,
-                "zoom": 1.2
+                "page": 541,
+                "left": 27,
+                "top": 339,
+                "zoom": 0.7977129554228081
               },
               "icon": "lucide-file-text",
               "title": "Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org)"
@@ -126,9 +126,9 @@
               "state": {
                 "file": "network-security-private-3rd.pdf",
                 "page": 124,
-                "left": 64,
-                "top": 334,
-                "zoom": 1.2
+                "left": 60,
+                "top": 257,
+                "zoom": 1.800820707070707
               },
               "icon": "lucide-file-text",
               "title": "network-security-private-3rd"
@@ -141,10 +141,10 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 162,
-                "left": -136,
-                "top": 465,
-                "zoom": 1.1
+                "page": 169,
+                "left": -9,
+                "top": 648,
+                "zoom": 1.5995327102803738
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
@@ -157,10 +157,10 @@
               "type": "pdf",
               "state": {
                 "file": "math-concepts-every-scientist-should.pdf",
-                "page": 49,
-                "left": 5,
-                "top": 130,
-                "zoom": 1.66
+                "page": 51,
+                "left": 49,
+                "top": 356,
+                "zoom": 1.2
               },
               "icon": "lucide-file-text",
               "title": "math-concepts-every-scientist-should"
@@ -433,10 +433,10 @@
     "bookmarks/math_concepts_for_ds.md",
     "bookmarks/network.md",
     "computer-networking-top-down-approach-9th.pdf",
-    "network-security-private-3rd.pdf",
-    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "bookmarks/english_grammar.md",
+    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
+    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+    "network-security-private-3rd.pdf",
     "fundamentals-of-english-grammar.pdf",
     "probability/EvansRosenthalProbability.pdf",
     "bookmarks/progress.md",

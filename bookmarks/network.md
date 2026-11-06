@@ -1,4 +1,4 @@
-[[computer-networking-top-down-approach-9th.pdf#page=426&selection=6,0,6,48|Recall from our early discussion back in Section]]
+[[computer-networking-top-down-approach-9th.pdf#page=427&selection=91,0,91,13|Slotted ALOHA]]
 
 # Cryptography
 ***
@@ -57,4 +57,11 @@ As soon as $Enc(m_{7}, r_{7}) = E(m_{7} \otimes r_{7})$ and decryption is $Dec(c
 
 - To decrypt only block $n$ of file with known secret key, I would also need block encrypted block $n - 1$. Required operation is $m_{n} = D(c_{n}, K) \otimes c_{n - 1}$ where $c_{0} = IV$
 
-9. 
+9. [[network-security-private-3rd.pdf#page=124&selection=63,0,75,1|How does ⊕ing K1 into the final block in CMAC prevent the attack described in section §4.3.1.1 CBC Forgery Attack?]]
+
+> Because any intermediate value for instance tag of $m_{1}|m_{2}|m_{3}$, won't be the same value that is XORed from the same prefix in $(m_{1}|m_{2}|m_{3})|m_{4}|m_{5}|m_{6}$. So that tag of $CMAC(CMAC(m_{1} | m_{2} | m_{3}) \otimes m_{4}|m_{5}|m_{6})$ won't be equal to $CMAC(m_{1}|m_{2}|m_{3}|m_{4}|m_{5}|m_{6})$
+
+
+10. [[network-security-private-3rd.pdf#page=124&selection=76,4,80,3|For each scenario, compare the number of AES operations required in XTS versus XEX]]
+
+- 

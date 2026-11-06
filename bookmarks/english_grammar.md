@@ -1,4 +1,4 @@
-[[fundamentals-of-english-grammar.pdf#page=162&selection=55,5,61,9|N G HOWABOUT AND WHATABOUT]]
+[[fundamentals-of-english-grammar.pdf#page=169&selection=94,0,94,23|Prevlew: grammar terms.]]
 
 
 **Answers**:

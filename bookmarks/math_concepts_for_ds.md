@@ -1,1 +1,1 @@
-[[math-concepts-every-scientist-should.pdf#page=50&selection=4,0,4,14|Order notation]]
+[[math-concepts-every-scientist-should.pdf#page=51&selection=189,0,189,17|Little-o notation]]

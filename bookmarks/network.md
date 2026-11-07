@@ -62,6 +62,30 @@ As soon as $Enc(m_{7}, r_{7}) = E(m_{7} \otimes r_{7})$ and decryption is $Dec(c
 > Because any intermediate value for instance tag of $m_{1}|m_{2}|m_{3}$, won't be the same value that is XORed from the same prefix in $(m_{1}|m_{2}|m_{3})|m_{4}|m_{5}|m_{6}$. So that tag of $CMAC(CMAC(m_{1} | m_{2} | m_{3}) \otimes m_{4}|m_{5}|m_{6})$ won't be equal to $CMAC(m_{1}|m_{2}|m_{3}|m_{4}|m_{5}|m_{6})$
 
 
-10. [[network-security-private-3rd.pdf#page=124&selection=76,4,80,3|For each scenario, compare the number of AES operations required in XTS versus XEX]]
+10. [[network-security-private-3rd.pdf#page=124&selection=76,4,103,24|For each scenario, compare the number of AES operations required in XTS versus XEX: a) Encrypting an n-block plaintext that is an integral number of blocks. b) Encrypting an n-block plaintext that is not an integral number of blocks. c) Decrypting an n-block ciphertext. d) Decrypting only block n. (Two questions: if the ciphertext is an integral number of blocks, or if it isn’t.) e) Decrypting only block n−1. (Two questions: if the ciphertext is an integral number of blocks, or if it isn’t.)]]
 
-- 
+- (a) Encrypting an $n$ - block plaintext that is an integral number of blocks
+
+$n + 1$ one for $IV$ encryption and $n$ for $n$ blocks
+
+- (b) Encrypting an $n$ - block plaintext that is not an integral number of blocks
+
+XEX do not support partial blocks, XTS $n + 1$
+
+- (c) Decrypt \(n\) full blocks (c-2) Decrypt \(n\) blocks, last partial
+
+$n + 1$ for both algorithms if blocks are full. XEX do not support partial blocks, XTS $n + 1$ if blocks are partial
+
+- (d) Decrypt only block $n - 1$
+
+2 operation one for $IV$ and one for block. If last is partial XTS requires 3 operations 
+
+- (e) Decrypt only block \(n-1\)
+
+2 operation one for $IV$ and one for block. If last is partial XTS requires 3 operations 
+
+- (f) Decrypt only block \(n-2\), all full
+
+Two operations if blocks are full, not supported for XEX if blocks are partial
+
+11. [[network-security-private-3rd.pdf#page=125&selection=19,4,20,18|How can you do an XTS-like trick with CBC mode encryption (and decryption) so as to be length-preserving?]]

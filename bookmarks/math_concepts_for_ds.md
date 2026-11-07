@@ -1,1 +1,1 @@
-[[math-concepts-every-scientist-should.pdf#page=51&selection=189,0,189,17|Little-o notation]]
+[[math-concepts-every-scientist-should.pdf#page=66&selection=127,0,127,37|Summarizing probability distributions]]

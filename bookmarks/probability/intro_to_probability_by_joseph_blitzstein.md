@@ -1,3 +1,3 @@
 # 11. Markov-Chains
 ***
-[[Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf#page=542&selection=11,0,18,1|Let X0, X1, X2]]
+[[Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf#page=542&selection=192,1,200,1|Markov chain has two states, A and B, with transitions as follows:]]

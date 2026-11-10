@@ -1,4 +1,4 @@
-[[computer-networking-top-down-approach-9th.pdf#page=440&selection=53,0,53,46|Because there are both network-layer addresses]]
+[[computer-networking-top-down-approach-9th.pdf#page=444&selection=82,0,82,56|Ethernet has pretty much taken over the wired LAN market]]
 
 # Cryptography
 ***

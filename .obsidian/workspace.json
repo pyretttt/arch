@@ -31,9 +31,9 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 440,
-                "left": -138,
-                "top": 422,
+                "page": 444,
+                "left": 13,
+                "top": 263,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       },
       {
         "id": "6cd60c4c660c125a",
@@ -273,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -427,17 +427,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ae51b62e7c1ea661",
+  "active": "95c0a501737eadc4",
   "lastOpenFiles": [
-    "math-concepts-every-scientist-should.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/network.md",
     "bookmarks/math_concepts_for_ds.md",
+    "math-concepts-every-scientist-should.pdf",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-    "bookmarks/network.md",
     "network-security-private-3rd.pdf",
     "bookmarks/english_grammar.md",
     "fundamentals-of-english-grammar.pdf",
-    "computer-networking-top-down-approach-9th.pdf",
     "probability/EvansRosenthalProbability.pdf",
     "bookmarks/progress.md",
     "little_book_of_generative_ai.pdf",

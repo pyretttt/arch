@@ -93,10 +93,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-                "page": 542,
-                "left": 37,
-                "top": 206,
-                "zoom": 1.701290620817615
+                "page": 543,
+                "left": 31,
+                "top": 548,
+                "zoom": 1.0064602708605521
               },
               "icon": "lucide-file-text",
               "title": "Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org)"
@@ -125,10 +125,10 @@
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 126,
-                "left": 60,
-                "top": 617,
-                "zoom": 1.8008207070707072
+                "page": 127,
+                "left": 53,
+                "top": 668,
+                "zoom": 1.0653409090909092
               },
               "icon": "lucide-file-text",
               "title": "network-security-private-3rd"
@@ -141,10 +141,10 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 176,
-                "left": 8,
-                "top": 81,
-                "zoom": 1
+                "page": 179,
+                "left": -4,
+                "top": 620,
+                "zoom": 0.9
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
@@ -157,9 +157,9 @@
               "type": "pdf",
               "state": {
                 "file": "math-concepts-every-scientist-should.pdf",
-                "page": 66,
-                "left": -90,
-                "top": 281,
+                "page": 75,
+                "left": 49,
+                "top": 431,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -431,13 +431,13 @@
   "lastOpenFiles": [
     "math-concepts-every-scientist-should.pdf",
     "bookmarks/math_concepts_for_ds.md",
-    "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/network.md",
+    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+    "bookmarks/network.md",
     "network-security-private-3rd.pdf",
     "bookmarks/english_grammar.md",
     "fundamentals-of-english-grammar.pdf",
-    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
+    "computer-networking-top-down-approach-9th.pdf",
     "probability/EvansRosenthalProbability.pdf",
     "bookmarks/progress.md",
     "little_book_of_generative_ai.pdf",

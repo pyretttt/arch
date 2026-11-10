@@ -1,1 +1,1 @@
-[[math-concepts-every-scientist-should.pdf#page=66&selection=127,0,127,37|Summarizing probability distributions]]
+[[math-concepts-every-scientist-should.pdf#page=75&selection=163,0,163,26|Non-linear transformations]]

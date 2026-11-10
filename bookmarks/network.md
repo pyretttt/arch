@@ -2,7 +2,7 @@
 
 # Cryptography
 ***
-[[network-security-private-3rd.pdf#page=126&selection=15,1,15,63|hash function inputs an arbitrary-sized bitstring and outputs]]
+[[network-security-private-3rd.pdf#page=127&selection=72,0,72,70|What can an attacker do if he can find two messages with the same hash]]
 
 
 ## 4-6-Homework

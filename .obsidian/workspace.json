@@ -141,10 +141,10 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 179,
-                "left": -4,
-                "top": 620,
-                "zoom": 0.9
+                "page": 184,
+                "left": -16,
+                "top": 636,
+                "zoom": 0.9462616822429907
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
@@ -158,16 +158,32 @@
               "state": {
                 "file": "math-concepts-every-scientist-should.pdf",
                 "page": 77,
-                "left": 40,
-                "top": 505,
+                "left": 63,
+                "top": 489,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
               "title": "math-concepts-every-scientist-should"
             }
+          },
+          {
+            "id": "f447503bedbac299",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "computer-networking-top-down-approach-9th.pdf",
+                "page": 448,
+                "left": -17,
+                "top": 12,
+                "zoom": 0.9039548022598871
+              },
+              "icon": "lucide-file-text",
+              "title": "computer-networking-top-down-approach-9th"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       },
       {
         "id": "6cd60c4c660c125a",
@@ -273,7 +289,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -427,17 +443,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ae51b62e7c1ea661",
+  "active": "95c0a501737eadc4",
   "lastOpenFiles": [
-    "math-concepts-every-scientist-should.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/network.md",
+    "fundamentals-of-english-grammar.pdf",
     "bookmarks/math_concepts_for_ds.md",
+    "math-concepts-every-scientist-should.pdf",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-    "bookmarks/network.md",
     "network-security-private-3rd.pdf",
     "bookmarks/english_grammar.md",
-    "fundamentals-of-english-grammar.pdf",
-    "computer-networking-top-down-approach-9th.pdf",
     "probability/EvansRosenthalProbability.pdf",
     "bookmarks/progress.md",
     "little_book_of_generative_ai.pdf",

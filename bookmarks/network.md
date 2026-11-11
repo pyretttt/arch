@@ -2,8 +2,7 @@
 
 # Cryptography
 ***
-[[network-security-private-3rd.pdf#page=127&selection=72,0,72,70|What can an attacker do if he can find two messages with the same hash]]
-
+[[network-security-private-3rd.pdf#page=129&selection=122,0,136,7|What does a “weakness” or “being broken” mean for hash algorithms? In an ideal n-bit hash algorithm, finding a collision should require 2n/2 operations. A weakness is an attack that could theoretically find collisions in less than 2n/2 operations. Being broken means publishing an actual collision.]]
 
 ## 4-6-Homework
 ***

@@ -1,1 +1,1 @@
-[[math-concepts-every-scientist-should.pdf#page=75&selection=163,0,163,26|Non-linear transformations]]
+[[math-concepts-every-scientist-should.pdf#page=77&selection=66,0,66,26|Combining random variables]]

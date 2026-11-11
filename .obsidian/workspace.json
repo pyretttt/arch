@@ -30,14 +30,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 444,
-                "left": 13,
-                "top": 263,
-                "zoom": 1.1
+                "file": "fundamentals-of-english-grammar.pdf",
+                "page": 184,
+                "left": -13,
+                "top": 632,
+                "zoom": 0.9462616822429908
               },
               "icon": "lucide-file-text",
-              "title": "computer-networking-top-down-approach-9th"
+              "title": "fundamentals-of-english-grammar"
             }
           },
           {
@@ -95,7 +95,7 @@
                 "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
                 "page": 543,
                 "left": 31,
-                "top": 548,
+                "top": 350,
                 "zoom": 1.0064602708605521
               },
               "icon": "lucide-file-text",
@@ -125,9 +125,9 @@
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 127,
+                "page": 129,
                 "left": 53,
-                "top": 668,
+                "top": 366,
                 "zoom": 1.0653409090909092
               },
               "icon": "lucide-file-text",
@@ -157,9 +157,9 @@
               "type": "pdf",
               "state": {
                 "file": "math-concepts-every-scientist-should.pdf",
-                "page": 75,
-                "left": 49,
-                "top": 431,
+                "page": 77,
+                "left": 40,
+                "top": 505,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       },
       {
         "id": "6cd60c4c660c125a",
@@ -273,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -427,17 +427,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "95c0a501737eadc4",
+  "active": "ae51b62e7c1ea661",
   "lastOpenFiles": [
-    "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/network.md",
-    "bookmarks/math_concepts_for_ds.md",
     "math-concepts-every-scientist-should.pdf",
+    "bookmarks/math_concepts_for_ds.md",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+    "bookmarks/network.md",
     "network-security-private-3rd.pdf",
     "bookmarks/english_grammar.md",
     "fundamentals-of-english-grammar.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
     "probability/EvansRosenthalProbability.pdf",
     "bookmarks/progress.md",
     "little_book_of_generative_ai.pdf",

@@ -1,4 +1,4 @@
-[[fundamentals-of-english-grammar.pdf#page=179&selection=76,0,86,38|Words that describe nouns are called adjocziver. In (a): good is an adjective; it describes the book]]
+[[fundamentals-of-english-grammar.pdf#page=184&selection=35,0,37,11|PERSONAL PRONOUNS: SUBJECTS AND OBJECTS]]
 
 
 **Answers**:

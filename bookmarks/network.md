@@ -1,8 +1,9 @@
-[[computer-networking-top-down-approach-9th.pdf#page=449&selection=70,0,84,9|Let’s conclude our discussion of Ethernet technology by posing a question that may have begun troubling you. In the days of bus topologies and hubbased star topologies, Ethernet was clearly a broadcast link (as defined in Section 6.3) in which frame collisions occurred when nodes transmitted at the same time. To deal with these collisions, the Ethernet standard included the CSMA/CD protocol, which is particularly effective for a wired broadcast LAN spanning a small geographical region. But if the prevalent use of Ethernet today is a switch-based star topology, using store-and-forward packet switching, is there really a need anymore for an Ethernet MAC protocol? As we’ll see shortly, a switch coordinates its transmissions and never forwards more than one frame onto the same interface at any time. Furthermore, modern switches are full-duplex, so that a switch and a node can each send frames to each other at the same time without interference. In other words, in a switch-based Ethernet LAN there are no collisions and, therefore, there is no need for a MAC protocol!]]
+[[computer-networking-top-down-approach-9th.pdf#page=451&selection=97,0,97,13|Self-Learning]]
+
 
 # Cryptography
 ***
-[[network-security-private-3rd.pdf#page=129&selection=122,0,136,7|What does a “weakness” or “being broken” mean for hash algorithms? In an ideal n-bit hash algorithm, finding a collision should require 2n/2 operations. A weakness is an attack that could theoretically find collisions in less than 2n/2 operations. Being broken means publishing an actual collision.]]
+[[network-security-private-3rd.pdf#page=135&selection=20,0,21,23|Surprisingly, if there is a shared secret, a hash algorithm can be used in all the ways that secret key block ciphers are used.]]
 
 ## 4-6-Homework
 ***

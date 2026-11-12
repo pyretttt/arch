@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 70.10309278350515,
+        "dimension": 66.18556701030927,
         "children": [
           {
             "id": "49ba2707c8e31b1c",
@@ -22,22 +22,6 @@
               },
               "icon": "lucide-file-text",
               "title": "A-First-Course-in-Probability"
-            }
-          },
-          {
-            "id": "d9ef6352e7c0df26",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "fundamentals-of-english-grammar.pdf",
-                "page": 186,
-                "left": -5,
-                "top": 399,
-                "zoom": 0.9462616822429908
-              },
-              "icon": "lucide-file-text",
-              "title": "fundamentals-of-english-grammar"
             }
           },
           {
@@ -93,10 +77,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-                "page": 543,
-                "left": 31,
-                "top": 350,
-                "zoom": 1.0064602708605521
+                "page": 544,
+                "left": 82,
+                "top": 741,
+                "zoom": 1.2
               },
               "icon": "lucide-file-text",
               "title": "Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org)"
@@ -125,10 +109,10 @@
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 129,
-                "left": 53,
-                "top": 366,
-                "zoom": 1.0653409090909092
+                "page": 134,
+                "left": 93,
+                "top": 146,
+                "zoom": 1.1
               },
               "icon": "lucide-file-text",
               "title": "network-security-private-3rd"
@@ -141,10 +125,10 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 184,
-                "left": -17,
-                "top": 313,
-                "zoom": 0.9462616822429905
+                "page": 188,
+                "left": 59,
+                "top": 20,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
@@ -157,9 +141,9 @@
               "type": "pdf",
               "state": {
                 "file": "math-concepts-every-scientist-should.pdf",
-                "page": 77,
-                "left": 63,
-                "top": 489,
+                "page": 85,
+                "left": 59,
+                "top": 636,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -173,22 +157,22 @@
               "type": "pdf",
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 448,
-                "left": -13,
-                "top": 24,
-                "zoom": 0.7556497175141242
+                "page": 451,
+                "left": -20,
+                "top": 591,
+                "zoom": 0.7556497175141244
               },
               "icon": "lucide-file-text",
               "title": "computer-networking-top-down-approach-9th"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 29.896907216494846,
+        "dimension": 33.81443298969072,
         "children": [
           {
             "id": "6672c9cca4388c32",
@@ -289,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -443,17 +427,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "373f8a784d3b3dcb",
+  "active": "95c0a501737eadc4",
   "lastOpenFiles": [
-    "fundamentals-of-english-grammar.pdf",
-    "bookmarks/english_grammar.md",
+    "network-security-private-3rd.pdf",
     "bookmarks/network.md",
+    "bookmarks/english_grammar.md",
+    "fundamentals-of-english-grammar.pdf",
     "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/math_concepts_for_ds.md",
     "math-concepts-every-scientist-should.pdf",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-    "network-security-private-3rd.pdf",
     "probability/EvansRosenthalProbability.pdf",
     "bookmarks/progress.md",
     "little_book_of_generative_ai.pdf",

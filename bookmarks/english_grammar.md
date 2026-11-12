@@ -1,5 +1,4 @@
-[[fundamentals-of-english-grammar.pdf#page=184&selection=35,0,37,11|PERSONAL PRONOUNS: SUBJECTS AND OBJECTS]]
-
+[[fundamentals-of-english-grammar.pdf#page=186&selection=69,0,69,16|POSSESSIVE NOUNS]]
 
 **Answers**:
-![[fundamentals-of-english-grammar.pdf#page=490&rect=282,43,522,585]]
+![[fundamentals-of-english-grammar.pdf#page=491&rect=19,39,268,329]]

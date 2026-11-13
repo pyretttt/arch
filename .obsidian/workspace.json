@@ -77,10 +77,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-                "page": 544,
-                "left": 82,
-                "top": 741,
-                "zoom": 1.2
+                "page": 553,
+                "left": 80,
+                "top": 492,
+                "zoom": 1.1
               },
               "icon": "lucide-file-text",
               "title": "Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org)"
@@ -93,9 +93,9 @@
               "type": "pdf",
               "state": {
                 "file": "probability/EvansRosenthalProbability.pdf",
-                "page": 637,
-                "left": -49,
-                "top": 700,
+                "page": 655,
+                "left": 77,
+                "top": 540,
                 "zoom": 1.25
               },
               "icon": "lucide-file-text",
@@ -110,9 +110,9 @@
               "state": {
                 "file": "network-security-private-3rd.pdf",
                 "page": 134,
-                "left": 93,
-                "top": 146,
-                "zoom": 1.1
+                "left": 51,
+                "top": 164,
+                "zoom": 0.8980429292929293
               },
               "icon": "lucide-file-text",
               "title": "network-security-private-3rd"
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "6cd60c4c660c125a",
@@ -332,8 +332,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.7734375,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -427,17 +426,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "95c0a501737eadc4",
+  "active": "f6793c86be5cd9eb",
   "lastOpenFiles": [
-    "network-security-private-3rd.pdf",
+    "probability/markovmixing.pdf",
+    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "bookmarks/network.md",
+    "network-security-private-3rd.pdf",
     "bookmarks/english_grammar.md",
     "fundamentals-of-english-grammar.pdf",
     "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/math_concepts_for_ds.md",
     "math-concepts-every-scientist-should.pdf",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
-    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "probability/EvansRosenthalProbability.pdf",
     "bookmarks/progress.md",
     "little_book_of_generative_ai.pdf",

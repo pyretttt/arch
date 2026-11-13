@@ -1,5 +1,6 @@
 {
   "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
-  "accentColor": "#f75240"
+  "accentColor": "#f75240",
+  "showRibbon": true
 }

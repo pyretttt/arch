@@ -1,4 +1,4 @@
-[[computer-networking-top-down-approach-9th.pdf#page=451&selection=97,0,97,13|Self-Learning]]
+[[computer-networking-top-down-approach-9th.pdf#page=455&selection=34,0,34,50|In our earlier discussion of Figure 6.15, we noted]]
 
 
 # Cryptography

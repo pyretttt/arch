@@ -1,1 +1,1 @@
-[[math-concepts-every-scientist-should.pdf#page=85&selection=3,0,3,27|Sampling from distributions]]
+[[math-concepts-every-scientist-should.pdf#page=92&selection=198,0,198,33|Consistency, bias, and efficiency]]

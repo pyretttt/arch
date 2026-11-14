@@ -1,4 +1,4 @@
-[[fundamentals-of-english-grammar.pdf#page=189&selection=33,0,37,10|POSSESSIVE PRONOUNS AND ADJECTIVES]]
+[[fundamentals-of-english-grammar.pdf#page=191&selection=11,1,13,23|saw mysogin the mirror.]]
 
 **Answers**:
-![[fundamentals-of-english-grammar.pdf#page=491&rect=19,39,268,329]]
+![[fundamentals-of-english-grammar.pdf#page=491&rect=268,50,519,469]]

@@ -1,1 +1,3 @@
-[[BDA3.pdf#page=11&selection=2,0,2,42|Part I: Fundamentals of Bayesian Inference]]
+Useful: https://sites.stat.columbia.edu/gelman/book/ and [notes](https://avehtari.github.io/BDA_course_Aalto/BDA3_notes.html#ch3)
+
+[[BDA3.pdf#page=16&selection=21,0,21,21|Bayesian statistical]]

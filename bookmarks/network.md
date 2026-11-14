@@ -1,5 +1,4 @@
-[[computer-networking-top-down-approach-9th.pdf#page=455&selection=34,0,34,50|In our earlier discussion of Figure 6.15, we noted]]
-
+[[computer-networking-top-down-approach-9th.pdf#page=458&selection=65,0,65,29|Because this chapter concerns]]
 
 # Cryptography
 ***

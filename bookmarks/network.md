@@ -1,9 +1,8 @@
-[[computer-networking-top-down-approach-9th.pdf#page=455&selection=34,0,34,50|In our earlier discussion of Figure 6.15, we noted]]
-
+[[computer-networking-top-down-approach-9th.pdf#page=465&selection=36,0,36,14|Load Balancing]]
 
 # Cryptography
 ***
-[[network-security-private-3rd.pdf#page=135&selection=20,0,21,23|Surprisingly, if there is a shared secret, a hash algorithm can be used in all the ways that secret key block ciphers are used.]]
+[[network-security-private-3rd.pdf#page=140&selection=47,0,47,24|Secret key block ciphers]]
 
 ## 4-6-Homework
 ***

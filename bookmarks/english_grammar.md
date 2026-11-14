@@ -1,4 +1,5 @@
-[[fundamentals-of-english-grammar.pdf#page=189&selection=33,0,37,10|POSSESSIVE PRONOUNS AND ADJECTIVES]]
+[[fundamentals-of-english-grammar.pdf#page=194&selection=120,0,120,44|There is a large bowl of apples on the table]]
+
 
 **Answers**:
-![[fundamentals-of-english-grammar.pdf#page=491&rect=19,39,268,329]]
+![[fundamentals-of-english-grammar.pdf#page=491&rect=268,50,519,469]]

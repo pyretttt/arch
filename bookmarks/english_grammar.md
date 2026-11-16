@@ -1,5 +1,5 @@
-[[fundamentals-of-english-grammar.pdf#page=194&selection=120,0,120,44|There is a large bowl of apples on the table]]
+[[fundamentals-of-english-grammar.pdf#page=199&selection=2,0,4,7|SUMMAKY OF FOKMS OF CXl'HEK]]
 
 
 **Answers**:
-![[fundamentals-of-english-grammar.pdf#page=491&rect=268,50,519,469]]
+![[fundamentals-of-english-grammar.pdf#page=492&rect=38,361,280,686]]

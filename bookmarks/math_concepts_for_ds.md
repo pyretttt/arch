@@ -1,1 +1,1 @@
-[[math-concepts-every-scientist-should.pdf#page=106&selection=11,0,13,52|Computational estimation of a PDF from data]]
+[[math-concepts-every-scientist-should.pdf#page=110&selection=60,0,60,9|Exercises]]

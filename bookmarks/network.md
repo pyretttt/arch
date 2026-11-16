@@ -1,8 +1,8 @@
-[[computer-networking-top-down-approach-9th.pdf#page=465&selection=36,0,36,14|Load Balancing]]
+[[computer-networking-top-down-approach-9th.pdf#page=471&selection=46,0,46,53|Now that we’ve covered the link layer in this chapter]]
 
 # Cryptography
 ***
-[[network-security-private-3rd.pdf#page=140&selection=47,0,47,24|Secret key block ciphers]]
+[[network-security-private-3rd.pdf#page=141&selection=50,0,50,46|A hash algorithm using this construction keeps]]
 
 ## 4-6-Homework
 ***

@@ -109,10 +109,10 @@
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 141,
+                "page": 143,
                 "left": 53,
-                "top": 648,
-                "zoom": 1.013257575757576
+                "top": 701,
+                "zoom": 1.065340909090909
               },
               "icon": "lucide-file-text",
               "title": "network-security-private-3rd"
@@ -125,10 +125,10 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 200,
-                "left": 8,
-                "top": 537,
-                "zoom": 0.9
+                "page": 201,
+                "left": -23,
+                "top": 86,
+                "zoom": 0.9255027422303475
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       },
       {
         "id": "6cd60c4c660c125a",
@@ -231,20 +231,6 @@
             }
           },
           {
-            "id": "373f8a784d3b3dcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bookmarks/english_grammar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "english_grammar"
-            }
-          },
-          {
             "id": "95c0a501737eadc4",
             "type": "leaf",
             "state": {
@@ -285,9 +271,23 @@
               "icon": "lucide-file",
               "title": "math_concepts_for_ds"
             }
+          },
+          {
+            "id": "13c47d4fd354ef25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/english_grammar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "english_grammar"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -443,15 +443,16 @@
   },
   "active": "95c0a501737eadc4",
   "lastOpenFiles": [
-    "computer-networking-top-down-approach-9th.pdf",
+    "network-security-private-3rd.pdf",
     "bookmarks/network.md",
+    "bookmarks/english_grammar.md",
+    "fundamentals-of-english-grammar.pdf",
+    "bookmarks/probability/linear_algebra_math.md",
+    "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/probability/bda3.md",
     "probability/BDA3.pdf",
     "bookmarks/math_concepts_for_ds.md",
     "math-concepts-every-scientist-should.pdf",
-    "network-security-private-3rd.pdf",
-    "bookmarks/english_grammar.md",
-    "fundamentals-of-english-grammar.pdf",
     "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "probability/EvansRosenthalProbability.pdf",
     "probability/markovmixing.pdf",
@@ -462,7 +463,6 @@
     "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "Untitled 1.md",
-    "bookmarks/probability/linear_algebra_math.md",
     "bookmarks/k8s_book.md",
     "bookmarks/cv/cv_algorithms_and_applications.md",
     "bookmarks/db/the_art_of_postgresql.md",

@@ -2,7 +2,8 @@
 
 # Cryptography
 ***
-[[network-security-private-3rd.pdf#page=141&selection=50,0,50,46|A hash algorithm using this construction keeps]]
+[[network-security-private-3rd.pdf#page=143&selection=42,0,43,5|SHA-3 is based on KECCAK]]
+
 
 ## 4-6-Homework
 ***

@@ -1,5 +1,4 @@
-[[computer-networking-top-down-approach-9th.pdf#page=471&selection=46,0,46,53|Now that we’ve covered the link layer in this chapter]]
-
+[[computer-networking-top-down-approach-9th.pdf#page=473&selection=9,0,10,41|The router receives the broadcast Ethernet frame containing the DHCP request on its interface with MAC address]]
 # Cryptography
 ***
 [[network-security-private-3rd.pdf#page=143&selection=42,0,43,5|SHA-3 is based on KECCAK]]

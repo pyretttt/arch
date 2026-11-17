@@ -44,14 +44,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "probability/BDA3.pdf",
-                "page": 21,
-                "left": 79,
-                "top": 359,
-                "zoom": 1.2
+                "file": "asynchronous-programming-cpp-multithreading.pdf",
+                "page": 1,
+                "left": -23,
+                "top": 675,
+                "zoom": 0.48472222222222233
               },
               "icon": "lucide-file-text",
-              "title": "BDA3"
+              "title": "asynchronous-programming-cpp-multithreading"
             }
           },
           {
@@ -141,9 +141,9 @@
               "type": "pdf",
               "state": {
                 "file": "math-concepts-every-scientist-should.pdf",
-                "page": 110,
-                "left": 62,
-                "top": 247,
+                "page": 111,
+                "left": 53,
+                "top": 409,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "6cd60c4c660c125a",
@@ -287,7 +287,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -346,8 +346,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6835bb1ade82e76c",
@@ -441,25 +440,26 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "95c0a501737eadc4",
+  "active": "f6793c86be5cd9eb",
   "lastOpenFiles": [
-    "network-security-private-3rd.pdf",
+    "decision_theory/downloadme.asp.pdf",
+    "decision_theory/downloadme-2.asp.pdf",
+    "decision_theory/DM_book.pdf",
+    "decision_theory/[Giovanni_Parmigiani,_Lurdes_Inoue]_Decision_Theor(libcats.org).pdf",
+    "decision_theory",
+    "probability/BDA3.pdf",
+    "bookmarks/probability/bda3.md",
+    "math-concepts-every-scientist-should.pdf",
     "bookmarks/network.md",
+    "network-security-private-3rd.pdf",
     "bookmarks/english_grammar.md",
     "fundamentals-of-english-grammar.pdf",
     "bookmarks/probability/linear_algebra_math.md",
     "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/probability/bda3.md",
-    "probability/BDA3.pdf",
     "bookmarks/math_concepts_for_ds.md",
-    "math-concepts-every-scientist-should.pdf",
     "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-    "probability/EvansRosenthalProbability.pdf",
-    "probability/markovmixing.pdf",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "bookmarks/progress.md",
-    "little_book_of_generative_ai.pdf",
-    "probability/little_book_of_generative_ai.pdf",
     "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "Untitled 1.md",

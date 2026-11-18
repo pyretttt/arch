@@ -1,5 +1,4 @@
-[[fundamentals-of-english-grammar.pdf#page=202&selection=2,0,4,11|Modal Auxiliaries]]
-
+[[fundamentals-of-english-grammar.pdf#page=206&selection=2,0,16,3|EXPRESSING POSSIBILITY: MAY AND MIGHT EXPRESSING PERMISSION: MAY AND CAN]]
 
 **Answers**:
-![[fundamentals-of-english-grammar.pdf#page=492&rect=42,49,273,358]]
+![[fundamentals-of-english-grammar.pdf#page=492&rect=287,46,527,525]]

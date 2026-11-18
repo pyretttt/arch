@@ -109,10 +109,10 @@
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 143,
-                "left": 53,
-                "top": 701,
-                "zoom": 1.065340909090909
+                "page": 155,
+                "left": 52,
+                "top": 257,
+                "zoom": 1.0132575757575757
               },
               "icon": "lucide-file-text",
               "title": "network-security-private-3rd"
@@ -125,10 +125,10 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 201,
-                "left": -23,
-                "top": 86,
-                "zoom": 0.9255027422303475
+                "page": 205,
+                "left": 31,
+                "top": 145,
+                "zoom": 0.9000000000000001
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
@@ -141,9 +141,9 @@
               "type": "pdf",
               "state": {
                 "file": "math-concepts-every-scientist-should.pdf",
-                "page": 111,
-                "left": 53,
-                "top": 409,
+                "page": 110,
+                "left": 5,
+                "top": 670,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -159,7 +159,7 @@
                 "file": "computer-networking-top-down-approach-9th.pdf",
                 "page": 472,
                 "left": 53,
-                "top": 58,
+                "top": 129,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       },
       {
         "id": "6cd60c4c660c125a",
@@ -287,7 +287,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -441,10 +441,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "95c0a501737eadc4",
+  "active": "ae51b62e7c1ea661",
   "lastOpenFiles": [
-    "computer-networking-top-down-approach-9th.pdf",
+    "math-concepts-every-scientist-should.pdf",
     "bookmarks/network.md",
+    "network-security-private-3rd.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/english_grammar.md",
+    "fundamentals-of-english-grammar.pdf",
     "bookmarks/probability/bda3.md",
     "probability/BDA3.pdf",
     "asynchronous-programming-cpp-multithreading.pdf",
@@ -453,9 +457,6 @@
     "decision_theory/DM_book.pdf",
     "decision_theory/[Giovanni_Parmigiani,_Lurdes_Inoue]_Decision_Theor(libcats.org).pdf",
     "decision_theory",
-    "math-concepts-every-scientist-should.pdf",
-    "network-security-private-3rd.pdf",
-    "bookmarks/english_grammar.md",
     "bookmarks/probability/linear_algebra_math.md",
     "bookmarks/math_concepts_for_ds.md",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",

@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 66.86274509803921,
+        "dimension": 74.14634146341463,
         "children": [
           {
             "id": "49ba2707c8e31b1c",
@@ -141,9 +141,9 @@
               "type": "pdf",
               "state": {
                 "file": "math-concepts-every-scientist-should.pdf",
-                "page": 110,
-                "left": 5,
-                "top": 670,
+                "page": 111,
+                "left": 79,
+                "top": 549,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -158,8 +158,8 @@
               "state": {
                 "file": "computer-networking-top-down-approach-9th.pdf",
                 "page": 472,
-                "left": 53,
-                "top": 129,
+                "left": 25,
+                "top": 174,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -167,12 +167,12 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 33.13725490196078,
+        "dimension": 25.853658536585368,
         "children": [
           {
             "id": "6672c9cca4388c32",
@@ -287,7 +287,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -441,12 +441,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ae51b62e7c1ea661",
+  "active": "95c0a501737eadc4",
   "lastOpenFiles": [
+    "computer-networking-top-down-approach-9th.pdf",
+    "bookmarks/math_concepts_for_ds.md",
     "math-concepts-every-scientist-should.pdf",
     "bookmarks/network.md",
     "network-security-private-3rd.pdf",
-    "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/english_grammar.md",
     "fundamentals-of-english-grammar.pdf",
     "bookmarks/probability/bda3.md",
@@ -456,9 +457,7 @@
     "decision_theory/downloadme-2.asp.pdf",
     "decision_theory/DM_book.pdf",
     "decision_theory/[Giovanni_Parmigiani,_Lurdes_Inoue]_Decision_Theor(libcats.org).pdf",
-    "decision_theory",
     "bookmarks/probability/linear_algebra_math.md",
-    "bookmarks/math_concepts_for_ds.md",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "bookmarks/progress.md",
     "bookmarks/db/postgresql_up_and_running.md",

@@ -1,4 +1,5 @@
-[[fundamentals-of-english-grammar.pdf#page=206&selection=2,0,16,3|EXPRESSING POSSIBILITY: MAY AND MIGHT EXPRESSING PERMISSION: MAY AND CAN]]
+[[fundamentals-of-english-grammar.pdf#page=219&selection=71,9,83,4|S S I N G NECESSITY: HAVE TO, HAVE GOT TO, 1 MUST]]
+
 
 **Answers**:
-![[fundamentals-of-english-grammar.pdf#page=492&rect=287,46,527,525]]
+![[fundamentals-of-english-grammar.pdf#page=493&rect=12,195,266,678]]

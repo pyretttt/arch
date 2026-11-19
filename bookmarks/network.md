@@ -1,8 +1,8 @@
 [[computer-networking-top-down-approach-9th.pdf#page=473&selection=9,0,10,41|The router receives the broadcast Ethernet frame containing the DHCP request on its interface with MAC address]]
+
 # Cryptography
 ***
-[[network-security-private-3rd.pdf#page=143&selection=42,0,43,5|SHA-3 is based on KECCAK]]
-
+[[network-security-private-3rd.pdf#page=147&selection=45,0,45,59|SHA-3 and SHAKE do padding differently than earlier hashes.]]
 
 ## 4-6-Homework
 ***

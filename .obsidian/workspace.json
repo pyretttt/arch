@@ -61,10 +61,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/BDA3.pdf",
-                "page": 18,
-                "left": 36,
-                "top": 376,
-                "zoom": 1.5833333333333333
+                "page": 33,
+                "left": 86,
+                "top": 337,
+                "zoom": 1.4
               },
               "icon": "lucide-file-text",
               "title": "BDA3"
@@ -94,9 +94,9 @@
               "state": {
                 "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
                 "page": 542,
-                "left": 38,
-                "top": 566,
-                "zoom": 1.9264395110397536
+                "left": 33,
+                "top": 724,
+                "zoom": 1.2375733700951974
               },
               "icon": "lucide-file-text",
               "title": "Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org)"
@@ -141,9 +141,9 @@
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 147,
+                "page": 151,
                 "left": 8,
-                "top": 590,
+                "top": 515,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -173,9 +173,9 @@
               "type": "pdf",
               "state": {
                 "file": "math-concepts-every-scientist-should.pdf",
-                "page": 106,
-                "left": -39,
-                "top": 338,
+                "page": 128,
+                "left": 5,
+                "top": 347,
                 "zoom": 1.3
               },
               "icon": "lucide-file-text",
@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       },
       {
         "id": "6cd60c4c660c125a",
@@ -275,7 +275,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -429,22 +429,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9fb98161d8ea7b12",
+  "active": "279adca71b2cb991",
   "lastOpenFiles": [
-    "bookmarks/network.md",
+    "probability/BDA3.pdf",
+    "bookmarks/probability/bda3.md",
+    "bookmarks/math_concepts_for_ds.md",
+    "math-concepts-every-scientist-should.pdf",
+    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "network-security-private-3rd.pdf",
+    "bookmarks/network.md",
     "bookmarks/english_grammar.md",
     "fundamentals-of-english-grammar.pdf",
-    "bookmarks/probability/bda3.md",
     "decision_theory/[Giovanni_Parmigiani,_Lurdes_Inoue]_Decision_Theor(libcats.org).pdf",
     "decision_theory/DM_book.pdf",
     "decision_theory/downloadme-2.asp.pdf",
     "decision_theory/downloadme.asp.pdf",
     "decision_theory",
-    "computer-networking-top-down-approach-9th.pdf",
-    "bookmarks/math_concepts_for_ds.md",
-    "math-concepts-every-scientist-should.pdf",
-    "probability/BDA3.pdf",
     "bookmarks/progress.md",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
     "bookmarks/probability/linear_algebra_math.md",

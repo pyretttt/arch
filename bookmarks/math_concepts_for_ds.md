@@ -1,1 +1,1 @@
-[[math-concepts-every-scientist-should.pdf#page=120&selection=107,0,107,44|The outer product as a matrix multiplication]]
+[[math-concepts-every-scientist-should.pdf#page=128&selection=34,0,34,21|Matrix decompositions]]

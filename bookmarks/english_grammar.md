@@ -1,4 +1,4 @@
-[[fundamentals-of-english-grammar.pdf#page=219&selection=71,9,83,4|S S I N G NECESSITY: HAVE TO, HAVE GOT TO, 1 MUST]]
+[[fundamentals-of-english-grammar.pdf#page=226&selection=2,0,11,1|Imperative sentences are used to give]]
 
 
 **Answers**:

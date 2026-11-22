@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 81.30841121495327,
+        "dimension": 78.57142857142857,
         "children": [
           {
             "id": "49ba2707c8e31b1c",
@@ -15,29 +15,13 @@
               "type": "pdf",
               "state": {
                 "file": "probability/A-First-Course-in-Probability.pdf",
-                "page": 265,
-                "left": -1,
-                "top": 603,
-                "zoom": 1.7569626685377095
+                "page": 267,
+                "left": -2,
+                "top": 223,
+                "zoom": 1.5516210563479307
               },
               "icon": "lucide-file-text",
               "title": "A-First-Course-in-Probability"
-            }
-          },
-          {
-            "id": "d9ef6352e7c0df26",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "computer-networking-top-down-approach-9th.pdf",
-                "page": 465,
-                "left": 31,
-                "top": 398,
-                "zoom": 1.1
-              },
-              "icon": "lucide-file-text",
-              "title": "computer-networking-top-down-approach-9th"
             }
           },
           {
@@ -61,10 +45,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/BDA3.pdf",
-                "page": 33,
-                "left": 86,
-                "top": 337,
-                "zoom": 1.4
+                "page": 37,
+                "left": -108,
+                "top": 617,
+                "zoom": 1.2
               },
               "icon": "lucide-file-text",
               "title": "BDA3"
@@ -77,9 +61,9 @@
               "type": "pdf",
               "state": {
                 "file": "linux-networking-professionals-enterprise.pdf",
-                "page": 515,
+                "page": 518,
                 "left": 5,
-                "top": 568,
+                "top": 345,
                 "zoom": 2.3
               },
               "icon": "lucide-file-text",
@@ -93,10 +77,10 @@
               "type": "pdf",
               "state": {
                 "file": "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-                "page": 542,
-                "left": 33,
-                "top": 724,
-                "zoom": 1.2375733700951974
+                "page": 553,
+                "left": 80,
+                "top": 492,
+                "zoom": 1.1
               },
               "icon": "lucide-file-text",
               "title": "Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org)"
@@ -109,86 +93,86 @@
               "type": "pdf",
               "state": {
                 "file": "probability/EvansRosenthalProbability.pdf",
-                "page": 1,
-                "left": -10,
-                "top": 796,
-                "zoom": 1.5833333333333333
+                "page": 655,
+                "left": 26,
+                "top": 540,
+                "zoom": 1.25
               },
               "icon": "lucide-file-text",
               "title": "EvansRosenthalProbability"
             }
           },
           {
-            "id": "9d170d5fb835bd94",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "serious-cryptography-practical-2nd.pdf",
-                "page": 215,
-                "left": -8,
-                "top": 4,
-                "zoom": 1.9226190476190474
-              },
-              "icon": "lucide-file-text",
-              "title": "serious-cryptography-practical-2nd"
-            }
-          },
-          {
-            "id": "9fb98161d8ea7b12",
+            "id": "5f40b5fc5357a0a0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 151,
-                "left": 8,
-                "top": 515,
-                "zoom": 1.1
+                "page": 153,
+                "left": 60,
+                "top": 520,
+                "zoom": 2.024936868686869
               },
               "icon": "lucide-file-text",
               "title": "network-security-private-3rd"
             }
           },
           {
-            "id": "114794b459feb502",
+            "id": "6bfb8395f541cad0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 218,
-                "left": -24,
-                "top": 120,
-                "zoom": 0.7513863216266173
+                "page": 225,
+                "left": -19,
+                "top": 336,
+                "zoom": 0.8467289719626169
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
             }
           },
           {
-            "id": "1ca21145626e6caf",
+            "id": "8bc64eb2f09f8032",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "math-concepts-every-scientist-should.pdf",
-                "page": 128,
-                "left": 5,
-                "top": 347,
-                "zoom": 1.3
+                "page": 136,
+                "left": -135,
+                "top": 371,
+                "zoom": 1.2
               },
               "icon": "lucide-file-text",
               "title": "math-concepts-every-scientist-should"
             }
+          },
+          {
+            "id": "f447503bedbac299",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "computer-networking-top-down-approach-9th.pdf",
+                "page": 478,
+                "left": -18,
+                "top": 248,
+                "zoom": 1.1
+              },
+              "icon": "lucide-file-text",
+              "title": "computer-networking-top-down-approach-9th"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 18.69158878504673,
+        "dimension": 21.428571428571427,
         "children": [
           {
             "id": "6672c9cca4388c32",
@@ -205,31 +189,31 @@
             }
           },
           {
-            "id": "88c51b963162dd6b",
+            "id": "aa9b053c5c0097fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bookmarks/network.md",
+                "file": "bookmarks/probability/linear_algebra_math.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "network"
+              "title": "linear_algebra_math"
             }
           },
           {
-            "id": "991e604962e80dbf",
+            "id": "f249b960d50edb7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bookmarks/english_grammar.md",
+                "file": "bookmarks/db/postgresql_up_and_running.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "english_grammar"
+              "title": "postgresql_up_and_running"
             }
           },
           {
@@ -247,7 +231,35 @@
             }
           },
           {
-            "id": "b22365260c6de31f",
+            "id": "95c0a501737eadc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "network"
+            }
+          },
+          {
+            "id": "1c62e5507ba9daac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bookmarks/probability/bda3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bda3"
+            }
+          },
+          {
+            "id": "ae51b62e7c1ea661",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -261,17 +273,17 @@
             }
           },
           {
-            "id": "279adca71b2cb991",
+            "id": "13c47d4fd354ef25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bookmarks/probability/bda3.md",
+                "file": "bookmarks/english_grammar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bda3"
+              "title": "english_grammar"
             }
           }
         ],
@@ -334,7 +346,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.39453125,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -429,25 +441,25 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "279adca71b2cb991",
+  "active": "1c62e5507ba9daac",
   "lastOpenFiles": [
     "probability/BDA3.pdf",
     "bookmarks/probability/bda3.md",
     "bookmarks/math_concepts_for_ds.md",
     "math-concepts-every-scientist-should.pdf",
-    "probability/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-    "network-security-private-3rd.pdf",
     "bookmarks/network.md",
+    "network-security-private-3rd.pdf",
     "bookmarks/english_grammar.md",
     "fundamentals-of-english-grammar.pdf",
-    "decision_theory/[Giovanni_Parmigiani,_Lurdes_Inoue]_Decision_Theor(libcats.org).pdf",
-    "decision_theory/DM_book.pdf",
-    "decision_theory/downloadme-2.asp.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
+    "asynchronous-programming-cpp-multithreading.pdf",
     "decision_theory/downloadme.asp.pdf",
-    "decision_theory",
-    "bookmarks/progress.md",
-    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
+    "decision_theory/downloadme-2.asp.pdf",
+    "decision_theory/DM_book.pdf",
+    "decision_theory/[Giovanni_Parmigiani,_Lurdes_Inoue]_Decision_Theor(libcats.org).pdf",
     "bookmarks/probability/linear_algebra_math.md",
+    "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",
+    "bookmarks/progress.md",
     "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/probability/shaum_probability_and_stats.md",
     "Untitled 1.md",

@@ -2,7 +2,7 @@
 
 # Cryptography
 ***
-[[network-security-private-3rd.pdf#page=147&selection=45,0,45,59|SHA-3 and SHAKE do padding differently than earlier hashes.]]
+[[network-security-private-3rd.pdf#page=153&selection=16,0,16,31|Draw the Merkle tree associated]]
 
 ## 4-6-Homework
 ***
@@ -175,3 +175,33 @@ Written cleanly, with the intermediate values:
 - **m5 = D_K(c5) ⊕ c4**
 
 **Verification.** With this m5, E_K(m5 ⊕ c4) = E_K(D_K(c5)) = c5. Then c6 = E_K(m6 ⊕ c5) = E_K(D_K(c6)) = c6 as constructed. Similarly c7 follows, and c8 = E_K(m8 ⊕ c7) = E_K(D_K(0)) = 0. So the MAC is 0.
+
+## 5.10-Homework
+***
+1. [[network-security-private-3rd.pdf#page=153&selection=16,0,39,53|Draw the Merkle tree associated with a file containing eight data blocks (b1 ,b2 ,…,b8). Which items do you need to know in order to verify that b3 has not been modified? If you need to modify b3 , which items in the Merkle tree need to be modified?]]
+
+```
+          b12345678
+     b1234          b5678
+  b12     b34     b56     b78
+b1   b2  b3  b4  b5  b6  b7  b8
+```
+
+$b_{12}, b_{5678}$ and $b_{4}$ then we compute $b_{34}$ and $b_{1234}$ and compute root. 
+
+To modify $b_{3}$ we need to update $b_{34}, b_{1234}, b_{12345678}$
+
+2. [[network-security-private-3rd.pdf#page=153&selection=42,0,44,32|Suppose Alice and Bob want to play Rock Paper Scissors Lizard Spock]]
+
+The same as bit commitment, Alice picks some number $R$ which $R \space mod \space 5 = n$, where $n$ is her pick. Then it sends $hash(R)$ to Bob, Bob reveals his choice. Then Alice sends him an $R$ and he verifies what Alice chosen.
+
+Alternative she can encrypt her choice with secret key and send ciphertext to Bob. Bob then reveals his choice and Alice sends secret key to him to decrypt her choice. It is very unlikely that Alice will be able to pick such keys that decrypt to different choice of 5 variants.
+
+3. [[network-security-private-3rd.pdf#page=153&selection=52,0,53,5|Why do SHA-1 and SHA-2 require padding for messages that are already a multiple of 512 bits?]]
+
+They require padding even for messages with integral blocks. Because they embed message length it's not possible to abuse Merkle-Damgard structure. 
+
+Then if attacker finds intermediate hash, then it won't be able to chain it to the other hashes, as soon as length of message will differ.
+
+4. [[network-security-private-3rd.pdf#page=153&selection=56,0,63,91|Open-ended project: Implement one or more of the hash algorithms and test how “random” the output appears. For example, test the percentage of 1 bits in the output or test how many bits of output change with minor changes in the input. Also, design various simplifications of the hash functions (such as reducing the number of rounds) and see how these change things.]]
+

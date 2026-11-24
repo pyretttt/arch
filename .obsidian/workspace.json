@@ -6,7 +6,7 @@
       {
         "id": "1190ad3da5054f47",
         "type": "tabs",
-        "dimension": 78.57142857142857,
+        "dimension": 75.60975609756098,
         "children": [
           {
             "id": "49ba2707c8e31b1c",
@@ -46,8 +46,8 @@
               "state": {
                 "file": "probability/BDA3.pdf",
                 "page": 37,
-                "left": -108,
-                "top": 617,
+                "left": 65,
+                "top": 521,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -110,9 +110,9 @@
               "state": {
                 "file": "network-security-private-3rd.pdf",
                 "page": 153,
-                "left": 60,
-                "top": 520,
-                "zoom": 2.024936868686869
+                "left": 55,
+                "top": 471,
+                "zoom": 1.2136994949494948
               },
               "icon": "lucide-file-text",
               "title": "network-security-private-3rd"
@@ -125,10 +125,10 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 225,
-                "left": -19,
-                "top": 336,
-                "zoom": 0.8467289719626169
+                "page": 231,
+                "left": 24,
+                "top": 382,
+                "zoom": 1.0660813308687618
               },
               "icon": "lucide-file-text",
               "title": "fundamentals-of-english-grammar"
@@ -141,9 +141,9 @@
               "type": "pdf",
               "state": {
                 "file": "math-concepts-every-scientist-should.pdf",
-                "page": 136,
-                "left": -135,
-                "top": 371,
+                "page": 141,
+                "left": 5,
+                "top": 467,
                 "zoom": 1.2
               },
               "icon": "lucide-file-text",
@@ -172,7 +172,7 @@
       {
         "id": "6cd60c4c660c125a",
         "type": "tabs",
-        "dimension": 21.428571428571427,
+        "dimension": 24.390243902439025,
         "children": [
           {
             "id": "6672c9cca4388c32",
@@ -441,10 +441,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1c62e5507ba9daac",
+  "active": "4316af50afa7ddce",
   "lastOpenFiles": [
-    "probability/BDA3.pdf",
     "bookmarks/probability/bda3.md",
+    "probability/BDA3.pdf",
     "bookmarks/math_concepts_for_ds.md",
     "math-concepts-every-scientist-should.pdf",
     "bookmarks/network.md",

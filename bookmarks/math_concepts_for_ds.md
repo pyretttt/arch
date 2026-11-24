@@ -1,1 +1,1 @@
-[[math-concepts-every-scientist-should.pdf#page=136&selection=100,0,100,16|SVD code example]]
+[[math-concepts-every-scientist-should.pdf#page=141&selection=57,0,57,28|Principal component analysis]]

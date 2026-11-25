@@ -1,5 +1,4 @@
-[[fundamentals-of-english-grammar.pdf#page=231&selection=126,0,138,6|STATING PREFERENCES: PREFER, L I K E . . .BETTER, WOULD RATHER]]
-
+[[fundamentals-of-english-grammar.pdf#page=243&selection=8,0,16,5|CONNECTING IDEAS WITH SO]]
 
 **Answers**:
-![[fundamentals-of-english-grammar.pdf#page=493&rect=12,195,266,678]]
+![[fundamentals-of-english-grammar.pdf#page=494&rect=287,46,530,377]]

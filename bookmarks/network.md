@@ -205,3 +205,11 @@ Then if attacker finds intermediate hash, then it won't be able to chain it to t
 
 4. [[network-security-private-3rd.pdf#page=153&selection=56,0,63,91|Open-ended project: Implement one or more of the hash algorithms and test how “random” the output appears. For example, test the percentage of 1 bits in the output or test how many bits of output change with minor changes in the input. Also, design various simplifications of the hash functions (such as reducing the number of rounds) and see how these change things.]]
 
+md5 hash change by one bit:
+
+```
+msg: [1100010], hash: 92eb5ffee6ae2fec3ad71c777531578f
+msg: [1100011], hash: 4a8a08f09d37b73795649038408b5f33
+```
+
+all bits are changed

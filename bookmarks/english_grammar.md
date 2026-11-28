@@ -1,4 +1,4 @@
-[[fundamentals-of-english-grammar.pdf#page=243&selection=8,0,16,5|CONNECTING IDEAS WITH SO]]
+[[fundamentals-of-english-grammar.pdf#page=246&selection=3,0,9,3|USING AUXILIARY VERBS AFTER BUT AND AND]]
 
 **Answers**:
-![[fundamentals-of-english-grammar.pdf#page=494&rect=287,46,530,377]]
+![[fundamentals-of-english-grammar.pdf#page=495&rect=16,59,261,418]]

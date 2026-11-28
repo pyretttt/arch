@@ -126,9 +126,9 @@
               "state": {
                 "file": "serious-cryptography-practical-2nd.pdf",
                 "page": 3,
-                "left": -8,
-                "top": 627,
-                "zoom": 1.922619047619048
+                "left": -14,
+                "top": 631,
+                "zoom": 1.0907738095238098
               },
               "icon": "lucide-file-text",
               "title": "serious-cryptography-practical-2nd"
@@ -141,9 +141,9 @@
               "type": "pdf",
               "state": {
                 "file": "network-security-private-3rd.pdf",
-                "page": 79,
-                "left": -149,
-                "top": 626,
+                "page": 156,
+                "left": 41,
+                "top": 674,
                 "zoom": 1.1
               },
               "icon": "lucide-file-text",
@@ -157,9 +157,9 @@
               "type": "pdf",
               "state": {
                 "file": "fundamentals-of-english-grammar.pdf",
-                "page": 242,
-                "left": -14,
-                "top": 68,
+                "page": 245,
+                "left": -18,
+                "top": 208,
                 "zoom": 1
               },
               "icon": "lucide-file-text",
@@ -417,8 +417,10 @@
   "lastOpenFiles": [
     "fundamentals-of-english-grammar.pdf",
     "bookmarks/english_grammar.md",
-    "computer-networking-top-down-approach-9th.pdf",
     "bookmarks/network.md",
+    "network-security-private-3rd.pdf",
+    "serious-cryptography-practical-2nd.pdf",
+    "computer-networking-top-down-approach-9th.pdf",
     "decision_theory/DM_book.pdf",
     "decision_theory/[Giovanni_Parmigiani,_Lurdes_Inoue]_Decision_Theor(libcats.org).pdf",
     "decision_theory/downloadme-2.asp.pdf",
@@ -426,9 +428,7 @@
     "decision_theory",
     "probability/markovmixing.pdf",
     "bookmarks/probability/bda3.md",
-    "little_book_of_generative_ai.pdf",
     "bookmarks/math_concepts_for_ds.md",
-    "ospf.pdf",
     "bookmarks/progress.md",
     "bookmarks/db/postgresql_up_and_running.md",
     "bookmarks/probability/intro_to_probability_by_joseph_blitzstein.md",

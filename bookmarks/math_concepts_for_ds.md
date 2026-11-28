@@ -1,1 +1,1 @@
-[[math-concepts-every-scientist-should.pdf#page=147&selection=105,0,105,15|PCA via the SVD]]
+[[math-concepts-every-scientist-should.pdf#page=153&selection=17,0,17,33|Non-negative matrix factorization]]

@@ -1,5 +1,4 @@
-[[computer-networking-top-down-approach-9th.pdf#page=473&selection=9,0,10,41|The router receives the broadcast Ethernet frame containing the DHCP request on its interface with MAC address]]
-
+[[computer-networking-top-down-approach-9th.pdf#page=517&selection=10,0,12,74|Dealing with Hidden Terminals: RTS and CTS]]
 # Cryptography
 ***
 [[network-security-private-3rd.pdf#page=153&selection=16,0,16,31|Draw the Merkle tree associated]]
